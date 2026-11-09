@@ -146,6 +146,16 @@
       "sha256": "ce59e3f73a727cecd22c22e7c7bbaa5caeb0cfe72dd92f347046c8b5b65d8e42"
     },
     {
+      "path": "models/anomalies-v31/blender/Kontur_Printer_v31.blend",
+      "bytes": 8234690,
+      "sha256": "a516570b354076ed189188e4bd889c6715316ca4917a8f2fe3712e40249f1a93"
+    },
+    {
+      "path": "models/anomalies-v31/blender/Printer_Check.json",
+      "bytes": 60,
+      "sha256": "69cbeb8ccd32a8333072f6c1562939daf7a12233466d0f243571ed7e76653308"
+    },
+    {
       "path": "models/ceiling-worker-v18/01_first_clue.png",
       "bytes": 1101670,
       "sha256": "e5f31a87101400f394b4ddbc69196ee9fa0f7fde555aa967baee5fbb652294c2"
