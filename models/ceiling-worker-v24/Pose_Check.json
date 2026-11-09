@@ -1,0 +1,251 @@
+{
+  "plannedContacts": [
+    {
+      "finger": "Index.L",
+      "key": "Keyboard key.023",
+      "hover_mm": 7.147916126996279,
+      "contact_mm": 0.17393665388226515,
+      "press_angle_deg": 11.172677005051051
+    },
+    {
+      "finger": "Middle.L",
+      "key": "Keyboard key.009",
+      "hover_mm": 6.9197495467960835,
+      "contact_mm": -0.16795558854937548,
+      "press_angle_deg": 11.917522138721123
+    },
+    {
+      "finger": "Ring.L",
+      "key": "Keyboard key.010",
+      "hover_mm": 6.952055264264345,
+      "contact_mm": 0.10837154462933546,
+      "press_angle_deg": 9.682986737710912
+    },
+    {
+      "finger": "Little.L",
+      "key": "Keyboard key.026",
+      "hover_mm": 6.905027199536562,
+      "contact_mm": -0.048507880419492666,
+      "press_angle_deg": 23.090199143772175
+    },
+    {
+      "finger": "Index.R",
+      "key": "Keyboard key.019",
+      "hover_mm": 7.182546425610781,
+      "contact_mm": 0.14604168012738233,
+      "press_angle_deg": 11.172677005051051
+    },
+    {
+      "finger": "Middle.R",
+      "key": "Keyboard key.004",
+      "hover_mm": 6.817646790295839,
+      "contact_mm": -0.16682310029864306,
+      "press_angle_deg": 11.917522138721123
+    },
+    {
+      "finger": "Ring.R",
+      "key": "Keyboard key.003",
+      "hover_mm": 6.956764031201601,
+      "contact_mm": 0.15492277219891554,
+      "press_angle_deg": 9.682986737710912
+    },
+    {
+      "finger": "Little.R",
+      "key": "Keyboard key.015",
+      "hover_mm": 6.9031198509037495,
+      "contact_mm": 0.027130413800478034,
+      "press_angle_deg": 23.090199143772175
+    }
+  ],
+  "strikes": [
+    [
+      4,
+      "L",
+      1
+    ],
+    [
+      8,
+      "R",
+      0
+    ],
+    [
+      12,
+      "L",
+      0
+    ],
+    [
+      16,
+      "R",
+      1
+    ],
+    [
+      21,
+      "L",
+      2
+    ],
+    [
+      24,
+      "R",
+      0
+    ],
+    [
+      29,
+      "L",
+      1
+    ],
+    [
+      34,
+      "R",
+      2
+    ],
+    [
+      38,
+      "L",
+      0
+    ],
+    [
+      43,
+      "R",
+      1
+    ],
+    [
+      212,
+      "L",
+      0
+    ],
+    [
+      217,
+      "R",
+      1
+    ],
+    [
+      221,
+      "L",
+      1
+    ],
+    [
+      225,
+      "R",
+      0
+    ],
+    [
+      229,
+      "L",
+      2
+    ],
+    [
+      235,
+      "R",
+      1
+    ]
+  ],
+  "silentFromSecond": 2,
+  "silentThroughSecond": 8.7,
+  "keyboardShiftMm": 74.00000095367432,
+  "maxMapMarkerTravelMm": 11.887110079596962,
+  "lampPowerTestWatts": [
+    20.0,
+    0.0,
+    20.0
+  ],
+  "seating": {
+    "liftMetres": 0.07999999821186066,
+    "forwardMetres": 0.11500000208616257,
+    "arms": {
+      "L": {
+        "oldElbowAngle": 143.25656523676585,
+        "elbowAngle": 103.95579335629589,
+        "wristAngle": 9.085753275477327
+      },
+      "R": {
+        "oldElbowAngle": 143.25656523676585,
+        "elbowAngle": 103.95572505440418,
+        "wristAngle": 9.086207483057132
+      }
+    },
+    "smoothedWristVertices": 355
+  },
+  "checkedStrikes": [
+    {
+      "frame": 4,
+      "finger": "Middle.L",
+      "clearanceMm": 0.4243929870426655
+    },
+    {
+      "frame": 8,
+      "finger": "Index.R",
+      "clearanceMm": 0.7795770652592182
+    },
+    {
+      "frame": 12,
+      "finger": "Index.L",
+      "clearanceMm": 0.820585060864687
+    },
+    {
+      "frame": 16,
+      "finger": "Middle.R",
+      "clearanceMm": 0.402041245251894
+    },
+    {
+      "frame": 21,
+      "finger": "Ring.L",
+      "clearanceMm": 0.52274065092206
+    },
+    {
+      "frame": 24,
+      "finger": "Index.R",
+      "clearanceMm": 0.7795770652592182
+    },
+    {
+      "frame": 29,
+      "finger": "Middle.L",
+      "clearanceMm": 0.4243929870426655
+    },
+    {
+      "frame": 34,
+      "finger": "Ring.R",
+      "clearanceMm": 0.5438406951725483
+    },
+    {
+      "frame": 38,
+      "finger": "Index.L",
+      "clearanceMm": 0.820585060864687
+    },
+    {
+      "frame": 43,
+      "finger": "Middle.R",
+      "clearanceMm": 0.402041245251894
+    },
+    {
+      "frame": 212,
+      "finger": "Index.L",
+      "clearanceMm": 0.820585060864687
+    },
+    {
+      "frame": 217,
+      "finger": "Middle.R",
+      "clearanceMm": 0.402041245251894
+    },
+    {
+      "frame": 221,
+      "finger": "Middle.L",
+      "clearanceMm": 0.4243929870426655
+    },
+    {
+      "frame": 225,
+      "finger": "Index.R",
+      "clearanceMm": 0.7795770652592182
+    },
+    {
+      "frame": 229,
+      "finger": "Ring.L",
+      "clearanceMm": 0.52274065092206
+    },
+    {
+      "frame": 235,
+      "finger": "Middle.R",
+      "clearanceMm": 0.402041245251894
+    }
+  ],
+  "maxWristGapMm": 0.00010745380149674383
+}

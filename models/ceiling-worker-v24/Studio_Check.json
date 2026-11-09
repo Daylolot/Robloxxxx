@@ -1,0 +1,67 @@
+{
+  "baseline": {
+    "count": 565,
+    "visible": 559
+  },
+  "started": {
+    "started": true
+  },
+  "typing": {
+    "tracking": false,
+    "travel": 0.00659942626953125,
+    "mode": "Anatomy",
+    "face": "0.5561999678611755, 0.714199960231781, 0.6225999593734741",
+    "seatHeight": 9.953680038452148,
+    "breathing": 0.007633209228515625
+  },
+  "deskActive": {
+    "count": 565,
+    "visible": 0
+  },
+  "floorView": true,
+  "gaze": {
+    "turnDegrees": 52.62516854855264,
+    "held": true,
+    "paused": true,
+    "early": false
+  },
+  "ceilingView": true,
+  "poseView": true,
+  "sideView": true,
+  "closeView": true,
+  "armReviewView": true,
+  "markerBefore": {
+    "y": 86,
+    "x": 62,
+    "visible": true
+  },
+  "moved": {
+    "ok": true
+  },
+  "markerAfter": {
+    "y": 86,
+    "x": 70,
+    "visible": true
+  },
+  "lookAway": {
+    "tracking": false
+  },
+  "pressLamp": {
+    "after": false,
+    "before": true
+  },
+  "lampReplicated": {
+    "on": false
+  },
+  "lampOffView": true,
+  "deskRestored": {
+    "count": 565,
+    "visible": 559
+  },
+  "clientReset": {
+    "removed": true
+  },
+  "lampRestored": {
+    "on": true
+  }
+}

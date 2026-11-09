@@ -12,8 +12,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 7694,
-      "sha256": "55f07458fbb929a61513a2fc6742c6629bbc0cf7b1efaaf1708ccfe3389cd279"
+      "bytes": 8169,
+      "sha256": "7b2873cd30da1091d5433a6d65a515062319d9c77ed232e424a2caa2f9a77773"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -22,18 +22,18 @@
     },
     {
       "path": "README.md",
-      "bytes": 4617,
-      "sha256": "8d6e7f55e871f2c1c5a23bc958d4d5b79a60ef4a8d0f2b810cd2e055ee1d6dc9"
+      "bytes": 4654,
+      "sha256": "bfd44234cb40cbb82db02dfcbf9200e7390457b24608a667d5fccb6241efb524"
     },
     {
       "path": "START_HERE.md",
-      "bytes": 2483,
-      "sha256": "2d59458634e646a55bbd650c2601de78ac2b51c23c6bff10ef633d1554ebac27"
+      "bytes": 2429,
+      "sha256": "c8d561e29e112ef3b66f8bbcc8ed9f9d5ea73c79dc0a343cafba369907d56055"
     },
     {
       "path": "docs/DECISION_LOG.md",
-      "bytes": 6133,
-      "sha256": "ef2b29e9173033038585121e710189189477ed9409219729b8252158236bd167"
+      "bytes": 6744,
+      "sha256": "5881c40c163a67af23c8fcce61670a605f564754813e0ca78cbfd26eb44305ed"
     },
     {
       "path": "docs/PROJECT_FILE_INDEX.json",
@@ -43,7 +43,7 @@
     {
       "path": "docs/ROADMAP.md",
       "bytes": 1858,
-      "sha256": "67ae8b72d9aaf75e83f57185ae3a6b39718c7b7b254d819d1360aed5283db2ca"
+      "sha256": "91c9caf27c757f11fb0c97a3b0d11052d7ce2c3dacf6e05279a61d09ea4e19ab"
     },
     {
       "path": "maps/Kontur_Office_v17_No_Red_Lines.rbxl",
@@ -69,6 +69,16 @@
       "path": "maps/Kontur_Office_v23_Ceiling_Worker_QA.rbxl",
       "bytes": 2955363,
       "sha256": "f4babcb7299e4b9be39b5463ae51d24c081c86d4b424f6cfb16b1ecc8d1d55c3"
+    },
+    {
+      "path": "maps/Kontur_Office_v24_Ceiling_Worker.rbxl",
+      "bytes": 2955526,
+      "sha256": "c01cd1c4ddcf8ea2f6a4ded44fc5ce121272864f18c897f43349c95799538e52"
+    },
+    {
+      "path": "maps/Kontur_Office_v24_Ceiling_Worker_QA.rbxl",
+      "bytes": 2955644,
+      "sha256": "bc8fc8871e31787538e2a98281d0ba28b3a297fa819147e65340e213324951c4"
     },
     {
       "path": "maps/Office_v17_BloodFlood_QA.rbxl",
@@ -471,6 +481,76 @@
       "sha256": "114fb897b1643cb6d30bca78bef38044930bfaf93f18484a5da416bcc4f08059"
     },
     {
+      "path": "models/ceiling-worker-v24/01_lower_desk.png",
+      "bytes": 202634,
+      "sha256": "1feaba4fe3d92b4f892eaeddf8537dc8445b7ba08ac1b7fed5bbc3b3695b90ac"
+    },
+    {
+      "path": "models/ceiling-worker-v24/01_v23_side.png",
+      "bytes": 837857,
+      "sha256": "6a0ee8c3e7b8287ab8c2141f2bb6e0a2f4f410069bd40f684c25f281530d3848"
+    },
+    {
+      "path": "models/ceiling-worker-v24/02_ceiling_gaze.png",
+      "bytes": 166080,
+      "sha256": "68946e626ead3c666bc9a3cfb2170a5552cb69d5d25e56cb781976581d8dca23"
+    },
+    {
+      "path": "models/ceiling-worker-v24/02_v24_side.png",
+      "bytes": 836647,
+      "sha256": "a7cfbca36d82fc402aa3c4daff2336310b22448f15e01969ad6667c239f34a8b"
+    },
+    {
+      "path": "models/ceiling-worker-v24/03_front_pose.png",
+      "bytes": 292136,
+      "sha256": "76354dade4feac1561fa2ab61df0e56556588fc6de0274e8df58a0acdf3ded76"
+    },
+    {
+      "path": "models/ceiling-worker-v24/03_v24_other_side.png",
+      "bytes": 903586,
+      "sha256": "0c8542d10e108e29a71143d2991da960e8f86fa5108b1bbc6dfb0605940cf161"
+    },
+    {
+      "path": "models/ceiling-worker-v24/04_lamp_off.png",
+      "bytes": 284516,
+      "sha256": "c3246b29a03679c35d2b641a3493f2d5d2804e9f84df7741d3252c4a685e0d7d"
+    },
+    {
+      "path": "models/ceiling-worker-v24/05_side_pose.png",
+      "bytes": 275740,
+      "sha256": "718a2e70d7ca959fb8f0eabd89c2f9023f67272f139ebb1d5c6242e69eb170cf"
+    },
+    {
+      "path": "models/ceiling-worker-v24/06_close_pose.png",
+      "bytes": 321274,
+      "sha256": "afb13b6494f8a2dd8b5ef8d08775f0d2151bf61584e2a8a0f1e89563d55d765a"
+    },
+    {
+      "path": "models/ceiling-worker-v24/07_arm_review.png",
+      "bytes": 326186,
+      "sha256": "3a6aecd6ab51a182fe581c653121724786c3a89240419770d0dc242eda40e53d"
+    },
+    {
+      "path": "models/ceiling-worker-v24/Ceiling_Office_Character_Study_v24.blend",
+      "bytes": 3020807,
+      "sha256": "aa811fb66c90c26cc1f0d8e05d7f51eeea15f83f9ca46f12d87a681965f77589"
+    },
+    {
+      "path": "models/ceiling-worker-v24/Pose_Check.json",
+      "bytes": 4594,
+      "sha256": "95cdbb1960bbec6766a8e01246a02f7c3b3ec2ca15d611a08de4728a1f7590e2"
+    },
+    {
+      "path": "models/ceiling-worker-v24/REVIEW.md",
+      "bytes": 2652,
+      "sha256": "09f599e2882a3a2b5f12c3efae05065d11e8d1e0dd4ddc822d088d3e2e5bd6eb"
+    },
+    {
+      "path": "models/ceiling-worker-v24/Studio_Check.json",
+      "bytes": 1139,
+      "sha256": "8463a211ad421b950708775589dfdb948da8da2abd6f0e2f0e80149f3dbb4568"
+    },
+    {
       "path": "sessions/2026-11-08-github-preparation.md",
       "bytes": 1307,
       "sha256": "75680fa2ad2ae5c5bbbb57f22c4f75f2ebedb728bef2628e901023bf579d935c"
@@ -479,6 +559,11 @@
       "path": "sessions/2026-11-09-ceiling-worker-anatomy.md",
       "bytes": 2387,
       "sha256": "8bf3263d60b3e1f1462089d9b5173337167ba7db1fad090c31779b5e92c0867f"
+    },
+    {
+      "path": "sessions/2026-11-09-ceiling-worker-seating.md",
+      "bytes": 2283,
+      "sha256": "a8d8fe9f4be61a254f1a1a8f7fb85c8c355feef68574e7bf154dfab8184f9b2e"
     },
     {
       "path": "sessions/2026-11-09-ceiling-worker-studio.md",
@@ -724,6 +809,56 @@
       "path": "sources/ceiling-worker-v23/export_portrait.py",
       "bytes": 6772,
       "sha256": "f758656d0f86d5127fe6af2ad20534cf7c59b758153b998e4907137d35cc64f9"
+    },
+    {
+      "path": "sources/ceiling-worker-v24/CeilingWorker.client.luau",
+      "bytes": 3090,
+      "sha256": "5ca685dfb4ec5379d25bb94dff307e34404a1788d9ba86a9f81a0eaebe73c125"
+    },
+    {
+      "path": "sources/ceiling-worker-v24/CeilingWorkerRound.luau",
+      "bytes": 5649,
+      "sha256": "664de6f814a83c421d9bc55da6b0d94963e1af5f37fa5505ed83aa5e814bf39f"
+    },
+    {
+      "path": "sources/ceiling-worker-v24/CeilingWorkerScene.luau",
+      "bytes": 31220,
+      "sha256": "fdcf66b1a394a0dc16d2e5d576808d4d2b94b588330b294ce9d6b9ab570e5559"
+    },
+    {
+      "path": "sources/ceiling-worker-v24/PortraitData.luau",
+      "bytes": 542053,
+      "sha256": "c2f4458d361d61f43ee1ab3a2eab36bb2c2c6b013c15b9f64868e08c0951d63e"
+    },
+    {
+      "path": "sources/ceiling-worker-v24/PortraitRuntime.luau",
+      "bytes": 7601,
+      "sha256": "85b3b7934dfad7b3eca5ec80de6b93929088145131db7759b79e73d12fee1908"
+    },
+    {
+      "path": "sources/ceiling-worker-v24/StudioPreview.luau",
+      "bytes": 412,
+      "sha256": "b8a30215d1333dd15adaa2197bad0acc820dddaf1f8182ba7fca17b59fd7c26e"
+    },
+    {
+      "path": "sources/ceiling-worker-v24/adjust_seating.py",
+      "bytes": 7913,
+      "sha256": "6b3be8d760ea414a29e708de6785712d0d2c3785390166e8e566892d9c460235"
+    },
+    {
+      "path": "sources/ceiling-worker-v24/build_place.py",
+      "bytes": 4743,
+      "sha256": "0e5f45eed9caef852e08ff8f0a8f5417a84dc257759d9810a828a456be2939ce"
+    },
+    {
+      "path": "sources/ceiling-worker-v24/export_portrait.py",
+      "bytes": 7089,
+      "sha256": "549a88dc88289f2fee701bb0e70371fee66bf8b774398cdac517e62fee524e10"
+    },
+    {
+      "path": "sources/ceiling-worker-v24/verify_seating.py",
+      "bytes": 3433,
+      "sha256": "c0cb97fd3f9e8734e0753097170d2202fefffe09106a17d3dadcb20d29b7c8b6"
     }
   ]
 }
