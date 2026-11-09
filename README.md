@@ -17,7 +17,7 @@
 - `CHANGELOG.md` — изменения по этапам.
 - `docs/DECISION_LOG.md` — обоснования решений, ограничения проверок и выявленные ошибки.
 - `docs/ROADMAP.md` — следующие шаги.
-- [Последний сеанс](sessions/2026-11-09-printer-gameplay.md) — перенос траекторий Blender в Roblox.
+- [Последний сеанс](sessions/2026-11-10-printer-coop.md) — проверка принтера с двумя игроками.
 - [Макет v24 и обзор](models/ceiling-worker-v24/REVIEW.md) — сцена Blender, сравнение и проверка.
 - [Макет v21 и обзор](models/ceiling-worker-v21/REVIEW.md) — сцена, сравнение, ролики и данные проверки.
 - `sources/ceiling-worker-v21/` — скрипты пересборки позы, проверки и рендера.

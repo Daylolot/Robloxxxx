@@ -12,8 +12,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 10124,
-      "sha256": "a863785113bf4b163f53a99788c4b0668ca632008bfd32a5687eb530949514dd"
+      "bytes": 10350,
+      "sha256": "98ccac2a8845b2d865fe05fe894646b3f97c0119e647f188bf91c091e5764279"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -22,8 +22,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 5030,
-      "sha256": "123653acd852204867683a824474cb4ac6ba60a3ec279c616bfc2dfad7c75c25"
+      "bytes": 5037,
+      "sha256": "58579a5ed27dba3671bc2270ae1a221c305fa34ac76223df6f2b1c310d678c86"
     },
     {
       "path": "START_HERE.md",
@@ -802,13 +802,33 @@
     },
     {
       "path": "models/printer-v29/REVIEW.md",
-      "bytes": 2165,
-      "sha256": "a221e9e79eb30c08a6ee90ffe372e01ecaf7cf6b024f8436afa1632eadbc5e4e"
+      "bytes": 2483,
+      "sha256": "4a29eae1cd5387478f010424909401f8f27b17c0f905e6acbaa92b20d0fe4d85"
     },
     {
       "path": "models/printer-v29/Studio_Check.json",
       "bytes": 945,
       "sha256": "9bdacafd00cdda4f5bcddcb293779709955fdb4ab72d92be0235e63d78c4760a"
+    },
+    {
+      "path": "models/printer-v29/coop/Coop_Check.json",
+      "bytes": 1693,
+      "sha256": "ddc8fd46c9a89b585951a552ccb66240a6f15d05645f3e40c3fbd773f4466928"
+    },
+    {
+      "path": "models/printer-v29/coop/Player1_flight.png",
+      "bytes": 293016,
+      "sha256": "7c348478f8abe25ee3810727382aa15a98287eae0f91bdbd3ce28b8f69829d3b"
+    },
+    {
+      "path": "models/printer-v29/coop/Player2_flight.png",
+      "bytes": 310706,
+      "sha256": "2c5e1460a1923b0e0c101150fd87cb957269f0489c11d9282d3b5fb3687aa086"
+    },
+    {
+      "path": "models/printer-v29/coop/REVIEW.md",
+      "bytes": 2807,
+      "sha256": "94fdac82633e569e49c34ef32a0481c9aca0fbf0d8721ea5a5f8bf38b09b5995"
     },
     {
       "path": "sessions/2026-11-08-github-preparation.md",
@@ -874,6 +894,11 @@
       "path": "sessions/2026-11-09-typing-pose.md",
       "bytes": 3596,
       "sha256": "6c01fef1acc321839c48b2288ccd5d18826cbddb2f52b4165ec5cbe6c0a7edfb"
+    },
+    {
+      "path": "sessions/2026-11-10-printer-coop.md",
+      "bytes": 1363,
+      "sha256": "827f9dfe8bbd3c2df4a1b0013f75b5d74ad023eecb8dfd359fbe68babcab80fc"
     },
     {
       "path": "sources/ceiling-worker-v18/DECISIONS.md",
@@ -1302,13 +1327,28 @@
     },
     {
       "path": "sources/printer-v29/README.md",
-      "bytes": 1252,
-      "sha256": "2bc9b8054f17c8bffe21dfdd293dd7f32e11c9a488d84360aa10a596437c2905"
+      "bytes": 1847,
+      "sha256": "fc87ecda377ed37a284b4e9cf503372fa35f8388a94696dadf7e0e995cb9276c"
     },
     {
       "path": "sources/printer-v29/build_place.py",
       "bytes": 4989,
       "sha256": "eba9ab8e6d271c1647fb568700bb08005191eb1419134f5ada4f9f782eff375f"
+    },
+    {
+      "path": "sources/printer-v29/coop/client.luau",
+      "bytes": 2552,
+      "sha256": "97f9d51d0913b0beceeef6c0234965cd06457b6f23b694710f831ced2691feeb"
+    },
+    {
+      "path": "sources/printer-v29/coop/run.py",
+      "bytes": 2441,
+      "sha256": "b858f1c4772882af02586208f9c63cbfad5b04b933f6c2598a62f83b1d8cf3f0"
+    },
+    {
+      "path": "sources/printer-v29/coop/server.luau",
+      "bytes": 6994,
+      "sha256": "f727587d7b2afcd37ca40f578d0aa73ac6d738d2fc29956a60d0897811343204"
     },
     {
       "path": "sources/printer-v29/export_flight.py",

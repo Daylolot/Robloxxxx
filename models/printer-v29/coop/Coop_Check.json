@@ -1,0 +1,73 @@
+{
+  "ok": true,
+  "report": {
+    "players": [
+      "Player2",
+      "Player1"
+    ],
+    "late_office_entry": {
+      "maxNormalDelta": 0.19793950021266937,
+      "segments": 168,
+      "round": 4,
+      "start": 1794259496.137834,
+      "level": 2,
+      "clockDelta": 0.03021097183227539,
+      "maxPositionDelta": 0.329348087310791
+    },
+    "countdown": {
+      "maxNormalDelta": 0,
+      "segments": 168,
+      "round": 2,
+      "start": 1794259484.671714,
+      "level": 2,
+      "clockDelta": 0.012802839279174805,
+      "maxPositionDelta": 0
+    },
+    "physical_read": {
+      "startedByPrompt": true,
+      "prompt": true
+    },
+    "cleared": {
+      "maxNormalDelta": 0,
+      "segments": 0,
+      "round": 4,
+      "level": 2,
+      "clockDelta": 0.0026330947875976562,
+      "maxPositionDelta": 0
+    },
+    "continuation": {
+      "maxNormalDelta": 0.15193314850330353,
+      "segments": 168,
+      "round": 4,
+      "start": 1794259496.137834,
+      "level": 2,
+      "clockDelta": 0.036509037017822266,
+      "maxPositionDelta": 0.07729007303714752
+    },
+    "cancelled": {
+      "maxNormalDelta": 0,
+      "segments": 0,
+      "round": 3,
+      "level": 1,
+      "clockDelta": 0.013014793395996094,
+      "maxPositionDelta": 0
+    },
+    "levitation": {
+      "maxNormalDelta": 0.13476310670375824,
+      "segments": 168,
+      "round": 4,
+      "start": 1794259496.137834,
+      "level": 2,
+      "clockDelta": 0.0388031005859375,
+      "maxPositionDelta": 0.07393761724233627
+    },
+    "at_rest": {
+      "maxNormalDelta": 0,
+      "segments": 168,
+      "round": 2,
+      "level": 2,
+      "clockDelta": 0.0009369850158691406,
+      "maxPositionDelta": 0
+    }
+  }
+}

@@ -9,3 +9,5 @@
 [Тестовая карта](../../maps/Kontur_Office_v29_Printer_QA.rbxl) · [Обычная карта](../../maps/Kontur_Office_v29_Printer.rbxl) · [Сцена Blender v28](../printer-v28/Kontur_Printer_Paper_v28.blend)
 
 [Принтер и предупреждение](01_warning.png) · [Распечатка крупно](05_printout.png) · [Шелест](02_stirring.png) · [Подъём](03_lifting.png) · [Полёт по комнате](04_room.png) · [Данные теста](Studio_Check.json)
+
+В отдельном сеансе с двумя клиентами проверены общий отсчёт, отмена до взлёта, вход второго игрока в офис во время полёта и очистка у обоих. [Кооперативная проверка](coop/REVIEW.md)
