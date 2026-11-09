@@ -121,6 +121,16 @@
       "sha256": "0957f200bf505368824057f44bd062ed26530458c59f548ddf5ecd369e09631d"
     },
     {
+      "path": "maps/Kontur_Office_v30_Printer.rbxl",
+      "bytes": 3134359,
+      "sha256": "dd99b3f15f72ab242af7466cc2801bdaf27849acd6e36e9daa76bd755eabfc58"
+    },
+    {
+      "path": "maps/Kontur_Office_v30_Printer_QA.rbxl",
+      "bytes": 3134462,
+      "sha256": "e2b4f4d4de3a9bef6b01de1642f545b2995a79ab8c43837bc95c33887e0fd12e"
+    },
+    {
       "path": "maps/Office_v17_BloodFlood_QA.rbxl",
       "bytes": 2743422,
       "sha256": "ce59e3f73a727cecd22c22e7c7bbaa5caeb0cfe72dd92f347046c8b5b65d8e42"
@@ -1332,8 +1342,8 @@
     },
     {
       "path": "sources/printer-v29/build_place.py",
-      "bytes": 4989,
-      "sha256": "eba9ab8e6d271c1647fb568700bb08005191eb1419134f5ada4f9f782eff375f"
+      "bytes": 5456,
+      "sha256": "cb78ffa3b6eceaf2618e459ec74c7b2543da5c7afdbeb5ae41eb12eebb2d93cb"
     },
     {
       "path": "sources/printer-v29/coop/client.luau",
@@ -1359,6 +1369,56 @@
       "path": "sources/printer-v29/studio_verify.py",
       "bytes": 8876,
       "sha256": "1517c0cd7221dccf6394bf2d4aa72d751652876e81396020df982c826935450b"
+    },
+    {
+      "path": "sources/printer-v30/PrinterFlightData.luau",
+      "bytes": 396759,
+      "sha256": "0c0d9742eb3ab584509128b20df28f51113f1c7c080259999a80cb4e06555615"
+    },
+    {
+      "path": "sources/printer-v30/PrinterPaper.client.luau",
+      "bytes": 10345,
+      "sha256": "cc661a4e6479c71a5b199d2b8437d35d194cdb76a106ecb9bac82945e04d80a8"
+    },
+    {
+      "path": "sources/printer-v30/PrinterRound.luau",
+      "bytes": 9449,
+      "sha256": "a0dd4181b6f316e1f6dd46031ac76cc255e14b5446da2a72ebedca881c814f36"
+    },
+    {
+      "path": "sources/printer-v30/build_study.py",
+      "bytes": 15808,
+      "sha256": "fd12c2b19c4799f9b1ae17bd10095fa18260cafe36ad86368786ed7d98201d30"
+    },
+    {
+      "path": "sources/printer-v30/check_sheet_overlap.py",
+      "bytes": 2135,
+      "sha256": "674acd806dce439f19f6097d22e667c8a0f0c1329afbe9e82a36752ef9f04d0a"
+    },
+    {
+      "path": "sources/printer-v30/export_flight.py",
+      "bytes": 1760,
+      "sha256": "2cc6ddb798050df8000e4b530e258634a2d139c977de1ee2da1d02529df4f0ef"
+    },
+    {
+      "path": "sources/printer-v30/paper_motion.py",
+      "bytes": 9764,
+      "sha256": "0dfe68e12d55d1eb0b5cae31f63122624171485822cf7b23aa7f57d2c348a5ee"
+    },
+    {
+      "path": "sources/printer-v30/render_review.py",
+      "bytes": 2127,
+      "sha256": "fcac56e74833d87c168f94350b4348edf8407bd5759aa9f56d43ce61eaaf9590"
+    },
+    {
+      "path": "sources/printer-v30/studio_verify.py",
+      "bytes": 11893,
+      "sha256": "daf64d454711b0ed6f396acf1004c860d6317c13f23ccfb4327dff064fe4a69e"
+    },
+    {
+      "path": "sources/printer-v30/verify_study.py",
+      "bytes": 2441,
+      "sha256": "97d964472cffb7ea07b51bdff3cf2429baf8cbbc6affd86d151cc8d902b4397a"
     }
   ]
 }

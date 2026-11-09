@@ -7,7 +7,7 @@ import struct
 from zstandard import ZstdDecompressor
 
 
-def make_sources(data, folder, qa, patch):
+def make_sources(data, qa, patch, client_source, round_source, flight_source):
     classes, names, sources = {}, {}, {}
     decoder = ZstdDecompressor()
     cursor = 32
@@ -80,10 +80,10 @@ end
         anchor = "Players.PlayerRemoving:Connect("
         assert server.count(anchor) == 1
         server = server.replace(anchor, hook + anchor)
-    scripts[server_name] = (folder / "PrinterRound.luau").read_text() + "\n" + server
-    client = (folder / "PrinterPaper.client.luau").read_text()
+    scripts[server_name] = round_source.read_text() + "\n" + server
+    client = client_source.read_text()
     assert client.count("-- PRINTER_FLIGHT_DATA") == 1
-    client = client.replace("-- PRINTER_FLIGHT_DATA", (folder / "PrinterFlightData.luau").read_text())
+    client = client.replace("-- PRINTER_FLIGHT_DATA", flight_source.read_text())
     scripts[client_name] += "\n" + client
     return scripts
 
@@ -92,6 +92,9 @@ parser = argparse.ArgumentParser()
 parser.add_argument("base", type=Path)
 parser.add_argument("output", type=Path)
 parser.add_argument("--qa", action="store_true")
+parser.add_argument("--client", type=Path, help="use a different paper presentation script")
+parser.add_argument("--round", type=Path, help="use a different printer round script")
+parser.add_argument("--flight", type=Path, help="use a different Blender flight export")
 args = parser.parse_args()
 assert args.base.resolve() != args.output.resolve()
 folder = Path(__file__).resolve().parent
@@ -102,7 +105,10 @@ spec = importlib.util.spec_from_file_location("binary_patch", patcher)
 patch = importlib.util.module_from_spec(spec)
 spec.loader.exec_module(patch)
 data = args.base.read_bytes()
-result = patch.patch_place(data, make_sources(data, folder, args.qa, patch), None)
+client_source = args.client or folder / "PrinterPaper.client.luau"
+round_source = args.round or folder / "PrinterRound.luau"
+flight_source = args.flight or folder / "PrinterFlightData.luau"
+result = patch.patch_place(data, make_sources(data, args.qa, patch, client_source, round_source, flight_source), None)
 args.output.parent.mkdir(parents=True, exist_ok=True)
 temporary = args.output.with_suffix(".partial")
 temporary.write_bytes(result)
