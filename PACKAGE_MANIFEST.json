@@ -841,6 +841,31 @@
       "sha256": "94fdac82633e569e49c34ef32a0481c9aca0fbf0d8721ea5a5f8bf38b09b5995"
     },
     {
+      "path": "models/printer-v30/Kontur_Printer_Paper_v30.blend",
+      "bytes": 7657783,
+      "sha256": "937a0a99e677d4f8da5eb1b92bcd14dcee27e26d7002aaaf0d3841a9efecae31"
+    },
+    {
+      "path": "models/printer-v30/Motion_Check.json",
+      "bytes": 20984,
+      "sha256": "a54a335f7e97fe44ad2d3e5cb0a4ad17830441bce5e6f4c1d8c1491bf952f54f"
+    },
+    {
+      "path": "models/printer-v30/Paper_Overlap_Check.json",
+      "bytes": 101,
+      "sha256": "0cb7a3a8afd9e3dd78e27aa47142a8f7732223ab66a09e3cf572863a1e08b235"
+    },
+    {
+      "path": "models/printer-v30/Printer_Paper_Review.wav",
+      "bytes": 3704444,
+      "sha256": "54c9df4d918d63fab354117df91a6d81e0ac4fd9ec7127b390d824609b47dd12"
+    },
+    {
+      "path": "models/printer-v30/Sheet_Choreography.json",
+      "bytes": 54763,
+      "sha256": "3dcda047fe3729f0553939223c364019fa2c7a947c33104d6cfce379ccafc582"
+    },
+    {
       "path": "sessions/2026-11-08-github-preparation.md",
       "bytes": 1307,
       "sha256": "75680fa2ad2ae5c5bbbb57f22c4f75f2ebedb728bef2628e901023bf579d935c"
