@@ -1,0 +1,56 @@
+[
+  {
+    "frame": 1,
+    "pointsOverKeyboard": 4740,
+    "lowestHandMetres": 0.7989981770515442,
+    "keyCapsMetres": 0.796
+  },
+  {
+    "frame": 17,
+    "pointsOverKeyboard": 4740,
+    "lowestHandMetres": 0.8007994890213013,
+    "keyCapsMetres": 0.796
+  },
+  {
+    "frame": 36,
+    "pointsOverKeyboard": 4740,
+    "lowestHandMetres": 0.7993432283401489,
+    "keyCapsMetres": 0.796
+  },
+  {
+    "frame": 60,
+    "pointsOverKeyboard": 4740,
+    "lowestHandMetres": 0.8003554940223694,
+    "keyCapsMetres": 0.796
+  },
+  {
+    "frame": 84,
+    "pointsOverKeyboard": 4740,
+    "lowestHandMetres": 0.8006108403205872,
+    "keyCapsMetres": 0.796
+  },
+  {
+    "frame": 120,
+    "pointsOverKeyboard": 4740,
+    "lowestHandMetres": 0.8006108403205872,
+    "keyCapsMetres": 0.796
+  },
+  {
+    "frame": 180,
+    "pointsOverKeyboard": 4740,
+    "lowestHandMetres": 0.8004512190818787,
+    "keyCapsMetres": 0.796
+  },
+  {
+    "frame": 225,
+    "pointsOverKeyboard": 4740,
+    "lowestHandMetres": 0.7998353242874146,
+    "keyCapsMetres": 0.796
+  },
+  {
+    "frame": 240,
+    "pointsOverKeyboard": 4740,
+    "lowestHandMetres": 0.799359917640686,
+    "keyCapsMetres": 0.796
+  }
+]

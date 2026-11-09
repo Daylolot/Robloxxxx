@@ -1,0 +1,113 @@
+{
+  "stage": "First Blender art review; no native map changes",
+  "files": {
+    "11_upright_character_inspection.png": {
+      "bytes": 1341054,
+      "sha256": "646a10442ad3edc72564a08dd7c3525a53774058751155f417e151a090a3e937"
+    },
+    "Просмотр_сотрудника_v18.html": {
+      "bytes": 20340,
+      "sha256": "476eed36dcdcf65b91c81cf8e0a12df64af95b4ef1199cdef6934d1600c0e8fc"
+    },
+    "07_ceiling_edge.png": {
+      "bytes": 1189815,
+      "sha256": "9547f1b971d00999866c3856fa65106c210c66c9765ecd53b0f7cf063546e4b2"
+    },
+    "Ceiling_Office_Character_Study_v18.blend": {
+      "bytes": 2770731,
+      "sha256": "1d8e0c5750d508663953a8fae9650bd19fc55a43dcfd78d870fdb5d35f0202bb"
+    },
+    "Video_Frame_8.png": {
+      "bytes": 660732,
+      "sha256": "dfa76151ffc005f5a3de5a2fd1a64e00962281007da2403a745c04a1325393e8"
+    },
+    "08_monitor_plan.png": {
+      "bytes": 1156276,
+      "sha256": "97ef5b2dfdaa5d253ee1125b365f1203e2c73d45b199cf36be9f66690e5b58a6"
+    },
+    "Art_Stage_Check.json": {
+      "bytes": 1570,
+      "sha256": "ab699aa1663ca06c4a586b319978c718a444aa71808074bf7c82ea6d9935a3ea"
+    },
+    "Captions.json": {
+      "bytes": 5636,
+      "sha256": "68ae712c5c3115d0013035986b17961b52d2802ffaa6acdfc65688e12728d35a"
+    },
+    "05_hands.png": {
+      "bytes": 1275355,
+      "sha256": "4287ed6d204e89c67be2bc9117a0d8655c9b492d8ffe1297facdcee3663863ef"
+    },
+    "Gallery_Check.json": {
+      "bytes": 233,
+      "sha256": "3745e0bc9ffed4aa0c528af249a302ff74d54338585a4aaf2dd541307c8b4fd1"
+    },
+    "06_upper_shelf.png": {
+      "bytes": 1117710,
+      "sha256": "3fcc513f4bc64da78fdf51ea963f06b84865a7b2c4e84a1baad67c556d9eef75"
+    },
+    "04_face.png": {
+      "bytes": 1205805,
+      "sha256": "e2ad53e33f38d78916202770a1f0cbdbe0e358b57f6280ac2a8e246b6ec0d092"
+    },
+    "Map_Context_Check.json": {
+      "bytes": 22376,
+      "sha256": "0439c97ae61cb80f3759c2fe54b7b52157e5dc0d6fa7a4c7353292811417646b"
+    },
+    "Review_390.png": {
+      "bytes": 177534,
+      "sha256": "f9f9681fd34686a6197359f585d4fe953fcc721b9b60ed8e8a0cac399b072659"
+    },
+    "01_first_clue.png": {
+      "bytes": 1101670,
+      "sha256": "e5f31a87101400f394b4ddbc69196ee9fa0f7fde555aa967baee5fbb652294c2"
+    },
+    "09_wardrobe.png": {
+      "bytes": 1196600,
+      "sha256": "8b2a0928f8c3bb8631577c2047ebf271c9c41e51cf6a5f227e481b04f5109ab3"
+    },
+    "Head_Coherence_Check.json": {
+      "bytes": 513,
+      "sha256": "4dda5f042eeda5c99e0d62294dc6bdb87f4c853ddb8e49f853026e9bcabec8f9"
+    },
+    "Attention_Example_10sec.mp4": {
+      "bytes": 802888,
+      "sha256": "87d69e447efa32343983cc7ebb7a89291c1b6e0381dd9e5fba6e656a83a83694"
+    },
+    "Hand_Contact_Check.json": {
+      "bytes": 1165,
+      "sha256": "893682544d6bcc9c9d4e6fd4368ff7dc27760a4e2a4fce42f62445034a273a95"
+    },
+    "Review_1400.png": {
+      "bytes": 562136,
+      "sha256": "3303c0f02e0885b500d6579cd7774d2035ea2ee1a4b9736cb68085ed5c08daa7"
+    },
+    "Lower_Body_Check.json": {
+      "bytes": 160,
+      "sha256": "00bf59f32bd126e711018794dd2c245bb3d295086ba5ec94c0dcb645d9b861a9"
+    },
+    "10_full_scene.png": {
+      "bytes": 1253325,
+      "sha256": "cc527b70ae36b34b4bb19b58761ba3e13988bd9547c177a43fba670067795307"
+    },
+    "02_player_looks_up.png": {
+      "bytes": 1199504,
+      "sha256": "1944e37e027fc053887f7365ae2de853988881e163e59e2bc755fc6cc1ec4b8f"
+    },
+    "Video_Frame_1.png": {
+      "bytes": 608994,
+      "sha256": "e3f5de50049294a6e9acd57b03ff74dfd9566398157dac7dc24416dbe7407aa4"
+    },
+    "03_three_quarter.png": {
+      "bytes": 1293460,
+      "sha256": "c688e8ad6629f829d3cee48dfa28bd3e7e7bfcc7a7f330c0686a174ed291dfe8"
+    },
+    "Video_Frame_5.5.png": {
+      "bytes": 667150,
+      "sha256": "631b930aa687ed1b3850ec8040d3ab94150a4c7891f26efa1fbdf68fb86569a5"
+    },
+    "Shots.json": {
+      "bytes": 2729,
+      "sha256": "2418110ed258700c6e5e5b50b2273dd77c01a6b978d4fcf29e234807a60a7d84"
+    }
+  }
+}

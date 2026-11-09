@@ -1,0 +1,310 @@
+{
+  "uploaded": false,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 59,
+      "sha256": "29aceba45f3b21654438e6ce49fa0ff932d5540a6d013b29375c34cc3402230f"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 4797,
+      "sha256": "4eb8f0b9f1f30aefbd451485c45a225073be9adfc30eb068735edbe9e01f6d6c"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 3519,
+      "sha256": "41112fa4ac72c0efa1e6db6db78ea5dc7b765778e20ca3ff38329e1d080363aa"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4083,
+      "sha256": "77c0684b010815a1d18455671dff1c5b0039bf1028973c46f188ad4f0bcfdb42"
+    },
+    {
+      "path": "START_HERE.md",
+      "bytes": 2695,
+      "sha256": "e84539322d0e5fed8261cc796bc70f207851a287a5a62e458e9398fe24041c35"
+    },
+    {
+      "path": "docs/DECISION_LOG.md",
+      "bytes": 4686,
+      "sha256": "114ac60e0b56c346982f478eaea8b4c9cb48a706a82c2f82e76996d47af2bc58"
+    },
+    {
+      "path": "docs/PROJECT_FILE_INDEX.json",
+      "bytes": 1880657,
+      "sha256": "17e6d69c30c510223ba3ca7cc6e86afa9ed1a1adb6c51eb99af95da0c37d6df7"
+    },
+    {
+      "path": "docs/ROADMAP.md",
+      "bytes": 1943,
+      "sha256": "357d55ee9774a8d538513ed14d400213363243b0f4fba4272fcf1cf812902d5e"
+    },
+    {
+      "path": "maps/Kontur_Office_v17_No_Red_Lines.rbxl",
+      "bytes": 2743432,
+      "sha256": "47e921f189cc34a6bf3e32f116122ce1d94375fa2d2c4f180c581b7593dfe193"
+    },
+    {
+      "path": "maps/Office_v17_BloodFlood_QA.rbxl",
+      "bytes": 2743422,
+      "sha256": "ce59e3f73a727cecd22c22e7c7bbaa5caeb0cfe72dd92f347046c8b5b65d8e42"
+    },
+    {
+      "path": "models/ceiling-worker-v18/01_first_clue.png",
+      "bytes": 1101670,
+      "sha256": "e5f31a87101400f394b4ddbc69196ee9fa0f7fde555aa967baee5fbb652294c2"
+    },
+    {
+      "path": "models/ceiling-worker-v18/02_player_looks_up.png",
+      "bytes": 1199504,
+      "sha256": "1944e37e027fc053887f7365ae2de853988881e163e59e2bc755fc6cc1ec4b8f"
+    },
+    {
+      "path": "models/ceiling-worker-v18/03_three_quarter.png",
+      "bytes": 1293460,
+      "sha256": "c688e8ad6629f829d3cee48dfa28bd3e7e7bfcc7a7f330c0686a174ed291dfe8"
+    },
+    {
+      "path": "models/ceiling-worker-v18/04_face.png",
+      "bytes": 1205805,
+      "sha256": "e2ad53e33f38d78916202770a1f0cbdbe0e358b57f6280ac2a8e246b6ec0d092"
+    },
+    {
+      "path": "models/ceiling-worker-v18/05_hands.png",
+      "bytes": 1275355,
+      "sha256": "4287ed6d204e89c67be2bc9117a0d8655c9b492d8ffe1297facdcee3663863ef"
+    },
+    {
+      "path": "models/ceiling-worker-v18/06_upper_shelf.png",
+      "bytes": 1117710,
+      "sha256": "3fcc513f4bc64da78fdf51ea963f06b84865a7b2c4e84a1baad67c556d9eef75"
+    },
+    {
+      "path": "models/ceiling-worker-v18/07_ceiling_edge.png",
+      "bytes": 1189815,
+      "sha256": "9547f1b971d00999866c3856fa65106c210c66c9765ecd53b0f7cf063546e4b2"
+    },
+    {
+      "path": "models/ceiling-worker-v18/08_monitor_plan.png",
+      "bytes": 1156276,
+      "sha256": "97ef5b2dfdaa5d253ee1125b365f1203e2c73d45b199cf36be9f66690e5b58a6"
+    },
+    {
+      "path": "models/ceiling-worker-v18/09_wardrobe.png",
+      "bytes": 1196600,
+      "sha256": "8b2a0928f8c3bb8631577c2047ebf271c9c41e51cf6a5f227e481b04f5109ab3"
+    },
+    {
+      "path": "models/ceiling-worker-v18/10_full_scene.png",
+      "bytes": 1253325,
+      "sha256": "cc527b70ae36b34b4bb19b58761ba3e13988bd9547c177a43fba670067795307"
+    },
+    {
+      "path": "models/ceiling-worker-v18/11_upright_character_inspection.png",
+      "bytes": 1341054,
+      "sha256": "646a10442ad3edc72564a08dd7c3525a53774058751155f417e151a090a3e937"
+    },
+    {
+      "path": "models/ceiling-worker-v18/Art_Stage_Check.json",
+      "bytes": 1570,
+      "sha256": "ab699aa1663ca06c4a586b319978c718a444aa71808074bf7c82ea6d9935a3ea"
+    },
+    {
+      "path": "models/ceiling-worker-v18/Attention_Example_10sec.mp4",
+      "bytes": 802888,
+      "sha256": "87d69e447efa32343983cc7ebb7a89291c1b6e0381dd9e5fba6e656a83a83694"
+    },
+    {
+      "path": "models/ceiling-worker-v18/Captions.json",
+      "bytes": 5636,
+      "sha256": "68ae712c5c3115d0013035986b17961b52d2802ffaa6acdfc65688e12728d35a"
+    },
+    {
+      "path": "models/ceiling-worker-v18/Ceiling_Office_Character_Study_v18.blend",
+      "bytes": 2770731,
+      "sha256": "1d8e0c5750d508663953a8fae9650bd19fc55a43dcfd78d870fdb5d35f0202bb"
+    },
+    {
+      "path": "models/ceiling-worker-v18/Gallery_Check.json",
+      "bytes": 233,
+      "sha256": "3745e0bc9ffed4aa0c528af249a302ff74d54338585a4aaf2dd541307c8b4fd1"
+    },
+    {
+      "path": "models/ceiling-worker-v18/Hand_Contact_Check.json",
+      "bytes": 1165,
+      "sha256": "893682544d6bcc9c9d4e6fd4368ff7dc27760a4e2a4fce42f62445034a273a95"
+    },
+    {
+      "path": "models/ceiling-worker-v18/Head_Coherence_Check.json",
+      "bytes": 513,
+      "sha256": "4dda5f042eeda5c99e0d62294dc6bdb87f4c853ddb8e49f853026e9bcabec8f9"
+    },
+    {
+      "path": "models/ceiling-worker-v18/Lower_Body_Check.json",
+      "bytes": 160,
+      "sha256": "00bf59f32bd126e711018794dd2c245bb3d295086ba5ec94c0dcb645d9b861a9"
+    },
+    {
+      "path": "models/ceiling-worker-v18/Map_Context_Check.json",
+      "bytes": 22376,
+      "sha256": "0439c97ae61cb80f3759c2fe54b7b52157e5dc0d6fa7a4c7353292811417646b"
+    },
+    {
+      "path": "models/ceiling-worker-v18/Review_1400.png",
+      "bytes": 562136,
+      "sha256": "3303c0f02e0885b500d6579cd7774d2035ea2ee1a4b9736cb68085ed5c08daa7"
+    },
+    {
+      "path": "models/ceiling-worker-v18/Review_390.png",
+      "bytes": 177534,
+      "sha256": "f9f9681fd34686a6197359f585d4fe953fcc721b9b60ed8e8a0cac399b072659"
+    },
+    {
+      "path": "models/ceiling-worker-v18/Review_Manifest.json",
+      "bytes": 3947,
+      "sha256": "e2014fcdec229e70cbd3f6b60270e619a9570c227f589c99d2d34ce47d496d48"
+    },
+    {
+      "path": "models/ceiling-worker-v18/Shots.json",
+      "bytes": 2729,
+      "sha256": "2418110ed258700c6e5e5b50b2273dd77c01a6b978d4fcf29e234807a60a7d84"
+    },
+    {
+      "path": "models/ceiling-worker-v18/Video_Frame_1.png",
+      "bytes": 608994,
+      "sha256": "e3f5de50049294a6e9acd57b03ff74dfd9566398157dac7dc24416dbe7407aa4"
+    },
+    {
+      "path": "models/ceiling-worker-v18/Video_Frame_5.5.png",
+      "bytes": 667150,
+      "sha256": "631b930aa687ed1b3850ec8040d3ab94150a4c7891f26efa1fbdf68fb86569a5"
+    },
+    {
+      "path": "models/ceiling-worker-v18/Video_Frame_8.png",
+      "bytes": 660732,
+      "sha256": "dfa76151ffc005f5a3de5a2fd1a64e00962281007da2403a745c04a1325393e8"
+    },
+    {
+      "path": "models/ceiling-worker-v18/Просмотр_сотрудника_v18.html",
+      "bytes": 20340,
+      "sha256": "476eed36dcdcf65b91c81cf8e0a12df64af95b4ef1199cdef6934d1600c0e8fc"
+    },
+    {
+      "path": "sessions/2026-11-08-github-preparation.md",
+      "bytes": 1307,
+      "sha256": "75680fa2ad2ae5c5bbbb57f22c4f75f2ebedb728bef2628e901023bf579d935c"
+    },
+    {
+      "path": "sessions/2026-11-09-github-and-handoff.md",
+      "bytes": 1735,
+      "sha256": "04efa665ba4dc8528ff24f39449375c0beccc63ef64fff17242b54e0390f1556"
+    },
+    {
+      "path": "sources/ceiling-worker-v18/DECISIONS.md",
+      "bytes": 5029,
+      "sha256": "66f41c6700d59ccb1f48703ff59ddff5a0ada81254802694ec6b8f13020eaf8a"
+    },
+    {
+      "path": "sources/ceiling-worker-v18/PAUSE_CHECKPOINT.md",
+      "bytes": 5948,
+      "sha256": "e75569c8099853e0315ebde020242f749d7cb2681d857d67ea355d4b1982e04f"
+    },
+    {
+      "path": "sources/ceiling-worker-v18/audit_art.py",
+      "bytes": 3618,
+      "sha256": "ed394e08982af68e4db6eb253579417dbe538a260ecf75471b56162392b6f81b"
+    },
+    {
+      "path": "sources/ceiling-worker-v18/build_study.py",
+      "bytes": 28508,
+      "sha256": "e76845f0c4e6c1518cc73483f416eb630d28514781c50cbc3ae1052a2bddb96b"
+    },
+    {
+      "path": "sources/ceiling-worker-v18/export_context.luau",
+      "bytes": 881,
+      "sha256": "18438ca32c1a61406cc8e658e3f71d8bf5597222ffea722bd31d83d81f493c70"
+    },
+    {
+      "path": "sources/ceiling-worker-v18/extract_xml_context.py",
+      "bytes": 2725,
+      "sha256": "b1de3792317a785d8cffb0fb592e3321762affaf975d085c475db7bf4c3af9e9"
+    },
+    {
+      "path": "sources/ceiling-worker-v18/final_visual_fixes.py",
+      "bytes": 4455,
+      "sha256": "254ce785a77e99c97098bb54192510a81c166d641aba87f6b79896efe64990e9"
+    },
+    {
+      "path": "sources/ceiling-worker-v18/finish_art.py",
+      "bytes": 2742,
+      "sha256": "d8276bd7e9484ad4379fbadb1869799adca68598e169292c43dffcabbcbcdaff"
+    },
+    {
+      "path": "sources/ceiling-worker-v18/fix_hand_contact.py",
+      "bytes": 5555,
+      "sha256": "720383412189d41a18d28e70fdda014ae50de29aee804a03418102bd8e9f5566"
+    },
+    {
+      "path": "sources/ceiling-worker-v18/inspect_assets.py",
+      "bytes": 951,
+      "sha256": "1db85f8d55e102acd486361eefd3c6e337f807b5fb26abf838e901878bd06124"
+    },
+    {
+      "path": "sources/ceiling-worker-v18/measure_room.luau",
+      "bytes": 881,
+      "sha256": "8de9cd1d22ed9eeb4e8fc67f146285cda00d13dbadd485564a3eb8ce5c4a0190"
+    },
+    {
+      "path": "sources/ceiling-worker-v18/package_review.py",
+      "bytes": 13764,
+      "sha256": "573335d33fd3e8349ad24f14cda340803fbdbc8207d9e484588a469e91b047cc"
+    },
+    {
+      "path": "sources/ceiling-worker-v18/polish_study.py",
+      "bytes": 9919,
+      "sha256": "cea230b1f22e9fbf139b52a63f5dbd3c9f49f6307b6a9a3b29f13084f0c5408e"
+    },
+    {
+      "path": "sources/ceiling-worker-v18/probe_character.py",
+      "bytes": 732,
+      "sha256": "4cc5215947a635c166606ab269379665ae5d792d3b2d9e7a39b8555deaacb488"
+    },
+    {
+      "path": "sources/ceiling-worker-v18/probe_hand_weights.py",
+      "bytes": 1779,
+      "sha256": "ec7c0b6ec60ada3440ea9b0029d636898f72f7a3d02719416e1d81ca751dad9c"
+    },
+    {
+      "path": "sources/ceiling-worker-v18/probe_visible_detail.py",
+      "bytes": 1672,
+      "sha256": "c4d783922f637b52cdf98bd3ceb80f80254a99f1b1a116ea8940d8f5d4c2e921"
+    },
+    {
+      "path": "sources/ceiling-worker-v18/refine_hands.py",
+      "bytes": 2454,
+      "sha256": "7453d98f5cfc7e880f34a1818451e9e3566f334bace389fe40b23d8c3167ff33"
+    },
+    {
+      "path": "sources/ceiling-worker-v18/refine_lower_body.py",
+      "bytes": 3642,
+      "sha256": "660888aa1c16e1441ced183014fc2d8391a4790719f614a950fa4101c86b4cfe"
+    },
+    {
+      "path": "sources/ceiling-worker-v18/render_portrait.py",
+      "bytes": 1461,
+      "sha256": "8cdc612fc25eff07ba6fff0f45cbd402607880334491727109df689a75810efa"
+    },
+    {
+      "path": "sources/ceiling-worker-v18/render_study.py",
+      "bytes": 2130,
+      "sha256": "0067582b59589c51171f1043022ca094d279648622cf6c1f7379501d4d2c24ed"
+    },
+    {
+      "path": "sources/ceiling-worker-v18/review_gallery.mjs",
+      "bytes": 3229,
+      "sha256": "1616fa269ee5cf7979c4b64069c6296e13145b1a0f80b29881fe4d76094588f4"
+    }
+  ]
+}

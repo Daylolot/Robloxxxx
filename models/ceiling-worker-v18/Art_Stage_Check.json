@@ -1,0 +1,47 @@
+{
+  "stage": "First Blender art study; not installed in Roblox",
+  "sourceBlendSha256": "1d8e0c5750d508663953a8fae9650bd19fc55a43dcfd78d870fdb5d35f0202bb",
+  "anatomy": "Blender Studio Human Base Meshes 1.4.1 / CC0",
+  "geometry": [
+    {
+      "object": "Worker / face neck forearms and hands",
+      "vertices": 22213,
+      "triangles": 44184
+    },
+    {
+      "object": "Worker / tailored white cotton shirt",
+      "vertices": 14176,
+      "triangles": 28360
+    },
+    {
+      "object": "Worker / dark seated trousers",
+      "vertices": 10250,
+      "triangles": 20504
+    },
+    {
+      "object": "Worker / close combed hair cap",
+      "vertices": 1441,
+      "triangles": 2752
+    }
+  ],
+  "previewFrames": 240,
+  "sceneFps": 24,
+  "minimumKeyClearanceMetres": 0.0029981770515441486,
+  "maximumHeadCoherenceErrorMetres": 2.981163415870451e-07,
+  "externalLibraries": [],
+  "unpackedExternalFonts": [],
+  "nativeMapHashes": {
+    "Kontur_Office_v17_No_Red_Lines.rbxl": "47e921f189cc34a6bf3e32f116122ce1d94375fa2d2c4f180c581b7593dfe193",
+    "Office_v17_BloodFlood_QA.rbxl": "ce59e3f73a727cecd22c22e7c7bbaa5caeb0cfe72dd92f347046c8b5b65d8e42"
+  },
+  "robloxUploads": 0,
+  "pending": [
+    "Final visual feedback on skin, eyelids and garment finish",
+    "Coffee, document, mouse and chair poses for the new mesh",
+    "Decision on the linked lower drawer location",
+    "Roblox mesh conversion, material parity, lower desk and ceiling reset",
+    "Live player markers and server shared interactions",
+    "Audio",
+    "Actual single-player and co-op tests"
+  ]
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "frame": 1,
+    "maxHeadAttachmentErrorMetres": 2.4027400458748785e-07
+  },
+  {
+    "frame": 48,
+    "maxHeadAttachmentErrorMetres": 2.4027400458748785e-07
+  },
+  {
+    "frame": 84,
+    "maxHeadAttachmentErrorMetres": 2.5474013384101925e-07
+  },
+  {
+    "frame": 120,
+    "maxHeadAttachmentErrorMetres": 2.981163415870451e-07
+  },
+  {
+    "frame": 180,
+    "maxHeadAttachmentErrorMetres": 2.5474013384101925e-07
+  },
+  {
+    "frame": 240,
+    "maxHeadAttachmentErrorMetres": 2.4027400458748785e-07
+  }
+]

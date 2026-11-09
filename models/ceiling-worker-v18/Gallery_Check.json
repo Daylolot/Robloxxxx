@@ -1,0 +1,15 @@
+{
+  "images": 11,
+  "viewer": "open,next,keyboard previous,Escape",
+  "media": {
+    "duration": 10,
+    "width": 960,
+    "height": 720
+  },
+  "playbackAdvanced": true,
+  "responsive": [
+    1400,
+    390
+  ],
+  "scriptErrors": []
+}
