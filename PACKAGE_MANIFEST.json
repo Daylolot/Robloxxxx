@@ -866,6 +866,41 @@
       "sha256": "3dcda047fe3729f0553939223c364019fa2c7a947c33104d6cfce379ccafc582"
     },
     {
+      "path": "models/printer-v30/blender/01_printer_before.png",
+      "bytes": 984024,
+      "sha256": "32c7b80f0b852a7b20c91ead4f4ed39cd9993e0ac9c985141c6eb61a0b01b686"
+    },
+    {
+      "path": "models/printer-v30/blender/02_paper_feed.png",
+      "bytes": 990852,
+      "sha256": "a68efc888ace3ab6323350a65f4945d287c62fe41e5c9ca0f63052f3a557babd"
+    },
+    {
+      "path": "models/printer-v30/blender/03_warning_read.png",
+      "bytes": 1015329,
+      "sha256": "210d8e3eb23d7ab32cbd84321415e371dd965d645d4d46561c059519c6d39f12"
+    },
+    {
+      "path": "models/printer-v30/blender/04_contact_before.png",
+      "bytes": 1025743,
+      "sha256": "fbdcb5cd4f7474fd9ecdec99f11aa6684ff07df1b3b88d730d488fc4d0526266"
+    },
+    {
+      "path": "models/printer-v30/blender/05_first_edge.png",
+      "bytes": 1040855,
+      "sha256": "10bb137b4e1f2c739f9ad8fd510e599ef21fe7a50b2ff0ebc3a60db53fe1628a"
+    },
+    {
+      "path": "models/printer-v30/blender/06_peel_at_desk.png",
+      "bytes": 1053602,
+      "sha256": "d22eaa664d337ef4e37e52ebd131002b0aa4709a289f3eb0c3d95b9f34170909"
+    },
+    {
+      "path": "models/printer-v30/blender/07_wave_from_printer.png",
+      "bytes": 1064286,
+      "sha256": "7d8834df1cff88c32835ec77bba2f9413b4d6ed00d57c51bc5d97536b6b0cc6e"
+    },
+    {
       "path": "sessions/2026-11-08-github-preparation.md",
       "bytes": 1307,
       "sha256": "75680fa2ad2ae5c5bbbb57f22c4f75f2ebedb728bef2628e901023bf579d935c"
