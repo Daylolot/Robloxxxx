@@ -131,6 +131,16 @@
       "sha256": "e2b4f4d4de3a9bef6b01de1642f545b2995a79ab8c43837bc95c33887e0fd12e"
     },
     {
+      "path": "maps/Kontur_Office_v31.rbxl",
+      "bytes": 3140920,
+      "sha256": "8857eede6fa4e9558db6640f3a20e006bde35f15669e7db2b98005fbc70e979c"
+    },
+    {
+      "path": "maps/Kontur_Office_v31_QA.rbxl",
+      "bytes": 3141092,
+      "sha256": "6268daf26e05e1d695cb1b9a5cb74aacf6314f929fd8f45d09d892ccc16749ce"
+    },
+    {
       "path": "maps/Office_v17_BloodFlood_QA.rbxl",
       "bytes": 2743422,
       "sha256": "ce59e3f73a727cecd22c22e7c7bbaa5caeb0cfe72dd92f347046c8b5b65d8e42"
@@ -1066,6 +1076,91 @@
       "sha256": "21ba01544aa8a2c6b7e20e383f1e2099a6f813ee47ac3d2b38ebf5169ed250e7"
     },
     {
+      "path": "sources/anomalies-v31/ArchiveGeometry.json",
+      "bytes": 62536,
+      "sha256": "24365a7a75afcf3e1b56691916c8429a576cb621bb5f05be32035fe4040bc1f6"
+    },
+    {
+      "path": "sources/anomalies-v31/ArtAGeometry.json",
+      "bytes": 28714,
+      "sha256": "90bda223a2b7f1495e240187cd20a41b5ce9fd896c3c5eb58644435f5a2138a4"
+    },
+    {
+      "path": "sources/anomalies-v31/ArtBGeometry.json",
+      "bytes": 28702,
+      "sha256": "99d7b02f96251c55e6b5aca20934762b3c399c32ab2cec3cfc4b23a1087cf104"
+    },
+    {
+      "path": "sources/anomalies-v31/CalendarGeometry.json",
+      "bytes": 117192,
+      "sha256": "8249bf10bcec4b39f486a68294d4cb5fd5bf917768a046ae79a177d9d51185d0"
+    },
+    {
+      "path": "sources/anomalies-v31/HallGeometry.json",
+      "bytes": 40546,
+      "sha256": "756a5dda7dab62f3f80c939fa6269c01f5b11a2973c2561e0607cf38ad4ef1d5"
+    },
+    {
+      "path": "sources/anomalies-v31/OfficeObjects.client.luau",
+      "bytes": 11854,
+      "sha256": "37e8c3178929e9f10ca90d8e976384367e0874311e02f7e71745c1448b7fcffb"
+    },
+    {
+      "path": "sources/anomalies-v31/OfficeObjects.server.luau",
+      "bytes": 4592,
+      "sha256": "f788db9aaff86c32c0f4b1cb8226b66d0045c76ee45d9118f8673d4150cd182a"
+    },
+    {
+      "path": "sources/anomalies-v31/PlantGeometry.json",
+      "bytes": 105610,
+      "sha256": "2966704708cdafa0711a5ad0be52c8d81482423d857a02fe99c5a8ea23e2d339"
+    },
+    {
+      "path": "sources/anomalies-v31/PrinterDirection.luau",
+      "bytes": 1932,
+      "sha256": "b520ba4c842e0c143f26dbdac62407a96be2be537560583c5d7aa1007a7f48c1"
+    },
+    {
+      "path": "sources/anomalies-v31/PrinterPaper.client.luau",
+      "bytes": 13953,
+      "sha256": "67ca89e44c94d0eabc95a3be4285d76114ff6d58128c697ba133dfe3d0749436"
+    },
+    {
+      "path": "sources/anomalies-v31/VentParts.luau",
+      "bytes": 3509,
+      "sha256": "d917dade51bf376d90b7a6c0c1166504344bddb60b3ec11f9cc0e0fcb8dd73f8"
+    },
+    {
+      "path": "sources/anomalies-v31/build_place.py",
+      "bytes": 4389,
+      "sha256": "7c8852da053c1211ef1c403910a3f5e9bf7463f722bb964e9a04eb6308f87037"
+    },
+    {
+      "path": "sources/anomalies-v31/printer_study.py",
+      "bytes": 6221,
+      "sha256": "52eaac2bc80325985d91483475172439f6b4cae8f2971700cb7ea966be555c3e"
+    },
+    {
+      "path": "sources/anomalies-v31/studio_verify.py",
+      "bytes": 11916,
+      "sha256": "f00e84001529b53effbb4e85f4c8c55bd5ef3e095d0c6fd73c828b70cc596a6f"
+    },
+    {
+      "path": "sources/anomalies-v31/study.py",
+      "bytes": 21819,
+      "sha256": "27c7f6c8d554c4f61606354ad0b51339fbe1ee3c4f0bf3ee6ec295c5d6d3e56c"
+    },
+    {
+      "path": "sources/anomalies-v31/vent_spec.py",
+      "bytes": 2153,
+      "sha256": "542b000cc411a7b7a74b59df5c87a11cc1bd5a61d6bbfa00cccffca1d981d9d7"
+    },
+    {
+      "path": "sources/anomalies-v31/verify_blender.py",
+      "bytes": 2254,
+      "sha256": "ebf03f5c1711905e3d6996afe609441e228ab9b85688c28011ad1cef0726010f"
+    },
+    {
       "path": "sources/ceiling-worker-v18/DECISIONS.md",
       "bytes": 5029,
       "sha256": "66f41c6700d59ccb1f48703ff59ddff5a0ada81254802694ec6b8f13020eaf8a"
@@ -1502,8 +1597,8 @@
     },
     {
       "path": "sources/printer-v29/build_place.py",
-      "bytes": 5456,
-      "sha256": "cb78ffa3b6eceaf2618e459ec74c7b2543da5c7afdbeb5ae41eb12eebb2d93cb"
+      "bytes": 5608,
+      "sha256": "6bd31886136455eb91aed10075a9ea8f328d3c2b48d093d2896bd29d45c38c01"
     },
     {
       "path": "sources/printer-v29/coop/client.luau",
