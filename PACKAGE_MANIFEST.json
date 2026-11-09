@@ -7,33 +7,33 @@
     },
     {
       "path": "AGENTS.md",
-      "bytes": 1555,
-      "sha256": "cb9d235802e14eed4b87a963ab0db84491eb8743cc6b03fa8d564d53fb6f6255"
+      "bytes": 3082,
+      "sha256": "dc711c6516d9692f07c4767b1d774be56b4afc7880b268f9e0a82ae35b54d3de"
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 5413,
-      "sha256": "dd5ff0e78233de2f52df69152dd0b8be654dc07637f3765a9e9dff7d48b14862"
+      "bytes": 6078,
+      "sha256": "281b04c235769b07bfd3e2f1358b87b50586deeecf795a3f0d82a42645eef068"
     },
     {
       "path": "CONTRIBUTING.md",
-      "bytes": 3519,
-      "sha256": "41112fa4ac72c0efa1e6db6db78ea5dc7b765778e20ca3ff38329e1d080363aa"
+      "bytes": 3952,
+      "sha256": "21b9634b35c0f3573e033190d41dbb0c97fc524d648bdc08878883cb13604c2a"
     },
     {
       "path": "README.md",
-      "bytes": 4062,
-      "sha256": "f5b5a43a8d89bd8c1046fffd028d0871ce56f334d042b06ccebfddb3920452f3"
+      "bytes": 4371,
+      "sha256": "bd0594ac8e4d95527b2959f4c32c7e4da379d59e947bc24fd750c357485218bd"
     },
     {
       "path": "START_HERE.md",
-      "bytes": 2630,
-      "sha256": "54c44fb6cc468ccca453316325866303f7d9238a60a9cb09188d91971d0e9cb3"
+      "bytes": 2608,
+      "sha256": "1634af988f9279c933cb1818186c19333d8dbeb20022eab532c4aa2771b40182"
     },
     {
       "path": "docs/DECISION_LOG.md",
-      "bytes": 4687,
-      "sha256": "47f1a821c6457c9e12eeadcd84c8e5e0ba8f13faa567b77252fad5e2b47f56bd"
+      "bytes": 5420,
+      "sha256": "004b8af3d0477bee213c78296fb915eea6904bf2c5e4961c160d5d4eefeb2b97"
     },
     {
       "path": "docs/PROJECT_FILE_INDEX.json",
@@ -42,8 +42,8 @@
     },
     {
       "path": "docs/ROADMAP.md",
-      "bytes": 2087,
-      "sha256": "0d8370ba595df45f7a9bec52ca50d7b668d47ebcc36c1606eee09b24c6306250"
+      "bytes": 2158,
+      "sha256": "b5f4a3ef1db61c107622bc0c00ff646ca6ad27eb3ede1196b6af488577f8d5de"
     },
     {
       "path": "maps/Kontur_Office_v17_No_Red_Lines.rbxl",
@@ -246,6 +246,71 @@
       "sha256": "cc48cf0a1ce2092e97233a0bd81c8ac0cd176e37f271a9910313e37ec09c0271"
     },
     {
+      "path": "models/ceiling-worker-v20/01_keys_from_above.png",
+      "bytes": 835844,
+      "sha256": "b4d18f649f6afdee1aaac6195d1c904ebf8f750bcfd165f5828b96767acba942"
+    },
+    {
+      "path": "models/ceiling-worker-v20/02_side_contact.png",
+      "bytes": 899724,
+      "sha256": "5e0e6fade992fca51c8d13b41e767aa52808daf355bf9316438f00e0798f2a18"
+    },
+    {
+      "path": "models/ceiling-worker-v20/03_other_side.png",
+      "bytes": 921654,
+      "sha256": "d64b1d33001b1ef5f72cbcd165696dfef24b6e220416f3b16e30301922fc9e1f"
+    },
+    {
+      "path": "models/ceiling-worker-v20/04_look_from_door.png",
+      "bytes": 807532,
+      "sha256": "eb2802632db180ae98ad57fce66bec5bd9d6c8592512831c45e2ef95b0c5de4c"
+    },
+    {
+      "path": "models/ceiling-worker-v20/05_follow_the_sound.png",
+      "bytes": 927950,
+      "sha256": "b61470ca4b2ab818a11d1fb988625fbc10656abd882e68a9ab761ed508be736d"
+    },
+    {
+      "path": "models/ceiling-worker-v20/06_gaze_after_pause.png",
+      "bytes": 823131,
+      "sha256": "89bfecbb1f3fb8d28d5b553cd42fdd152db28bb6a0709751509486e9b469957d"
+    },
+    {
+      "path": "models/ceiling-worker-v20/07_inverted_hands.png",
+      "bytes": 916665,
+      "sha256": "caa657074785e8a0a6c369fabe941bfe0743f889ccb93b257df6871a5abc94a4"
+    },
+    {
+      "path": "models/ceiling-worker-v20/08_wider_room.png",
+      "bytes": 918324,
+      "sha256": "8cc971995dbbfa891240144b6b675408b9b3dd3414c8c8d8d2910cd011a2458a"
+    },
+    {
+      "path": "models/ceiling-worker-v20/Ceiling_Office_Character_Study_v20.blend",
+      "bytes": 2988997,
+      "sha256": "87e26881b59f8a59053c189f5615751126110cf33c0b60ff98332fa6c48a5e62"
+    },
+    {
+      "path": "models/ceiling-worker-v20/Contact_Check.json",
+      "bytes": 4198,
+      "sha256": "d8ccfc5fb03660202dfb3b0f2f17d3ab7a34d3ce7f5b88cb903fbf96ebfe822f"
+    },
+    {
+      "path": "models/ceiling-worker-v20/Doorway_And_Reaction.mp4",
+      "bytes": 962724,
+      "sha256": "09eeb0659f9509dbcc7f47f4e83d8e96776eeffa7e6b75e5a0a034eedf86f43d"
+    },
+    {
+      "path": "models/ceiling-worker-v20/Keyboard_Clicks.wav",
+      "bytes": 960044,
+      "sha256": "ba3b6c35b576dc27494943bb9ac312f59f5c01af6ae7a4ab535d400e9360f537"
+    },
+    {
+      "path": "models/ceiling-worker-v20/REVIEW.md",
+      "bytes": 2816,
+      "sha256": "6a29fff74be214ba7e201bf77d24bd395fcf35aebd8703434d502e4201ebceb1"
+    },
+    {
       "path": "sessions/2026-11-08-github-preparation.md",
       "bytes": 1307,
       "sha256": "75680fa2ad2ae5c5bbbb57f22c4f75f2ebedb728bef2628e901023bf579d935c"
@@ -254,6 +319,11 @@
       "path": "sessions/2026-11-09-github-and-handoff.md",
       "bytes": 1735,
       "sha256": "04efa665ba4dc8528ff24f39449375c0beccc63ef64fff17242b54e0390f1556"
+    },
+    {
+      "path": "sessions/2026-11-09-typing-and-gaze.md",
+      "bytes": 4841,
+      "sha256": "0f841353fb93ed370d6f6587445d43bdda97ecfe21e35692b0d9df915fdc6b32"
     },
     {
       "path": "sessions/2026-11-09-typing-pose.md",
@@ -379,6 +449,26 @@
       "path": "sources/ceiling-worker-v19/render_typing_v19.py",
       "bytes": 3151,
       "sha256": "9c844e92a83d9c7bee417ac7d3ab2bd1f03c1e8ea6a35403cffc6615ab1beafb"
+    },
+    {
+      "path": "sources/ceiling-worker-v20/check_review.py",
+      "bytes": 3514,
+      "sha256": "d536e67c0245a993f4ddfc90e0faaf112b2cbc5929d48bd044b6193550b107c2"
+    },
+    {
+      "path": "sources/ceiling-worker-v20/refine_worker.py",
+      "bytes": 17524,
+      "sha256": "06b5442e3615f10e33e549fb048b19c130bf182909ac38f491bdce505d8d0daf"
+    },
+    {
+      "path": "sources/ceiling-worker-v20/render_review.py",
+      "bytes": 3706,
+      "sha256": "fb5344227070101238f8a396661db5d7e2ef47ccfa5436e8aa61962bc7b171b8"
+    },
+    {
+      "path": "sources/ceiling-worker-v20/review_path.py",
+      "bytes": 495,
+      "sha256": "01e168ce948ec91d190632538183c4039a2d02be01db1cb6f8a6bc79686fe074"
     }
   ]
 }
