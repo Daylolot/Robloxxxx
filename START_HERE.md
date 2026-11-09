@@ -4,11 +4,13 @@
 
 1. Прочитай [состояние проекта](README.md), затем [журнал изменений](CHANGELOG.md) и последнюю запись в [sessions](sessions/).
 2. Найди принятые решения в [журнале обоснований](docs/DECISION_LOG.md) и текущий порядок задач в [плане](docs/ROADMAP.md).
-3. Для игры открой [карту v24](maps/Kontur_Office_v24_Ceiling_Worker.rbxl) в Roblox Studio. Для показа сотрудника на втором уровне есть [тестовая карта v23](maps/Kontur_Office_v24_Ceiling_Worker_QA.rbxl). Для проверки крови есть [карта QA](maps/Office_v17_BloodFlood_QA.rbxl).
+3. Для зеркала открой [карту v26](maps/Kontur_Office_v26_Mirror.rbxl) или [тестовую карту v26](maps/Kontur_Office_v26_Mirror_QA.rbxl). Для сотрудника открой [карту v24](maps/Kontur_Office_v24_Ceiling_Worker.rbxl) в Roblox Studio. Для показа сотрудника на втором уровне есть [тестовая карта v24](maps/Kontur_Office_v24_Ceiling_Worker_QA.rbxl). Для проверки крови есть [карта QA](maps/Office_v17_BloodFlood_QA.rbxl).
 4. Для осмотра нового сотрудника скачай [сцену Blender v24](models/ceiling-worker-v24/Ceiling_Office_Character_Study_v24.blend). [Обзор](models/ceiling-worker-v24/REVIEW.md) содержит сравнение позы и проверку в игре.
 5. Перед работой прочитай [правила нового коммита](CONTRIBUTING.md).
 
 ## Текущая точка
+
+В v26 левое зеркало женского санузла показывает фигуру под потолком. [Обзор v26](models/mirror-v26/REVIEW.md).
 
 Кровь согласована. В Studio карта v24 показывает новую посадку сотрудника и исправленные кисти. Подробности и кадры в [обзоре v24](models/ceiling-worker-v24/REVIEW.md).
 

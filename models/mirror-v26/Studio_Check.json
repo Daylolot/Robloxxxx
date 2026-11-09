@@ -1,0 +1,37 @@
+{
+  "mirror": {
+    "height": 3.1589999198913574,
+    "panelCenter": 5.110500335693359,
+    "normal": "-1, -0, -6.123234262925839e-17",
+    "position": "1051.2508544921875, 3.140000104904175, 77.23999786376953"
+  },
+  "baseline": {
+    "visible": true,
+    "error": 0.0016659880056977272
+  },
+  "baselineImage": true,
+  "selected": {
+    "round": 2,
+    "mirror": 2,
+    "level": 2
+  },
+  "hanging": {
+    "drift": 0,
+    "up": -0.9987167119979858,
+    "glassWidth": 2.430000066757202,
+    "glassHeight": 3.1589999198913574,
+    "glassX": 0.5493087768554688,
+    "corner": "1033.385986328125, 4.798989295959473, 74.02911376953125",
+    "count": 1,
+    "offset": 18.039905548095703,
+    "neighbor": 0.0010965298861265182,
+    "projected": true,
+    "glassY": -0.5125570297241211
+  },
+  "hangingImage": true,
+  "reset": {
+    "accepted": true,
+    "correct": true,
+    "cleared": true
+  }
+}

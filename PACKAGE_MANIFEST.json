@@ -12,8 +12,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 8169,
-      "sha256": "7b2873cd30da1091d5433a6d65a515062319d9c77ed232e424a2caa2f9a77773"
+      "bytes": 8913,
+      "sha256": "7f0750f1d92d422f8b4f4fb34577d89bb1f01e01584d6a6f637021f0b2fa587e"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -22,18 +22,18 @@
     },
     {
       "path": "README.md",
-      "bytes": 4654,
-      "sha256": "bfd44234cb40cbb82db02dfcbf9200e7390457b24608a667d5fccb6241efb524"
+      "bytes": 4822,
+      "sha256": "09c3e840393e9d96888a7571c5de9a6d80f9a59352712c22ede07ff90ccfbf58"
     },
     {
       "path": "START_HERE.md",
-      "bytes": 2429,
-      "sha256": "c8d561e29e112ef3b66f8bbcc8ed9f9d5ea73c79dc0a343cafba369907d56055"
+      "bytes": 2782,
+      "sha256": "894b4a5cf7a2efb7e618b5df65cf840126e3f191bf5e1ed6767bb691807d23a2"
     },
     {
       "path": "docs/DECISION_LOG.md",
-      "bytes": 6744,
-      "sha256": "5881c40c163a67af23c8fcce61670a605f564754813e0ca78cbfd26eb44305ed"
+      "bytes": 7682,
+      "sha256": "01dddd84380621ca567131ad08e94218b0c17712b7c4b96aa69d89011fcf4f0f"
     },
     {
       "path": "docs/PROJECT_FILE_INDEX.json",
@@ -42,8 +42,8 @@
     },
     {
       "path": "docs/ROADMAP.md",
-      "bytes": 1858,
-      "sha256": "91c9caf27c757f11fb0c97a3b0d11052d7ce2c3dacf6e05279a61d09ea4e19ab"
+      "bytes": 2200,
+      "sha256": "e7e73a6d560cc483edc2125eb1ad47e743c49ed0e4db3618aaab80dbc600ae48"
     },
     {
       "path": "maps/Kontur_Office_v17_No_Red_Lines.rbxl",
@@ -79,6 +79,26 @@
       "path": "maps/Kontur_Office_v24_Ceiling_Worker_QA.rbxl",
       "bytes": 2955644,
       "sha256": "bc8fc8871e31787538e2a98281d0ba28b3a297fa819147e65340e213324951c4"
+    },
+    {
+      "path": "maps/Kontur_Office_v25_Mirror.rbxl",
+      "bytes": 2956736,
+      "sha256": "5ca151cd863250cb0358e29cc0d778249b192d99fc5d49f6c6f56c4985cefeb7"
+    },
+    {
+      "path": "maps/Kontur_Office_v25_Mirror_QA.rbxl",
+      "bytes": 2956839,
+      "sha256": "1f071877d3c3352d955c4a00977119fd7f87d9b071ae608bf263e6e14b088b20"
+    },
+    {
+      "path": "maps/Kontur_Office_v26_Mirror.rbxl",
+      "bytes": 2956623,
+      "sha256": "6db6ddc65a5288eb5b3b3cdfcd2ff4e62ffb1bf63d6e3b64cd85bda9f89ef566"
+    },
+    {
+      "path": "maps/Kontur_Office_v26_Mirror_QA.rbxl",
+      "bytes": 2956726,
+      "sha256": "691b0eaebbfee7056ee83e9ee2eebde08716105e2d9a5a9deeb2092a3482aa7b"
     },
     {
       "path": "maps/Office_v17_BloodFlood_QA.rbxl",
@@ -551,6 +571,51 @@
       "sha256": "8463a211ad421b950708775589dfdb948da8da2abd6f0e2f0e80149f3dbb4568"
     },
     {
+      "path": "models/mirror-v25/01_live.png",
+      "bytes": 138177,
+      "sha256": "ee84894eef8d56bd533af99680ae3a6a730321c51d84f0a5d5a01f52c46a0bf9"
+    },
+    {
+      "path": "models/mirror-v25/02_frozen.png",
+      "bytes": 188209,
+      "sha256": "9133be9de516eeee7cad2996975c56cd5a7ab1adcf3d01e9e4e450aeddbb52ed"
+    },
+    {
+      "path": "models/mirror-v25/03_restored.png",
+      "bytes": 180585,
+      "sha256": "744a2de5ecd65873188840e1802568061b6f33246a517995f12e63b3fa760c8f"
+    },
+    {
+      "path": "models/mirror-v25/REVIEW.md",
+      "bytes": 2190,
+      "sha256": "72451db4585866200a451cdf9fb3e71f5de7c4c12fe6c6c0c20fe67a0c42f990"
+    },
+    {
+      "path": "models/mirror-v25/Studio_Check.json",
+      "bytes": 924,
+      "sha256": "c29b69ea81351d15ee276339623e42395c6acea724cbf439648cd7fcb095b3b6"
+    },
+    {
+      "path": "models/mirror-v26/01_live.png",
+      "bytes": 170433,
+      "sha256": "621b86af87eac69723bc3115fe551109d0385c2a325d464de71ad5c46c952a69"
+    },
+    {
+      "path": "models/mirror-v26/02_hanging.png",
+      "bytes": 179030,
+      "sha256": "387c0a89077ddfa9fbf83dd9c1e439ede7525649a6b533763875b9f7ef7bb3db"
+    },
+    {
+      "path": "models/mirror-v26/REVIEW.md",
+      "bytes": 1559,
+      "sha256": "38cf30ac95ccbbd5e73e4789d53dc19724bad773029fd39cd349854aa438ad1e"
+    },
+    {
+      "path": "models/mirror-v26/Studio_Check.json",
+      "bytes": 889,
+      "sha256": "b32733662a9d4ba1ecde76cc1785f8cd63bad8dafeaf4f96ff2112bed7493473"
+    },
+    {
       "path": "sessions/2026-11-08-github-preparation.md",
       "bytes": 1307,
       "sha256": "75680fa2ad2ae5c5bbbb57f22c4f75f2ebedb728bef2628e901023bf579d935c"
@@ -574,6 +639,16 @@
       "path": "sessions/2026-11-09-github-and-handoff.md",
       "bytes": 1735,
       "sha256": "04efa665ba4dc8528ff24f39449375c0beccc63ef64fff17242b54e0390f1556"
+    },
+    {
+      "path": "sessions/2026-11-09-mirror-corner.md",
+      "bytes": 1326,
+      "sha256": "ec091cf5f877d9ca1283a891a21b88e311d25a8c7fa23dd66b144fe73c81e0ae"
+    },
+    {
+      "path": "sessions/2026-11-09-mirror.md",
+      "bytes": 1717,
+      "sha256": "233f44c045d538e5166c5a4f91de4290f31f63b0685256087a33144b4bf566ed"
     },
     {
       "path": "sessions/2026-11-09-neutral-wrists.md",
@@ -859,6 +934,46 @@
       "path": "sources/ceiling-worker-v24/verify_seating.py",
       "bytes": 3433,
       "sha256": "c0cb97fd3f9e8734e0753097170d2202fefffe09106a17d3dadcb20d29b7c8b6"
+    },
+    {
+      "path": "sources/mirror-v25/OfficeMirrors.luau",
+      "bytes": 13942,
+      "sha256": "540071bc1642afdfbc34ed97c27f591c2815945e60310bd07fa64d9cd0cf27c7"
+    },
+    {
+      "path": "sources/mirror-v25/OfficeReportService.luau",
+      "bytes": 13020,
+      "sha256": "6dc2a79815c3f573c3659a4c83f193722e8ca40e22d186a3148c75701e841c99"
+    },
+    {
+      "path": "sources/mirror-v25/build_place.py",
+      "bytes": 1931,
+      "sha256": "0c1dd737733cb39f1d8acf49f9228c934de25aa8aa3bbfcf18dc2a1b8b1a03d6"
+    },
+    {
+      "path": "sources/mirror-v25/studio_verify.py",
+      "bytes": 8290,
+      "sha256": "61623ffa30d903878044095909ee102bf3e88134c6e9ed7f52f9e6eee00fb142"
+    },
+    {
+      "path": "sources/mirror-v26/OfficeMirrors.luau",
+      "bytes": 13889,
+      "sha256": "17b1029934dcac88a7714e1e2562650f5a236a6f39a89032f5c7c1768e71b79b"
+    },
+    {
+      "path": "sources/mirror-v26/OfficeReportService.luau",
+      "bytes": 13020,
+      "sha256": "6dc2a79815c3f573c3659a4c83f193722e8ca40e22d186a3148c75701e841c99"
+    },
+    {
+      "path": "sources/mirror-v26/build_place.py",
+      "bytes": 1931,
+      "sha256": "0c1dd737733cb39f1d8acf49f9228c934de25aa8aa3bbfcf18dc2a1b8b1a03d6"
+    },
+    {
+      "path": "sources/mirror-v26/studio_verify.py",
+      "bytes": 7778,
+      "sha256": "eb873b235aa112be5a80796e1e4c14b7cf453f47558f9af74b2724d19c09d34c"
     }
   ]
 }

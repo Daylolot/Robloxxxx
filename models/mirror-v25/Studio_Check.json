@@ -1,0 +1,41 @@
+{
+  "mirror": {
+    "height": 3.1589999198913574,
+    "panelCenter": 5.110500335693359,
+    "normal": "-1, -0, -6.123234262925839e-17",
+    "position": "1051.2508544921875, 3.140000104904175, 77.23999786376953"
+  },
+  "baseline": {
+    "visible": true,
+    "error": 0.0020320129115134478
+  },
+  "baselineImage": true,
+  "selected": {
+    "round": 2,
+    "mirror": 2,
+    "level": 2
+  },
+  "timeline": {
+    "other": 0.04912498593330383,
+    "initial": 0.0024806989822536707,
+    "frozenDrift": 0,
+    "visible": true,
+    "frozenSeparation": 0.9448210597038269,
+    "recovered": 0.0019746595062315464,
+    "delayed": 1.0561047792434692
+  },
+  "rearm": {
+    "frozen": 0.8675957918167114,
+    "neighbor": 0.0009697879431769252
+  },
+  "frozenImage": true,
+  "sameViewRestored": {
+    "error": 0.001168318442068994
+  },
+  "restoredImage": true,
+  "reset": {
+    "accepted": true,
+    "correct": true,
+    "cleared": true
+  }
+}
