@@ -1,0 +1,77 @@
+{
+  "start": {
+    "art": -14,
+    "calendar": 1008,
+    "planter": 0
+  },
+  "print": {
+    "delay": 4.999955177307129
+  },
+  "monitor": {
+    "height": 5.35923957824707,
+    "near": 0.1083298921585083
+  },
+  "receipt": {
+    "raised": true,
+    "stage": "Read",
+    "count": 240
+  },
+  "contact": {
+    "height": 3.364424467086792
+  },
+  "arc": {
+    "bands": 9,
+    "receipt": "Done"
+  },
+  "floor": {
+    "height": 0.6679129600524902,
+    "near": 0.097061388194561
+  },
+  "archive": {
+    "scenario": "ArchiveWriting"
+  },
+  "archiveGlance": {
+    "stage": "Hidden"
+  },
+  "archiveRead": {
+    "head": "1027.3505859375, 4.603140354156494, -17.085529327392578",
+    "legacy": false,
+    "stage": "Read",
+    "hit": "none"
+  },
+  "archiveTurn": {
+    "stage": "Changed"
+  },
+  "art": {
+    "first": -21,
+    "second": -14
+  },
+  "calendar": {
+    "artRestored": -14,
+    "calendar": 1010.4500122070312
+  },
+  "plant": {
+    "calendarRestored": 1008,
+    "red": 186
+  },
+  "vent": {
+    "hinge": 0.27563735842704773,
+    "passable": true
+  },
+  "ventClient": {
+    "smoke": 18.064199447631836,
+    "stream": 0.212519571185112,
+    "drops": 21
+  },
+  "reset": {
+    "plant": 0,
+    "calendar": 1008,
+    "art": -14,
+    "level": 1,
+    "hinge": 0,
+    "scenario": "Clear"
+  },
+  "clientReset": {
+    "exists": false
+  }
+}
