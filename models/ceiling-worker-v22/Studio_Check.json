@@ -1,0 +1,60 @@
+{
+  "baseline": {
+    "count": 565,
+    "visible": 559
+  },
+  "started": {
+    "started": true
+  },
+  "typing": {
+    "tracking": false,
+    "travel": 0.011030197143554688
+  },
+  "deskActive": {
+    "count": 565,
+    "visible": 0
+  },
+  "floorView": true,
+  "gaze": {
+    "held": true,
+    "paused": true,
+    "early": false
+  },
+  "ceilingView": true,
+  "poseView": true,
+  "sideView": true,
+  "markerBefore": {
+    "y": 84,
+    "x": 70,
+    "visible": true
+  },
+  "moved": {
+    "ok": true
+  },
+  "markerAfter": {
+    "y": 86,
+    "x": 70,
+    "visible": true
+  },
+  "lookAway": {
+    "tracking": false
+  },
+  "pressLamp": {
+    "after": false,
+    "before": true
+  },
+  "lampReplicated": {
+    "on": false
+  },
+  "lampOffView": true,
+  "deskRestored": {
+    "count": 565,
+    "visible": 559
+  },
+  "clientReset": {
+    "removed": true
+  },
+  "lampRestored": {
+    "on": true
+  }
+}
