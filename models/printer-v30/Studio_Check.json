@@ -1,0 +1,72 @@
+{
+  "clear": {
+    "mode": "Off",
+    "paper": false,
+    "level": 1
+  },
+  "second": {
+    "paper": true,
+    "display": "\u0427\u0418\u0422\u0410\u0422\u042c",
+    "mode": "Ready",
+    "level": 2,
+    "notStarted": true
+  },
+  "staged": {
+    "inks": 64,
+    "gap": 0.00012213013542350382,
+    "parts": 240
+  },
+  "started": {
+    "accepted": true,
+    "delay": 4.9999730587005615,
+    "duplicate": false
+  },
+  "time": {
+    "stirHigh": 0,
+    "still": 0,
+    "stirLow": 240,
+    "gap": 0.00012213013542350382,
+    "edge": 0.04773234575986862,
+    "before": 240
+  },
+  "lift": {
+    "lifted": 131
+  },
+  "room": {
+    "drift": 0.2659527361392975,
+    "x": 38.97369384765625,
+    "count": 240,
+    "z": 43.166436195373535,
+    "high": 8.470948219299316,
+    "low": 1.7755088806152344,
+    "loadedSounds": 3
+  },
+  "levels": {
+    "eye": 11,
+    "lowest": 1.703245759010315,
+    "high": 27,
+    "low": 6
+  },
+  "lowView": {
+    "height": 2.298799753189087,
+    "distance": 4.687700271606445
+  },
+  "closeup": {
+    "inks": 64,
+    "gap": 0.00012213362788315862,
+    "sheet": "Sheet_01_2"
+  },
+  "continues": {
+    "count": 240,
+    "drift": 0.3017805516719818
+  },
+  "cleanup": {
+    "mode": "Off",
+    "noPrintout": true,
+    "correct": true,
+    "inactive": true
+  },
+  "clientCleanup": {
+    "parts": 0
+  }
+}

@@ -12,8 +12,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 10350,
-      "sha256": "98ccac2a8845b2d865fe05fe894646b3f97c0119e647f188bf91c091e5764279"
+      "bytes": 11254,
+      "sha256": "39c00015e086b0f405d7071fc53a97675c376823b1e1e559a33ed1b75948dc36"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -22,18 +22,18 @@
     },
     {
       "path": "README.md",
-      "bytes": 5037,
-      "sha256": "58579a5ed27dba3671bc2270ae1a221c305fa34ac76223df6f2b1c310d678c86"
+      "bytes": 5150,
+      "sha256": "cbbf64f97fdc81f6dd968a2129811da4bf3e7972a79a48ef67f249c08454c770"
     },
     {
       "path": "START_HERE.md",
-      "bytes": 3477,
-      "sha256": "47d9b5d72c66d8216f3ba9609dec591aaddbddc64a8d4d3b50bb9269adba69f3"
+      "bytes": 3593,
+      "sha256": "983116874c484481fd8e16f9ff5da78584d7dab902582a282441d59a26ccbef9"
     },
     {
       "path": "docs/DECISION_LOG.md",
-      "bytes": 9163,
-      "sha256": "37e83549e2f3d2551146a9ae0998547ffa0147e89464c27a9b05c603f16146ed"
+      "bytes": 10030,
+      "sha256": "139185f7333c95867866428245ae69360991011aa8e871cc6b7cc562b03445cb"
     },
     {
       "path": "docs/PROJECT_FILE_INDEX.json",
@@ -42,8 +42,8 @@
     },
     {
       "path": "docs/ROADMAP.md",
-      "bytes": 2200,
-      "sha256": "e7e73a6d560cc483edc2125eb1ad47e743c49ed0e4db3618aaab80dbc600ae48"
+      "bytes": 2585,
+      "sha256": "68a734f75ef35f755df5787cc487826eac1e1ca20c22b11e2d1baea679f22931"
     },
     {
       "path": "maps/Kontur_Office_v17_No_Red_Lines.rbxl",
@@ -841,6 +841,46 @@
       "sha256": "94fdac82633e569e49c34ef32a0481c9aca0fbf0d8721ea5a5f8bf38b09b5995"
     },
     {
+      "path": "models/printer-v30/01_warning.png",
+      "bytes": 126781,
+      "sha256": "28c570efac5a0be5973b1aacadfb096c08f900e4ddf6483ca6e9728345fd21d0"
+    },
+    {
+      "path": "models/printer-v30/02_stirring.png",
+      "bytes": 109976,
+      "sha256": "a6f9814d8a1c661e211f5760e167bb8d138fcbd43a82fbac9b2786bc396a3cc7"
+    },
+    {
+      "path": "models/printer-v30/03_lifting.png",
+      "bytes": 169956,
+      "sha256": "6b95b28fb26378c80c9e227e6d1653f9009153f700d1b5f4c822891cb4e71ab1"
+    },
+    {
+      "path": "models/printer-v30/04_room.png",
+      "bytes": 297414,
+      "sha256": "0e47cd4e59626f1adbffdc8195bbedecb86cab4b811b86c842397709ee1e65f5"
+    },
+    {
+      "path": "models/printer-v30/05_printout.png",
+      "bytes": 144826,
+      "sha256": "523c118334b00d8c447c56b891e138c8d684c78bed7a2e6e0e4252ed9eeb396f"
+    },
+    {
+      "path": "models/printer-v30/06_sheet_closeup.png",
+      "bytes": 277568,
+      "sha256": "d9065f49c1d991b92e845ca881dac8e4ba08f3100e8fcd6dd7fa9620730e60cf"
+    },
+    {
+      "path": "models/printer-v30/08_height_layers.png",
+      "bytes": 277895,
+      "sha256": "026c514613c2b5550e08307f3aa239696f32c1e5a157a9fa2b78188fc7683897"
+    },
+    {
+      "path": "models/printer-v30/09_low_sheet.png",
+      "bytes": 271508,
+      "sha256": "149696082eac571b3c583e81575559deba1fd5ca0b129d41c6f79e0583dee077"
+    },
+    {
       "path": "models/printer-v30/Kontur_Printer_Paper_v30.blend",
       "bytes": 7657783,
       "sha256": "937a0a99e677d4f8da5eb1b92bcd14dcee27e26d7002aaaf0d3841a9efecae31"
@@ -861,9 +901,19 @@
       "sha256": "54c9df4d918d63fab354117df91a6d81e0ac4fd9ec7127b390d824609b47dd12"
     },
     {
+      "path": "models/printer-v30/REVIEW.md",
+      "bytes": 5381,
+      "sha256": "720530c3987fab06b370cb3e9075db442958a8fb593a7c9df01687bbc4dc1409"
+    },
+    {
       "path": "models/printer-v30/Sheet_Choreography.json",
       "bytes": 54763,
       "sha256": "3dcda047fe3729f0553939223c364019fa2c7a947c33104d6cfce379ccafc582"
+    },
+    {
+      "path": "models/printer-v30/Studio_Check.json",
+      "bytes": 1313,
+      "sha256": "e719f7c2940ff32b3ae79c8b2c6317b6d064de8c55a949578e3c5581ce82506b"
     },
     {
       "path": "models/printer-v30/blender/01_printer_before.png",
@@ -899,6 +949,46 @@
       "path": "models/printer-v30/blender/07_wave_from_printer.png",
       "bytes": 1064286,
       "sha256": "7d8834df1cff88c32835ec77bba2f9413b4d6ed00d57c51bc5d97536b6b0cc6e"
+    },
+    {
+      "path": "models/printer-v30/blender/08_across_aisle.png",
+      "bytes": 1022953,
+      "sha256": "cf6584ffd8d95fcb70badf98acf99ac762997bd88a4d1e906e9ec585740e542a"
+    },
+    {
+      "path": "models/printer-v30/blender/09_levitation.png",
+      "bytes": 1063909,
+      "sha256": "ec774f93a89a3937a4e176064e632f18a2a9597650acc94fe5da87c1f8e3cca5"
+    },
+    {
+      "path": "models/printer-v30/blender/10_print_output.png",
+      "bytes": 990402,
+      "sha256": "b5745ddd821c39081f0a77469e8bdfb85d91d08f4c201e46e301ca8b39af93d3"
+    },
+    {
+      "path": "models/printer-v30/blender/11_countdown.png",
+      "bytes": 1026474,
+      "sha256": "0d5a99596f96934006f14f840a1f6b3390057cafb9a08e2eca6c2578ed76d832"
+    },
+    {
+      "path": "models/printer-v30/blender/12_next_stack.png",
+      "bytes": 1039852,
+      "sha256": "f0c22b8da417c4ce0b8af192a2035d28d8dfcb38830fb670ad7c9170a0ff4d6e"
+    },
+    {
+      "path": "models/printer-v30/blender/13_sheet_arc.png",
+      "bytes": 922873,
+      "sha256": "fdda2e1e90d7b2f6ee2bd7a12d046cfc4bf6c101143a0c60e4f92e5e05dc74dd"
+    },
+    {
+      "path": "models/printer-v30/blender/14_sheet_roll.png",
+      "bytes": 981633,
+      "sha256": "d7fd4d757ba447b9062807481a02f46a8e08a0b6623bf928926d7b1e0d9ebe11"
+    },
+    {
+      "path": "models/printer-v30/blender/15_low_sheet_hover.png",
+      "bytes": 1024567,
+      "sha256": "e016a532c53fd609bbf544a33629b89f01216e57ff674f93c877743f9fdef94d"
     },
     {
       "path": "sessions/2026-11-08-github-preparation.md",
@@ -969,6 +1059,11 @@
       "path": "sessions/2026-11-10-printer-coop.md",
       "bytes": 1363,
       "sha256": "827f9dfe8bbd3c2df4a1b0013f75b5d74ad023eecb8dfd359fbe68babcab80fc"
+    },
+    {
+      "path": "sessions/2026-11-10-printer-paper-detail.md",
+      "bytes": 3015,
+      "sha256": "21ba01544aa8a2c6b7e20e383f1e2099a6f813ee47ac3d2b38ebf5169ed250e7"
     },
     {
       "path": "sources/ceiling-worker-v18/DECISIONS.md",
@@ -1221,6 +1316,11 @@
       "sha256": "b8a30215d1333dd15adaa2197bad0acc820dddaf1f8182ba7fca17b59fd7c26e"
     },
     {
+      "path": "sources/ceiling-worker-v24/__pycache__/build_place.cpython-313.pyc",
+      "bytes": 6836,
+      "sha256": "6b46f3fcc486dfba278de418bc66930742090cf8e09e9fd19e5e4a1f4d992a6c"
+    },
+    {
       "path": "sources/ceiling-worker-v24/adjust_seating.py",
       "bytes": 7913,
       "sha256": "6b3be8d760ea414a29e708de6785712d0d2c3785390166e8e566892d9c460235"
@@ -1444,6 +1544,11 @@
       "path": "sources/printer-v30/PrinterRound.luau",
       "bytes": 9449,
       "sha256": "a0dd4181b6f316e1f6dd46031ac76cc255e14b5446da2a72ebedca881c814f36"
+    },
+    {
+      "path": "sources/printer-v30/README.md",
+      "bytes": 1742,
+      "sha256": "573bfff39d226aad807c1b868a6e1d9251c1eb0fca4ec44d68b0a952f4c07bb5"
     },
     {
       "path": "sources/printer-v30/build_study.py",
