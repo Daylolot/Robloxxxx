@@ -12,8 +12,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 8913,
-      "sha256": "7f0750f1d92d422f8b4f4fb34577d89bb1f01e01584d6a6f637021f0b2fa587e"
+      "bytes": 9262,
+      "sha256": "c1629b1d1dcf874b205cf6edba55c4c1a2c52b6f27cd4f57378938a53f6331a9"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -22,18 +22,18 @@
     },
     {
       "path": "README.md",
-      "bytes": 4822,
-      "sha256": "09c3e840393e9d96888a7571c5de9a6d80f9a59352712c22ede07ff90ccfbf58"
+      "bytes": 4849,
+      "sha256": "fae22f2551bbb329f63d68ac693f054216c580cf6e13acf058af2e28f6ac41ee"
     },
     {
       "path": "START_HERE.md",
-      "bytes": 2782,
-      "sha256": "894b4a5cf7a2efb7e618b5df65cf840126e3f191bf5e1ed6767bb691807d23a2"
+      "bytes": 3265,
+      "sha256": "1e0ff479ad1f5c02976d535ef35567591816dd48c322dd3db3fcde1c0d9a5f00"
     },
     {
       "path": "docs/DECISION_LOG.md",
-      "bytes": 7682,
-      "sha256": "01dddd84380621ca567131ad08e94218b0c17712b7c4b96aa69d89011fcf4f0f"
+      "bytes": 8220,
+      "sha256": "ea6beeea9948add6ec5e7300bc3409def41eb7f01270bccd81e2c16bc65c51f4"
     },
     {
       "path": "docs/PROJECT_FILE_INDEX.json",
@@ -99,6 +99,16 @@
       "path": "maps/Kontur_Office_v26_Mirror_QA.rbxl",
       "bytes": 2956726,
       "sha256": "691b0eaebbfee7056ee83e9ee2eebde08716105e2d9a5a9deeb2092a3482aa7b"
+    },
+    {
+      "path": "maps/Kontur_Office_v27_Printer.rbxl",
+      "bytes": 2959953,
+      "sha256": "880beea52c14b083f6be6bb09e8c07b3add438cf85bff471fb877ffb316bfe69"
+    },
+    {
+      "path": "maps/Kontur_Office_v27_Printer_QA.rbxl",
+      "bytes": 2960308,
+      "sha256": "fbfe5e6e59b0eeb6f1e8a9486d9997e49a0fb2eece03653e80533c8ee33b8cd5"
     },
     {
       "path": "maps/Office_v17_BloodFlood_QA.rbxl",
@@ -616,6 +626,36 @@
       "sha256": "b32733662a9d4ba1ecde76cc1785f8cd63bad8dafeaf4f96ff2112bed7493473"
     },
     {
+      "path": "models/printer-v27/01_warning.png",
+      "bytes": 162634,
+      "sha256": "ccb452ba86b2677b85005878a0de31e8ce08cba82a8753cd1a3a2a26ad41ae09"
+    },
+    {
+      "path": "models/printer-v27/02_stirring.png",
+      "bytes": 186697,
+      "sha256": "48eeabdc35c9da832b723cecc31fb9c523b01a4390c6699c216b7b330c7c8cef"
+    },
+    {
+      "path": "models/printer-v27/03_lifting.png",
+      "bytes": 291982,
+      "sha256": "9eac791ba841750d3245ebd777d0d1c2426389c55af353d1d7a63b57c7d843db"
+    },
+    {
+      "path": "models/printer-v27/04_room.png",
+      "bytes": 298966,
+      "sha256": "4fab35c3b5d33bbc40b13a05ef28d38ecd1aa5be622916e0b7f0cd956192363b"
+    },
+    {
+      "path": "models/printer-v27/REVIEW.md",
+      "bytes": 1538,
+      "sha256": "fd7d18b7a78edd56c6973e61708ed15233694dbb48f3690163242161b3becd16"
+    },
+    {
+      "path": "models/printer-v27/Studio_Check.json",
+      "bytes": 729,
+      "sha256": "8d6f2ee6828c671b5a5d61fa408556ddd6300e733f762f94462eda5e13beaaf3"
+    },
+    {
       "path": "sessions/2026-11-08-github-preparation.md",
       "bytes": 1307,
       "sha256": "75680fa2ad2ae5c5bbbb57f22c4f75f2ebedb728bef2628e901023bf579d935c"
@@ -654,6 +694,11 @@
       "path": "sessions/2026-11-09-neutral-wrists.md",
       "bytes": 3309,
       "sha256": "11f3f71f6fba6c4073ff91c21bb3ced17e5488466dfb177645c0c7dd1cdc1dc4"
+    },
+    {
+      "path": "sessions/2026-11-09-printer.md",
+      "bytes": 2481,
+      "sha256": "dbf8a36bdbc09d945f34a429844bb3dfbcb331d4927139313b7e40adda907579"
     },
     {
       "path": "sessions/2026-11-09-typing-and-gaze.md",
@@ -974,6 +1019,26 @@
       "path": "sources/mirror-v26/studio_verify.py",
       "bytes": 7778,
       "sha256": "eb873b235aa112be5a80796e1e4c14b7cf453f47558f9af74b2724d19c09d34c"
+    },
+    {
+      "path": "sources/printer-v27/PrinterPaper.client.luau",
+      "bytes": 6211,
+      "sha256": "16d3f6a5d7377c32c584bf58e6e7f297d76b661e81e54673b3ca742c89fee8b9"
+    },
+    {
+      "path": "sources/printer-v27/PrinterRound.luau",
+      "bytes": 6754,
+      "sha256": "0fa39101bb7757d247862975d6fe85a7d07bc8b5c9686791b20ca1ce577c0329"
+    },
+    {
+      "path": "sources/printer-v27/build_place.py",
+      "bytes": 4811,
+      "sha256": "35b5ed7073ba280e80d9a70620b2ba25b782f5205777b227b963393ff76286ec"
+    },
+    {
+      "path": "sources/printer-v27/studio_verify.py",
+      "bytes": 7636,
+      "sha256": "b0d17b0ff7d8b281d713fa4068eff583dc7c7c994480f7c187e01edb8f94afb0"
     }
   ]
 }

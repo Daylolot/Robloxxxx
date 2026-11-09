@@ -1,0 +1,44 @@
+{
+  "clear": {
+    "mode": "Off",
+    "paper": false,
+    "level": 1
+  },
+  "second": {
+    "mode": "Ready",
+    "level": 2,
+    "paper": true,
+    "notStarted": true
+  },
+  "started": {
+    "accepted": true,
+    "delay": 4.9999589920043945,
+    "duplicate": false
+  },
+  "time": {
+    "before": 0,
+    "stirHigh": 0,
+    "stirLow": 84
+  },
+  "lift": {
+    "lifted": 74
+  },
+  "room": {
+    "drift": 0.2330615073442459,
+    "x": 40.87811279296875,
+    "count": 84,
+    "z": 41.243754386901855,
+    "high": 8.175834655761719,
+    "low": 4.928524971008301,
+    "loadedSounds": 3
+  },
+  "cleanup": {
+    "mode": "Off",
+    "noPrintout": true,
+    "correct": true,
+    "inactive": true
+  },
+  "clientCleanup": {
+    "parts": 0
+  }
+}
