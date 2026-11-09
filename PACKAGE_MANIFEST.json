@@ -146,14 +146,44 @@
       "sha256": "ce59e3f73a727cecd22c22e7c7bbaa5caeb0cfe72dd92f347046c8b5b65d8e42"
     },
     {
+      "path": "models/anomalies-v31/blender/Archive_Check.json",
+      "bytes": 70,
+      "sha256": "4827149f8fbcfabc5fccf4a60fa79dfc0c285390a8fa0e011fa2ea35c35e0864"
+    },
+    {
+      "path": "models/anomalies-v31/blender/Kontur_Archive_v31.blend",
+      "bytes": 685243,
+      "sha256": "1d14e6c6adbe7b700dff133cd6ad4b00d691e7871a400dc2495f80c3c7018d06"
+    },
+    {
       "path": "models/anomalies-v31/blender/Kontur_Printer_v31.blend",
       "bytes": 8234690,
       "sha256": "a516570b354076ed189188e4bd889c6715316ca4917a8f2fe3712e40249f1a93"
     },
     {
+      "path": "models/anomalies-v31/blender/Kontur_Static_v31.blend",
+      "bytes": 1383670,
+      "sha256": "e2d4bb6e101e17ea27676a6e459916ba3e5f8c8da2627a83d2d6ca9a1adf7bd9"
+    },
+    {
+      "path": "models/anomalies-v31/blender/Kontur_Vent_v31.blend",
+      "bytes": 817535,
+      "sha256": "852a2fc8beadc8c7fdfa7bb872ca9f7179722144a44374a05a1f6304f289aad2"
+    },
+    {
       "path": "models/anomalies-v31/blender/Printer_Check.json",
       "bytes": 60,
       "sha256": "69cbeb8ccd32a8333072f6c1562939daf7a12233466d0f243571ed7e76653308"
+    },
+    {
+      "path": "models/anomalies-v31/blender/Static_Check.json",
+      "bytes": 98,
+      "sha256": "c8aee8e86379ca1a6e236cb4a75a7d00dfa311456d10cc01dab444173feb96f1"
+    },
+    {
+      "path": "models/anomalies-v31/blender/Vent_Check.json",
+      "bytes": 99,
+      "sha256": "26a96080c55808a181735659b90313a444a8ee211be1c0b19474cb8007152e56"
     },
     {
       "path": "models/ceiling-worker-v18/01_first_clue.png",
