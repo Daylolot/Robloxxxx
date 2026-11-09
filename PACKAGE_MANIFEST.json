@@ -186,6 +186,71 @@
       "sha256": "26a96080c55808a181735659b90313a444a8ee211be1c0b19474cb8007152e56"
     },
     {
+      "path": "models/anomalies-v31/blender/archive_01.png",
+      "bytes": 793618,
+      "sha256": "d9ee6f2f90478d426cc2bb1d80d6bdb558af5ebbc82f2b4ca550c262646943cc"
+    },
+    {
+      "path": "models/anomalies-v31/blender/archive_02.png",
+      "bytes": 796769,
+      "sha256": "589b9ff15c4a0de1b0a29c18c6ecff524c080f84c38d766f0fada42055713204"
+    },
+    {
+      "path": "models/anomalies-v31/blender/archive_03.png",
+      "bytes": 815656,
+      "sha256": "9deda137be33173e5a74806a2effc286b3f382135939ddb586ece41722df6a1e"
+    },
+    {
+      "path": "models/anomalies-v31/blender/archive_04.png",
+      "bytes": 810804,
+      "sha256": "350457a3b761c4d2cc7790b53d0b50e46989d860f8197df81e4d9cadd89addd4"
+    },
+    {
+      "path": "models/anomalies-v31/blender/archive_05_before.png",
+      "bytes": 813620,
+      "sha256": "f62a42e062bd803fc2c05bd708fff6eb35593527392f34a00472404a8324a318"
+    },
+    {
+      "path": "models/anomalies-v31/blender/archive_05_return.png",
+      "bytes": 810009,
+      "sha256": "7fe13a4d825797c3d03fc21201fbdea8b04d9c72758546778aa10c9c4c3b60b9"
+    },
+    {
+      "path": "models/anomalies-v31/blender/archive_05_turn.png",
+      "bytes": 738592,
+      "sha256": "20c435e63139051aabeb9d4fbdf23a69c0b65eed4b85e07adbb3e5279f1f24b8"
+    },
+    {
+      "path": "models/anomalies-v31/blender/printer_01_receipt.png",
+      "bytes": 813974,
+      "sha256": "8ec9da177e412ebf252114501d836d1a033af0c46ea96ce0333af1819cb12454"
+    },
+    {
+      "path": "models/anomalies-v31/blender/printer_02_fold.png",
+      "bytes": 796816,
+      "sha256": "fd6c501bca2e42957c51bf0e8a70815bc6d34f2c3f2a85058f6daa8445dbc38b"
+    },
+    {
+      "path": "models/anomalies-v31/blender/printer_03_monitor.png",
+      "bytes": 808977,
+      "sha256": "ed09ca74e0660822c2c043bcb8725cfb0f27da9991e3154c827a78bd194dd4ea"
+    },
+    {
+      "path": "models/anomalies-v31/blender/printer_04_desk.png",
+      "bytes": 1019441,
+      "sha256": "f3602c678713283add38f2bbc9c659c4ee1ff2e9b156470793523dd513292f58"
+    },
+    {
+      "path": "models/anomalies-v31/blender/printer_05_arc.png",
+      "bytes": 884144,
+      "sha256": "70a696f6c82e9ef921994cb40ea15d8c12cf99885cad1e7668082a97781cc4f4"
+    },
+    {
+      "path": "models/anomalies-v31/blender/printer_06_floor.png",
+      "bytes": 905000,
+      "sha256": "0df43a3a1da26286a3da3a2bfd3a5ec423f660f2db2311b2d885878cfad41e9c"
+    },
+    {
       "path": "models/ceiling-worker-v18/01_first_clue.png",
       "bytes": 1101670,
       "sha256": "e5f31a87101400f394b4ddbc69196ee9fa0f7fde555aa967baee5fbb652294c2"
