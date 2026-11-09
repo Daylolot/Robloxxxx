@@ -1,0 +1,54 @@
+{
+  "decodedFrames": [
+    {
+      "requestedSeconds": 0.25,
+      "decodedSeconds": 0.25
+    },
+    {
+      "requestedSeconds": 2.25,
+      "decodedSeconds": 2.25
+    },
+    {
+      "requestedSeconds": 4.25,
+      "decodedSeconds": 4.25
+    },
+    {
+      "requestedSeconds": 6.25,
+      "decodedSeconds": 6.25
+    },
+    {
+      "requestedSeconds": 8.25,
+      "decodedSeconds": 8.25
+    },
+    {
+      "requestedSeconds": 10.25,
+      "decodedSeconds": 10.25
+    },
+    {
+      "requestedSeconds": 12.25,
+      "decodedSeconds": 12.25
+    },
+    {
+      "requestedSeconds": 14.25,
+      "decodedSeconds": 14.25
+    },
+    {
+      "requestedSeconds": 16.25,
+      "decodedSeconds": 16.25
+    },
+    {
+      "requestedSeconds": 18.25,
+      "decodedSeconds": 18.25
+    },
+    {
+      "requestedSeconds": 20.25,
+      "decodedSeconds": 20.25
+    }
+  ],
+  "durationSeconds": 21.042,
+  "fps": 24,
+  "height": 486,
+  "playable": true,
+  "width": 768,
+  "audioTrack": true
+}
