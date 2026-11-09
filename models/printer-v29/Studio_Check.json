@@ -1,0 +1,54 @@
+{
+  "clear": {
+    "mode": "Off",
+    "paper": false,
+    "level": 1
+  },
+  "second": {
+    "paper": true,
+    "display": "\u0427\u0418\u0422\u0410\u0422\u042c",
+    "mode": "Ready",
+    "level": 2,
+    "notStarted": true
+  },
+  "staged": {
+    "parts": 168
+  },
+  "started": {
+    "accepted": true,
+    "delay": 4.999976873397827,
+    "duplicate": false
+  },
+  "time": {
+    "stirHigh": 0,
+    "still": 0,
+    "stirLow": 168,
+    "edge": 0.0650390163064003,
+    "before": 168
+  },
+  "lift": {
+    "lifted": 115
+  },
+  "room": {
+    "drift": 0.3103025555610657,
+    "x": 38.93499755859375,
+    "count": 168,
+    "z": 43.123122215270996,
+    "high": 8.475881576538086,
+    "low": 5.027132987976074,
+    "loadedSounds": 3
+  },
+  "continues": {
+    "count": 168,
+    "drift": 0.21092014014720917
+  },
+  "cleanup": {
+    "mode": "Off",
+    "noPrintout": true,
+    "correct": true,
+    "inactive": true
+  },
+  "clientCleanup": {
+    "parts": 0
+  }
+}

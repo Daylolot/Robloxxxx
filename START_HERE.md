@@ -4,7 +4,7 @@
 
 1. Прочитай [состояние проекта](README.md), затем [журнал изменений](CHANGELOG.md) и последнюю запись в [sessions](sessions/).
 2. Найди принятые решения в [журнале обоснований](docs/DECISION_LOG.md) и текущий порядок задач в [плане](docs/ROADMAP.md).
-3. Для принтера открой [карту v27](maps/Kontur_Office_v27_Printer.rbxl) или [тестовую карту v27](maps/Kontur_Office_v27_Printer_QA.rbxl). Для зеркала открой [карту v26](maps/Kontur_Office_v26_Mirror.rbxl) или [тестовую карту v26](maps/Kontur_Office_v26_Mirror_QA.rbxl). Для сотрудника открой [карту v24](maps/Kontur_Office_v24_Ceiling_Worker.rbxl) в Roblox Studio. Для показа сотрудника на втором уровне есть [тестовая карта v24](maps/Kontur_Office_v24_Ceiling_Worker_QA.rbxl). Для проверки крови есть [карта QA](maps/Office_v17_BloodFlood_QA.rbxl).
+3. Для принтера открой [карту v29](maps/Kontur_Office_v29_Printer.rbxl) или [тестовую карту v29](maps/Kontur_Office_v29_Printer_QA.rbxl). Для зеркала открой [карту v26](maps/Kontur_Office_v26_Mirror.rbxl) или [тестовую карту v26](maps/Kontur_Office_v26_Mirror_QA.rbxl). Для сотрудника открой [карту v24](maps/Kontur_Office_v24_Ceiling_Worker.rbxl) в Roblox Studio. Для показа сотрудника на втором уровне есть [тестовая карта v24](maps/Kontur_Office_v24_Ceiling_Worker_QA.rbxl). Для проверки крови есть [карта QA](maps/Office_v17_BloodFlood_QA.rbxl).
 4. Для осмотра нового сотрудника скачай [сцену Blender v24](models/ceiling-worker-v24/Ceiling_Office_Character_Study_v24.blend). [Обзор](models/ceiling-worker-v24/REVIEW.md) содержит сравнение позы и проверку в игре.
 5. Перед работой прочитай [правила нового коммита](CONTRIBUTING.md).
 
@@ -12,7 +12,7 @@
 
 В Blender v28 собраны предупреждение, отсчёт и 42 отдельных полёта. [Сцена, ролик и отчёт](models/printer-v28/REVIEW.md).
 
-В v27 принтер предупреждает о подъёме бумаги. Листы сначала дрожат на месте, затем поднимаются над столами и разлетаются по центральному офису. [Обзор v27](models/printer-v27/REVIEW.md).
+В v29 принтер выдаёт предупреждение тремя протяжками и запускает пять секунд отсчёта после чтения. Листы отрываются по одному и летят по траекториям из Blender v28. [Обзор v29](models/printer-v29/REVIEW.md).
 
 В v26 левое зеркало женского санузла показывает фигуру под потолком. [Обзор v26](models/mirror-v26/REVIEW.md).
 

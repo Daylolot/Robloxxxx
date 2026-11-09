@@ -12,8 +12,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 9695,
-      "sha256": "d5a38bd010aa2dcca0202709d5d44fd9b441eeaf343ae6ba9236dd742c64cc22"
+      "bytes": 10124,
+      "sha256": "a863785113bf4b163f53a99788c4b0668ca632008bfd32a5687eb530949514dd"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -22,18 +22,18 @@
     },
     {
       "path": "README.md",
-      "bytes": 5055,
-      "sha256": "75358cd58c5fb54f7d97ca80454922416c0c3a6affacf79f022d8af0b6cd2e89"
+      "bytes": 5030,
+      "sha256": "123653acd852204867683a824474cb4ac6ba60a3ec279c616bfc2dfad7c75c25"
     },
     {
       "path": "START_HERE.md",
-      "bytes": 3448,
-      "sha256": "b65c84c766dab3e1bfaf97a0047fbb70b83bb6933f1d93dabe0c2c80d40600b8"
+      "bytes": 3477,
+      "sha256": "47d9b5d72c66d8216f3ba9609dec591aaddbddc64a8d4d3b50bb9269adba69f3"
     },
     {
       "path": "docs/DECISION_LOG.md",
-      "bytes": 8694,
-      "sha256": "c4ee93d9d2941ed34447830c32c1e9923b36002fa9d134d543fd78d09fd6f4d7"
+      "bytes": 9163,
+      "sha256": "37e83549e2f3d2551146a9ae0998547ffa0147e89464c27a9b05c603f16146ed"
     },
     {
       "path": "docs/PROJECT_FILE_INDEX.json",
@@ -109,6 +109,16 @@
       "path": "maps/Kontur_Office_v27_Printer_QA.rbxl",
       "bytes": 2960308,
       "sha256": "fbfe5e6e59b0eeb6f1e8a9486d9997e49a0fb2eece03653e80533c8ee33b8cd5"
+    },
+    {
+      "path": "maps/Kontur_Office_v29_Printer.rbxl",
+      "bytes": 3085901,
+      "sha256": "0ebdde6d46749e1e9ba7503eb0e30f731ff988f31aa196bc914f74009b795ad6"
+    },
+    {
+      "path": "maps/Kontur_Office_v29_Printer_QA.rbxl",
+      "bytes": 3086009,
+      "sha256": "0957f200bf505368824057f44bd062ed26530458c59f548ddf5ecd369e09631d"
     },
     {
       "path": "maps/Office_v17_BloodFlood_QA.rbxl",
@@ -766,6 +776,41 @@
       "sha256": "e094e348800aabb2c9e4c81d6ab26e65a9cab49af6852481c14a455d85991400"
     },
     {
+      "path": "models/printer-v29/01_warning.png",
+      "bytes": 219122,
+      "sha256": "e40d0f62a779c3ca05ad8bb7e59f8658d99a1851c3838f1a06f74beb11e4d704"
+    },
+    {
+      "path": "models/printer-v29/02_stirring.png",
+      "bytes": 207651,
+      "sha256": "5f8bc6041466acd1e4693b555da5086234ccdb6b5baf247c079af65e21a5df01"
+    },
+    {
+      "path": "models/printer-v29/03_lifting.png",
+      "bytes": 298000,
+      "sha256": "e0d43f3b7c9b3536411c21336fb02994580a3ccf0a300ea9ff5a5b9451b5cecb"
+    },
+    {
+      "path": "models/printer-v29/04_room.png",
+      "bytes": 305904,
+      "sha256": "af441c71c8adfe994cda7783653a3da419d2c7d6a6ab249bea9bea635d5c9f18"
+    },
+    {
+      "path": "models/printer-v29/05_printout.png",
+      "bytes": 227604,
+      "sha256": "d443ccb26c0d63d84ca2de972708f94782be1b479cf70c69d5e3ee0d0f5c4840"
+    },
+    {
+      "path": "models/printer-v29/REVIEW.md",
+      "bytes": 2165,
+      "sha256": "a221e9e79eb30c08a6ee90ffe372e01ecaf7cf6b024f8436afa1632eadbc5e4e"
+    },
+    {
+      "path": "models/printer-v29/Studio_Check.json",
+      "bytes": 945,
+      "sha256": "9bdacafd00cdda4f5bcddcb293779709955fdb4ab72d92be0235e63d78c4760a"
+    },
+    {
       "path": "sessions/2026-11-08-github-preparation.md",
       "bytes": 1307,
       "sha256": "75680fa2ad2ae5c5bbbb57f22c4f75f2ebedb728bef2628e901023bf579d935c"
@@ -809,6 +854,11 @@
       "path": "sessions/2026-11-09-printer-blender.md",
       "bytes": 2049,
       "sha256": "6e186feee0041b0d5c5fbf8285c4ff76bd05553bc378c2e1c0286486954e5b06"
+    },
+    {
+      "path": "sessions/2026-11-09-printer-gameplay.md",
+      "bytes": 2069,
+      "sha256": "d591b5cf45bd05c9bc6f685afbfe1d54b4baa9d264b38dab9f083035cd4740fd"
     },
     {
       "path": "sessions/2026-11-09-printer.md",
@@ -1234,6 +1284,41 @@
       "path": "sources/printer-v28/verify_study.py",
       "bytes": 2187,
       "sha256": "51ac073cae225c22a55dd9f0a9ca2ea62d093c2e96504e29dd53b5115d6fa042"
+    },
+    {
+      "path": "sources/printer-v29/PrinterFlightData.luau",
+      "bytes": 277779,
+      "sha256": "a97fd5b53e1b9874e0aadcd0e189252eb06bfcced027eb24f770109d06b79308"
+    },
+    {
+      "path": "sources/printer-v29/PrinterPaper.client.luau",
+      "bytes": 7143,
+      "sha256": "77003eeb895a27ef5bdc8a472534bb8ec2eb4b0d4de1509383844441425117fd"
+    },
+    {
+      "path": "sources/printer-v29/PrinterRound.luau",
+      "bytes": 8501,
+      "sha256": "f0bb424f56cb7e5773164be5686b27fa136a4502e37a8e6b24f72004a3da574c"
+    },
+    {
+      "path": "sources/printer-v29/README.md",
+      "bytes": 1252,
+      "sha256": "2bc9b8054f17c8bffe21dfdd293dd7f32e11c9a488d84360aa10a596437c2905"
+    },
+    {
+      "path": "sources/printer-v29/build_place.py",
+      "bytes": 4989,
+      "sha256": "eba9ab8e6d271c1647fb568700bb08005191eb1419134f5ada4f9f782eff375f"
+    },
+    {
+      "path": "sources/printer-v29/export_flight.py",
+      "bytes": 1758,
+      "sha256": "4f69ea22a4eac2ba402c6e9cf0434376623351bd2ce68994f6bc76b7309c4a01"
+    },
+    {
+      "path": "sources/printer-v29/studio_verify.py",
+      "bytes": 8876,
+      "sha256": "1517c0cd7221dccf6394bf2d4aa72d751652876e81396020df982c826935450b"
     }
   ]
 }
