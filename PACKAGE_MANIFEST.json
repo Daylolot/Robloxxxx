@@ -1,5 +1,4 @@
 {
-  "uploaded": false,
   "files": [
     {
       "path": ".gitignore",
@@ -7,9 +6,14 @@
       "sha256": "29aceba45f3b21654438e6ce49fa0ff932d5540a6d013b29375c34cc3402230f"
     },
     {
+      "path": "AGENTS.md",
+      "bytes": 1555,
+      "sha256": "cb9d235802e14eed4b87a963ab0db84491eb8743cc6b03fa8d564d53fb6f6255"
+    },
+    {
       "path": "CHANGELOG.md",
-      "bytes": 4797,
-      "sha256": "4eb8f0b9f1f30aefbd451485c45a225073be9adfc30eb068735edbe9e01f6d6c"
+      "bytes": 5413,
+      "sha256": "dd5ff0e78233de2f52df69152dd0b8be654dc07637f3765a9e9dff7d48b14862"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -18,18 +22,18 @@
     },
     {
       "path": "README.md",
-      "bytes": 4083,
-      "sha256": "77c0684b010815a1d18455671dff1c5b0039bf1028973c46f188ad4f0bcfdb42"
+      "bytes": 4062,
+      "sha256": "f5b5a43a8d89bd8c1046fffd028d0871ce56f334d042b06ccebfddb3920452f3"
     },
     {
       "path": "START_HERE.md",
-      "bytes": 2695,
-      "sha256": "e84539322d0e5fed8261cc796bc70f207851a287a5a62e458e9398fe24041c35"
+      "bytes": 2630,
+      "sha256": "54c44fb6cc468ccca453316325866303f7d9238a60a9cb09188d91971d0e9cb3"
     },
     {
       "path": "docs/DECISION_LOG.md",
-      "bytes": 4686,
-      "sha256": "114ac60e0b56c346982f478eaea8b4c9cb48a706a82c2f82e76996d47af2bc58"
+      "bytes": 4687,
+      "sha256": "47f1a821c6457c9e12eeadcd84c8e5e0ba8f13faa567b77252fad5e2b47f56bd"
     },
     {
       "path": "docs/PROJECT_FILE_INDEX.json",
@@ -38,8 +42,8 @@
     },
     {
       "path": "docs/ROADMAP.md",
-      "bytes": 1943,
-      "sha256": "357d55ee9774a8d538513ed14d400213363243b0f4fba4272fcf1cf812902d5e"
+      "bytes": 2087,
+      "sha256": "0d8370ba595df45f7a9bec52ca50d7b668d47ebcc36c1606eee09b24c6306250"
     },
     {
       "path": "maps/Kontur_Office_v17_No_Red_Lines.rbxl",
@@ -192,6 +196,56 @@
       "sha256": "476eed36dcdcf65b91c81cf8e0a12df64af95b4ef1199cdef6934d1600c0e8fc"
     },
     {
+      "path": "models/ceiling-worker-v19/01_v18_overhead.png",
+      "bytes": 676828,
+      "sha256": "e708db4335c0e53e4c11b8c1b4f1790c4c6c6abb7600f58de469b46eb0328aee"
+    },
+    {
+      "path": "models/ceiling-worker-v19/02_v19_overhead.png",
+      "bytes": 681970,
+      "sha256": "76ab07af353d6315d81701cfd9c56f81ea0609848dc001097e956682bfedd87e"
+    },
+    {
+      "path": "models/ceiling-worker-v19/03_v19_left.png",
+      "bytes": 766422,
+      "sha256": "d7fc94289e0517eee348083d88ec47182dfe2f0d56372c0f5918b44c65362f8c"
+    },
+    {
+      "path": "models/ceiling-worker-v19/04_v19_right.png",
+      "bytes": 743013,
+      "sha256": "b03f6289d6028a995693fb6060e81f1ccc9c4f733bde9c94574721446b34b3a0"
+    },
+    {
+      "path": "models/ceiling-worker-v19/05_v19_player.png",
+      "bytes": 759930,
+      "sha256": "2a90781cf66a72c3c4a463cca6aee600a5bd29d8f962a0f0f106ced201714c65"
+    },
+    {
+      "path": "models/ceiling-worker-v19/06_v19_room.png",
+      "bytes": 748965,
+      "sha256": "36bcc9d74659bf529484480603fda46c9d325cba480bfaa88f7ef4f8e3510a6b"
+    },
+    {
+      "path": "models/ceiling-worker-v19/Ceiling_Office_Character_Study_v19.blend",
+      "bytes": 2802637,
+      "sha256": "2d3a2da612a345b35cb6a1c20f9f0b8c4ed768406be7803d73cd4bc373f97d6c"
+    },
+    {
+      "path": "models/ceiling-worker-v19/Pose_Check.json",
+      "bytes": 140039,
+      "sha256": "63b596e15559f8458c32c731ae29be1364986b5acaab30534918a7ae820ea704"
+    },
+    {
+      "path": "models/ceiling-worker-v19/REVIEW.md",
+      "bytes": 2062,
+      "sha256": "83ba3e008280a36e2c73e7e3334c716850af37d0a8f00ab83c08f26b1598c78c"
+    },
+    {
+      "path": "models/ceiling-worker-v19/Typing_And_Pause.mp4",
+      "bytes": 592885,
+      "sha256": "cc48cf0a1ce2092e97233a0bd81c8ac0cd176e37f271a9910313e37ec09c0271"
+    },
+    {
       "path": "sessions/2026-11-08-github-preparation.md",
       "bytes": 1307,
       "sha256": "75680fa2ad2ae5c5bbbb57f22c4f75f2ebedb728bef2628e901023bf579d935c"
@@ -200,6 +254,11 @@
       "path": "sessions/2026-11-09-github-and-handoff.md",
       "bytes": 1735,
       "sha256": "04efa665ba4dc8528ff24f39449375c0beccc63ef64fff17242b54e0390f1556"
+    },
+    {
+      "path": "sessions/2026-11-09-typing-pose.md",
+      "bytes": 3596,
+      "sha256": "6c01fef1acc321839c48b2288ccd5d18826cbddb2f52b4165ec5cbe6c0a7edfb"
     },
     {
       "path": "sources/ceiling-worker-v18/DECISIONS.md",
@@ -305,6 +364,21 @@
       "path": "sources/ceiling-worker-v18/review_gallery.mjs",
       "bytes": 3229,
       "sha256": "1616fa269ee5cf7979c4b64069c6296e13145b1a0f80b29881fe4d76094588f4"
+    },
+    {
+      "path": "sources/ceiling-worker-v19/correct_typing_pose_v19.py",
+      "bytes": 7844,
+      "sha256": "8c06e1ce8a4d8702e0cdb228f08c800b060bdd7b1951e839342a7a990fee7d79"
+    },
+    {
+      "path": "sources/ceiling-worker-v19/probe_hand_orientation.py",
+      "bytes": 1408,
+      "sha256": "5dbe10a39ad80a5d436cb187be7b1e9ebe11f2499d11c53c7ff53731f6167b68"
+    },
+    {
+      "path": "sources/ceiling-worker-v19/render_typing_v19.py",
+      "bytes": 3151,
+      "sha256": "9c844e92a83d9c7bee417ac7d3ab2bd1f03c1e8ea6a35403cffc6615ab1beafb"
     }
   ]
 }

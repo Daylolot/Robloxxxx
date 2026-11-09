@@ -1,0 +1,4571 @@
+{
+  "stage": "Blender pose revision",
+  "sourceSha256": "1d8e0c5750d508663953a8fae9650bd19fc55a43dcfd78d870fdb5d35f0202bb",
+  "blendSha256": "2d3a2da612a345b35cb6a1c20f9f0b8c4ed768406be7803d73cd4bc373f97d6c",
+  "jointChecks": [
+    {
+      "frame": 1,
+      "side": "L",
+      "thumbInwardMetres": 0.1036052256822586,
+      "fingerReachMetres": 0.20710787177085876,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.06290850114656
+    },
+    {
+      "frame": 1,
+      "side": "R",
+      "thumbInwardMetres": 0.10345442593097687,
+      "fingerReachMetres": 0.2072722315788269,
+      "wristGapMetres": 1.6924465733171325e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.063096331348735
+    },
+    {
+      "frame": 2,
+      "side": "L",
+      "thumbInwardMetres": 0.10363887250423431,
+      "fingerReachMetres": 0.2070930004119873,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.162391913955087
+    },
+    {
+      "frame": 2,
+      "side": "R",
+      "thumbInwardMetres": 0.10342146456241608,
+      "fingerReachMetres": 0.20728716254234314,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.964313012930134
+    },
+    {
+      "frame": 3,
+      "side": "L",
+      "thumbInwardMetres": 0.10366332530975342,
+      "fingerReachMetres": 0.2070818543434143,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.233844230409883
+    },
+    {
+      "frame": 3,
+      "side": "R",
+      "thumbInwardMetres": 0.10339829325675964,
+      "fingerReachMetres": 0.20729762315750122,
+      "wristGapMetres": 1.228781230931777e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.894298451295626
+    },
+    {
+      "frame": 4,
+      "side": "L",
+      "thumbInwardMetres": 0.10367099940776825,
+      "fingerReachMetres": 0.20707854628562927,
+      "wristGapMetres": 9.541398640621973e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.25623188296189
+    },
+    {
+      "frame": 4,
+      "side": "R",
+      "thumbInwardMetres": 0.1033911406993866,
+      "fingerReachMetres": 0.20730093121528625,
+      "wristGapMetres": 1.2644054553268208e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87247258180285
+    },
+    {
+      "frame": 5,
+      "side": "L",
+      "thumbInwardMetres": 0.10365958511829376,
+      "fingerReachMetres": 0.20708373188972473,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.222968861703933
+    },
+    {
+      "frame": 5,
+      "side": "R",
+      "thumbInwardMetres": 0.1034017950296402,
+      "fingerReachMetres": 0.2072959840297699,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.90488182941456
+    },
+    {
+      "frame": 6,
+      "side": "L",
+      "thumbInwardMetres": 0.10363258421421051,
+      "fingerReachMetres": 0.2070956528186798,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.143878686209767
+    },
+    {
+      "frame": 6,
+      "side": "R",
+      "thumbInwardMetres": 0.10342751443386078,
+      "fingerReachMetres": 0.20728430151939392,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.982594014243674
+    },
+    {
+      "frame": 7,
+      "side": "L",
+      "thumbInwardMetres": 0.10359823703765869,
+      "fingerReachMetres": 0.2071111500263214,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.042117405313043
+    },
+    {
+      "frame": 7,
+      "side": "R",
+      "thumbInwardMetres": 0.10346142947673798,
+      "fingerReachMetres": 0.2072691023349762,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.083895964918717
+    },
+    {
+      "frame": 8,
+      "side": "L",
+      "thumbInwardMetres": 0.10356654226779938,
+      "fingerReachMetres": 0.2071254849433899,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.94703092678271
+    },
+    {
+      "frame": 8,
+      "side": "R",
+      "thumbInwardMetres": 0.10349394381046295,
+      "fingerReachMetres": 0.2072545886039734,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.17995916050036
+    },
+    {
+      "frame": 9,
+      "side": "L",
+      "thumbInwardMetres": 0.10354618728160858,
+      "fingerReachMetres": 0.2071346640586853,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.88549433745548
+    },
+    {
+      "frame": 9,
+      "side": "R",
+      "thumbInwardMetres": 0.10351544618606567,
+      "fingerReachMetres": 0.20724481344223022,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.24285837256701
+    },
+    {
+      "frame": 10,
+      "side": "L",
+      "thumbInwardMetres": 0.1035425215959549,
+      "fingerReachMetres": 0.2071363925933838,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87451993100656
+    },
+    {
+      "frame": 10,
+      "side": "R",
+      "thumbInwardMetres": 0.10351930558681488,
+      "fingerReachMetres": 0.20724305510520935,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.25411452431919
+    },
+    {
+      "frame": 11,
+      "side": "L",
+      "thumbInwardMetres": 0.10355658829212189,
+      "fingerReachMetres": 0.20712998509407043,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.917165924636826
+    },
+    {
+      "frame": 11,
+      "side": "R",
+      "thumbInwardMetres": 0.10350434482097626,
+      "fingerReachMetres": 0.20724976062774658,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.210387653252766
+    },
+    {
+      "frame": 12,
+      "side": "L",
+      "thumbInwardMetres": 0.10358470678329468,
+      "fingerReachMetres": 0.20711734890937805,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.001669025048226
+    },
+    {
+      "frame": 12,
+      "side": "R",
+      "thumbInwardMetres": 0.1034751832485199,
+      "fingerReachMetres": 0.20726290345191956,
+      "wristGapMetres": 1.228781230931777e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.124590231993654
+    },
+    {
+      "frame": 13,
+      "side": "L",
+      "thumbInwardMetres": 0.10361917316913605,
+      "fingerReachMetres": 0.20710179209709167,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.10434384374644
+    },
+    {
+      "frame": 13,
+      "side": "R",
+      "thumbInwardMetres": 0.10344062745571136,
+      "fingerReachMetres": 0.2072785496711731,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.02177539441745
+    },
+    {
+      "frame": 14,
+      "side": "L",
+      "thumbInwardMetres": 0.10365025699138641,
+      "fingerReachMetres": 0.2070876657962799,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.195789831449158
+    },
+    {
+      "frame": 14,
+      "side": "R",
+      "thumbInwardMetres": 0.10341061651706696,
+      "fingerReachMetres": 0.2072920799255371,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.931480293589882
+    },
+    {
+      "frame": 15,
+      "side": "L",
+      "thumbInwardMetres": 0.10366864502429962,
+      "fingerReachMetres": 0.20707958936691284,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.249437552285023
+    },
+    {
+      "frame": 15,
+      "side": "R",
+      "thumbInwardMetres": 0.10339328646659851,
+      "fingerReachMetres": 0.20729994773864746,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.879097865297762
+    },
+    {
+      "frame": 16,
+      "side": "L",
+      "thumbInwardMetres": 0.10366864502429962,
+      "fingerReachMetres": 0.20707961916923523,
+      "wristGapMetres": 1.2377834115800373e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.24940852398105
+    },
+    {
+      "frame": 16,
+      "side": "R",
+      "thumbInwardMetres": 0.10339327156543732,
+      "fingerReachMetres": 0.20729994773864746,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.8791115256761
+    },
+    {
+      "frame": 17,
+      "side": "L",
+      "thumbInwardMetres": 0.10365025699138641,
+      "fingerReachMetres": 0.2070876955986023,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.195745435219553
+    },
+    {
+      "frame": 17,
+      "side": "R",
+      "thumbInwardMetres": 0.10341057181358337,
+      "fingerReachMetres": 0.20729213953018188,
+      "wristGapMetres": 8.429369702178807e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.931548595481583
+    },
+    {
+      "frame": 18,
+      "side": "L",
+      "thumbInwardMetres": 0.10361920297145844,
+      "fingerReachMetres": 0.20710164308547974,
+      "wristGapMetres": 5.3726900748371916e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.10425334373994
+    },
+    {
+      "frame": 18,
+      "side": "R",
+      "thumbInwardMetres": 0.10344059765338898,
+      "fingerReachMetres": 0.2072785496711731,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.021865894423954
+    },
+    {
+      "frame": 19,
+      "side": "L",
+      "thumbInwardMetres": 0.10358469188213348,
+      "fingerReachMetres": 0.20711731910705566,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.00161609108216
+    },
+    {
+      "frame": 19,
+      "side": "R",
+      "thumbInwardMetres": 0.10347519814968109,
+      "fingerReachMetres": 0.20726290345191956,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.12467219426369
+    },
+    {
+      "frame": 20,
+      "side": "L",
+      "thumbInwardMetres": 0.1035565435886383,
+      "fingerReachMetres": 0.20712989568710327,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.917142018974733
+    },
+    {
+      "frame": 20,
+      "side": "R",
+      "thumbInwardMetres": 0.10350432991981506,
+      "fingerReachMetres": 0.20724976062774658,
+      "wristGapMetres": 1.2377834115800373e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.210440587218834
+    },
+    {
+      "frame": 21,
+      "side": "L",
+      "thumbInwardMetres": 0.10354258120059967,
+      "fingerReachMetres": 0.2071363925933838,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.874489195155295
+    },
+    {
+      "frame": 21,
+      "side": "R",
+      "thumbInwardMetres": 0.10351932048797607,
+      "fingerReachMetres": 0.20724308490753174,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.25412135450836
+    },
+    {
+      "frame": 22,
+      "side": "L",
+      "thumbInwardMetres": 0.10354617238044739,
+      "fingerReachMetres": 0.20713481307029724,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.88550970538111
+    },
+    {
+      "frame": 22,
+      "side": "R",
+      "thumbInwardMetres": 0.10351541638374329,
+      "fingerReachMetres": 0.2072448432445526,
+      "wristGapMetres": 1.2644054553268208e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.242843004641376
+    },
+    {
+      "frame": 23,
+      "side": "L",
+      "thumbInwardMetres": 0.1035664975643158,
+      "fingerReachMetres": 0.2071254849433899,
+      "wristGapMetres": 8.940696716308594e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.947099228674407
+    },
+    {
+      "frame": 23,
+      "side": "R",
+      "thumbInwardMetres": 0.10349392890930176,
+      "fingerReachMetres": 0.20725449919700623,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.179899396345125
+    },
+    {
+      "frame": 24,
+      "side": "L",
+      "thumbInwardMetres": 0.10359825193881989,
+      "fingerReachMetres": 0.20711103081703186,
+      "wristGapMetres": 1.2377834115800373e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.04219936758308
+    },
+    {
+      "frame": 24,
+      "side": "R",
+      "thumbInwardMetres": 0.10346141457557678,
+      "fingerReachMetres": 0.20726913213729858,
+      "wristGapMetres": 8.429369702178807e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.08384303095265
+    },
+    {
+      "frame": 25,
+      "side": "L",
+      "thumbInwardMetres": 0.10363262891769409,
+      "fingerReachMetres": 0.20709577202796936,
+      "wristGapMetres": 4.2146848510894035e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.143938450365006
+    },
+    {
+      "frame": 25,
+      "side": "R",
+      "thumbInwardMetres": 0.10342752933502197,
+      "fingerReachMetres": 0.20728439092636108,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.982534250088435
+    },
+    {
+      "frame": 26,
+      "side": "L",
+      "thumbInwardMetres": 0.10365961492061615,
+      "fingerReachMetres": 0.20708349347114563,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.222999597555198
+    },
+    {
+      "frame": 26,
+      "side": "R",
+      "thumbInwardMetres": 0.10340182483196259,
+      "fingerReachMetres": 0.20729616284370422,
+      "wristGapMetres": 6.828569911354542e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.904859631299757
+    },
+    {
+      "frame": 27,
+      "side": "L",
+      "thumbInwardMetres": 0.10367099940776825,
+      "fingerReachMetres": 0.20707854628562927,
+      "wristGapMetres": 9.541398640621973e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.25623188296189
+    },
+    {
+      "frame": 27,
+      "side": "R",
+      "thumbInwardMetres": 0.1033911406993866,
+      "fingerReachMetres": 0.20730090141296387,
+      "wristGapMetres": 1.999200562387517e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872457213877215
+    },
+    {
+      "frame": 28,
+      "side": "L",
+      "thumbInwardMetres": 0.10366328060626984,
+      "fingerReachMetres": 0.20708200335502625,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.233799834180278
+    },
+    {
+      "frame": 28,
+      "side": "R",
+      "thumbInwardMetres": 0.10339833796024323,
+      "fingerReachMetres": 0.207297682762146,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.89430698903209
+    },
+    {
+      "frame": 29,
+      "side": "L",
+      "thumbInwardMetres": 0.10363885760307312,
+      "fingerReachMetres": 0.20709294080734253,
+      "wristGapMetres": 1.1920928955078125e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.162347517725483
+    },
+    {
+      "frame": 29,
+      "side": "R",
+      "thumbInwardMetres": 0.10342143476009369,
+      "fingerReachMetres": 0.20728716254234314,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.964389852558295
+    },
+    {
+      "frame": 30,
+      "side": "L",
+      "thumbInwardMetres": 0.10360521078109741,
+      "fingerReachMetres": 0.20710811018943787,
+      "wristGapMetres": 1.2377834115800373e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.06282653887652
+    },
+    {
+      "frame": 30,
+      "side": "R",
+      "thumbInwardMetres": 0.10345451533794403,
+      "fingerReachMetres": 0.20727232098579407,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.063142435125634
+    },
+    {
+      "frame": 31,
+      "side": "L",
+      "thumbInwardMetres": 0.10357217490673065,
+      "fingerReachMetres": 0.207122802734375,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.96407224876189
+    },
+    {
+      "frame": 31,
+      "side": "R",
+      "thumbInwardMetres": 0.1034880131483078,
+      "fingerReachMetres": 0.20725703239440918,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.16263267812333
+    },
+    {
+      "frame": 32,
+      "side": "L",
+      "thumbInwardMetres": 0.10354895889759064,
+      "fingerReachMetres": 0.20713350176811218,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.89406451731655
+    },
+    {
+      "frame": 32,
+      "side": "R",
+      "thumbInwardMetres": 0.10351242125034332,
+      "fingerReachMetres": 0.20724624395370483,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.234023522875596
+    },
+    {
+      "frame": 33,
+      "side": "L",
+      "thumbInwardMetres": 0.10354183614253998,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872298411979013
+    },
+    {
+      "frame": 33,
+      "side": "R",
+      "thumbInwardMetres": 0.10352006554603577,
+      "fingerReachMetres": 0.20724278688430786,
+      "wristGapMetres": 8.940696716308594e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.256402637691142
+    },
+    {
+      "frame": 34,
+      "side": "L",
+      "thumbInwardMetres": 0.10355250537395477,
+      "fingerReachMetres": 0.20713186264038086,
+      "wristGapMetres": 6.828569911354542e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.90474522563116
+    },
+    {
+      "frame": 34,
+      "side": "R",
+      "thumbInwardMetres": 0.10350865125656128,
+      "fingerReachMetres": 0.20724788308143616,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.22309692775087
+    },
+    {
+      "frame": 35,
+      "side": "L",
+      "thumbInwardMetres": 0.10357828438282013,
+      "fingerReachMetres": 0.2071201205253601,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.98250522178446
+    },
+    {
+      "frame": 35,
+      "side": "R",
+      "thumbInwardMetres": 0.103481724858284,
+      "fingerReachMetres": 0.20726001262664795,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.143976016405443
+    },
+    {
+      "frame": 36,
+      "side": "L",
+      "thumbInwardMetres": 0.1036122739315033,
+      "fingerReachMetres": 0.2071048617362976,
+      "wristGapMetres": 8.940696716308594e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.083798634723045
+    },
+    {
+      "frame": 36,
+      "side": "R",
+      "thumbInwardMetres": 0.10344745218753815,
+      "fingerReachMetres": 0.2072754204273224,
+      "wristGapMetres": 6.828569911354542e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.042206197772252
+    },
+    {
+      "frame": 37,
+      "side": "L",
+      "thumbInwardMetres": 0.10364481806755066,
+      "fingerReachMetres": 0.20709028840065002,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.179839632189886
+    },
+    {
+      "frame": 37,
+      "side": "R",
+      "thumbInwardMetres": 0.10341575741767883,
+      "fingerReachMetres": 0.20728978514671326,
+      "wristGapMetres": 4.2146848510894035e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.947143624904015
+    },
+    {
+      "frame": 38,
+      "side": "L",
+      "thumbInwardMetres": 0.10366633534431458,
+      "fingerReachMetres": 0.2070806920528412,
+      "wristGapMetres": 4.2146848510894035e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.2427234763309
+    },
+    {
+      "frame": 38,
+      "side": "R",
+      "thumbInwardMetres": 0.10339546203613281,
+      "fingerReachMetres": 0.20729908347129822,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.885622403502417
+    },
+    {
+      "frame": 39,
+      "side": "L",
+      "thumbInwardMetres": 0.10367019474506378,
+      "fingerReachMetres": 0.2070789337158203,
+      "wristGapMetres": 9.541398640621973e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.25395059977911
+    },
+    {
+      "frame": 39,
+      "side": "R",
+      "thumbInwardMetres": 0.10339188575744629,
+      "fingerReachMetres": 0.20730063319206238,
+      "wristGapMetres": 4.2146848510894035e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.874700931019568
+    },
+    {
+      "frame": 40,
+      "side": "L",
+      "thumbInwardMetres": 0.10365518927574158,
+      "fingerReachMetres": 0.20708554983139038,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.210179332483083
+    },
+    {
+      "frame": 40,
+      "side": "R",
+      "thumbInwardMetres": 0.1034059077501297,
+      "fingerReachMetres": 0.20729419589042664,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.917384490690267
+    },
+    {
+      "frame": 41,
+      "side": "L",
+      "thumbInwardMetres": 0.10362593829631805,
+      "fingerReachMetres": 0.20709872245788574,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.12434263763624
+    },
+    {
+      "frame": 41,
+      "side": "R",
+      "thumbInwardMetres": 0.1034339964389801,
+      "fingerReachMetres": 0.20728150010108948,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.001894421290835
+    },
+    {
+      "frame": 42,
+      "side": "L",
+      "thumbInwardMetres": 0.10359130799770355,
+      "fingerReachMetres": 0.20711424946784973,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.02152780006004
+    },
+    {
+      "frame": 42,
+      "side": "R",
+      "thumbInwardMetres": 0.10346837341785431,
+      "fingerReachMetres": 0.2072659730911255,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.104569239989054
+    },
+    {
+      "frame": 43,
+      "side": "L",
+      "thumbInwardMetres": 0.10356126725673676,
+      "fingerReachMetres": 0.2071278691291809,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.931268557725613
+    },
+    {
+      "frame": 43,
+      "side": "R",
+      "thumbInwardMetres": 0.1034993976354599,
+      "fingerReachMetres": 0.2072521150112152,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.19602205788094
+    },
+    {
+      "frame": 44,
+      "side": "L",
+      "thumbInwardMetres": 0.10354399681091309,
+      "fingerReachMetres": 0.20713576674461365,
+      "wristGapMetres": 8.940696716308594e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87889295962266
+    },
+    {
+      "frame": 44,
+      "side": "R",
+      "thumbInwardMetres": 0.10351778566837311,
+      "fingerReachMetres": 0.20724380016326904,
+      "wristGapMetres": 9.541398640621973e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.249616844750737
+    },
+    {
+      "frame": 45,
+      "side": "L",
+      "thumbInwardMetres": 0.10354404151439667,
+      "fingerReachMetres": 0.20713573694229126,
+      "wristGapMetres": 1.55572690202453e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87893906339956
+    },
+    {
+      "frame": 45,
+      "side": "R",
+      "thumbInwardMetres": 0.10351772606372833,
+      "fingerReachMetres": 0.20724385976791382,
+      "wristGapMetres": 6.828569911354542e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.24956391078467
+    },
+    {
+      "frame": 46,
+      "side": "L",
+      "thumbInwardMetres": 0.10356134176254272,
+      "fingerReachMetres": 0.20712777972221375,
+      "wristGapMetres": 1.3657139822709083e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.931420529434643
+    },
+    {
+      "frame": 46,
+      "side": "R",
+      "thumbInwardMetres": 0.10349936783313751,
+      "fingerReachMetres": 0.20725208520889282,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.1958717937192
+    },
+    {
+      "frame": 47,
+      "side": "L",
+      "thumbInwardMetres": 0.1035914272069931,
+      "fingerReachMetres": 0.20711418986320496,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.021724167998677
+    },
+    {
+      "frame": 47,
+      "side": "R",
+      "thumbInwardMetres": 0.10346831381320953,
+      "fingerReachMetres": 0.20726603269577026,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.104366041861244
+    },
+    {
+      "frame": 48,
+      "side": "L",
+      "thumbInwardMetres": 0.10362599790096283,
+      "fingerReachMetres": 0.20709869265556335,
+      "wristGapMetres": 4.2146848510894035e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.124552665953217
+    },
+    {
+      "frame": 48,
+      "side": "R",
+      "thumbInwardMetres": 0.10343389213085175,
+      "fingerReachMetres": 0.20728152990341187,
+      "wristGapMetres": 8.940696716308594e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.00170659108866
+    },
+    {
+      "frame": 49,
+      "side": "L",
+      "thumbInwardMetres": 0.10365527868270874,
+      "fingerReachMetres": 0.20708543062210083,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.210312521171897
+    },
+    {
+      "frame": 49,
+      "side": "R",
+      "thumbInwardMetres": 0.10340583324432373,
+      "fingerReachMetres": 0.20729419589042664,
+      "wristGapMetres": 4.2146848510894035e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.91725642464333
+    },
+    {
+      "frame": 50,
+      "side": "L",
+      "thumbInwardMetres": 0.10366988182067871,
+      "fingerReachMetres": 0.2070789635181427,
+      "wristGapMetres": 8.940696716308594e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.252958514802163
+    },
+    {
+      "frame": 50,
+      "side": "R",
+      "thumbInwardMetres": 0.10339188575744629,
+      "fingerReachMetres": 0.20730066299438477,
+      "wristGapMetres": 8.429369702178807e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.8746701951683
+    },
+    {
+      "frame": 51,
+      "side": "L",
+      "thumbInwardMetres": 0.10366503894329071,
+      "fingerReachMetres": 0.20708119869232178,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.2388063628419
+    },
+    {
+      "frame": 51,
+      "side": "R",
+      "thumbInwardMetres": 0.10339540243148804,
+      "fingerReachMetres": 0.20729908347129822,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.885562639347178
+    },
+    {
+      "frame": 52,
+      "side": "L",
+      "thumbInwardMetres": 0.10364243388175964,
+      "fingerReachMetres": 0.2070913314819336,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.172669641108666
+    },
+    {
+      "frame": 52,
+      "side": "R",
+      "thumbInwardMetres": 0.10341520607471466,
+      "fingerReachMetres": 0.20728996396064758,
+      "wristGapMetres": 1.2377834115800373e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.945629030455564
+    },
+    {
+      "frame": 53,
+      "side": "L",
+      "thumbInwardMetres": 0.1036093682050705,
+      "fingerReachMetres": 0.20710602402687073,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.075247237882188
+    },
+    {
+      "frame": 53,
+      "side": "R",
+      "thumbInwardMetres": 0.10344527661800385,
+      "fingerReachMetres": 0.2072763741016388,
+      "wristGapMetres": 9.996002811937585e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.03573117843908
+    },
+    {
+      "frame": 54,
+      "side": "L",
+      "thumbInwardMetres": 0.10357603430747986,
+      "fingerReachMetres": 0.2071211338043213,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.97567674016174
+    },
+    {
+      "frame": 54,
+      "side": "R",
+      "thumbInwardMetres": 0.10347621142864227,
+      "fingerReachMetres": 0.20726239681243896,
+      "wristGapMetres": 1.2377834115800373e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.127744071842905
+    },
+    {
+      "frame": 55,
+      "side": "L",
+      "thumbInwardMetres": 0.10355156660079956,
+      "fingerReachMetres": 0.20713219046592712,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.901878253727048
+    },
+    {
+      "frame": 55,
+      "side": "R",
+      "thumbInwardMetres": 0.10349847376346588,
+      "fingerReachMetres": 0.20725247263908386,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.19328656711835
+    },
+    {
+      "frame": 56,
+      "side": "L",
+      "thumbInwardMetres": 0.10354183614253998,
+      "fingerReachMetres": 0.20713657140731812,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87226767612775
+    },
+    {
+      "frame": 56,
+      "side": "R",
+      "thumbInwardMetres": 0.10350517928600311,
+      "fingerReachMetres": 0.20724952220916748,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.212807247766246
+    },
+    {
+      "frame": 57,
+      "side": "L",
+      "thumbInwardMetres": 0.10354800522327423,
+      "fingerReachMetres": 0.20713382959365845,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.890984102000875
+    },
+    {
+      "frame": 57,
+      "side": "R",
+      "thumbInwardMetres": 0.10349448025226593,
+      "fingerReachMetres": 0.20725426077842712,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.181612066279506
+    },
+    {
+      "frame": 58,
+      "side": "L",
+      "thumbInwardMetres": 0.10356682538986206,
+      "fingerReachMetres": 0.20712527632713318,
+      "wristGapMetres": 6.828569911354542e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.9478983608073
+    },
+    {
+      "frame": 58,
+      "side": "R",
+      "thumbInwardMetres": 0.10347045958042145,
+      "fingerReachMetres": 0.20726507902145386,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.110661768728704
+    },
+    {
+      "frame": 59,
+      "side": "L",
+      "thumbInwardMetres": 0.10359154641628265,
+      "fingerReachMetres": 0.20711416006088257,
+      "wristGapMetres": 9.541398640621973e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.022122026517827
+    },
+    {
+      "frame": 59,
+      "side": "R",
+      "thumbInwardMetres": 0.10344071686267853,
+      "fingerReachMetres": 0.20727843046188354,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.02206909255176
+    },
+    {
+      "frame": 60,
+      "side": "L",
+      "thumbInwardMetres": 0.1036139726638794,
+      "fingerReachMetres": 0.20710396766662598,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.08890590867492
+    },
+    {
+      "frame": 60,
+      "side": "R",
+      "thumbInwardMetres": 0.10341373085975647,
+      "fingerReachMetres": 0.20729079842567444,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.94099474710371
+    },
+    {
+      "frame": 61,
+      "side": "L",
+      "thumbInwardMetres": 0.10362698137760162,
+      "fingerReachMetres": 0.207098126411438,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.127414515215452
+    },
+    {
+      "frame": 61,
+      "side": "R",
+      "thumbInwardMetres": 0.10339614748954773,
+      "fingerReachMetres": 0.20729860663414001,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.887797818753064
+    },
+    {
+      "frame": 62,
+      "side": "L",
+      "thumbInwardMetres": 0.10362683236598969,
+      "fingerReachMetres": 0.20709818601608276,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.126994458581496
+    },
+    {
+      "frame": 62,
+      "side": "R",
+      "thumbInwardMetres": 0.10339115560054779,
+      "fingerReachMetres": 0.2073010802268982,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872373544059883
+    },
+    {
+      "frame": 63,
+      "side": "L",
+      "thumbInwardMetres": 0.10361428558826447,
+      "fingerReachMetres": 0.2071039080619812,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.089836521949334
+    },
+    {
+      "frame": 63,
+      "side": "R",
+      "thumbInwardMetres": 0.10339777171611786,
+      "fingerReachMetres": 0.20729801058769226,
+      "wristGapMetres": 9.541398640621973e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.89263700778002
+    },
+    {
+      "frame": 64,
+      "side": "L",
+      "thumbInwardMetres": 0.10359381139278412,
+      "fingerReachMetres": 0.20711323618888855,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.028960753424304
+    },
+    {
+      "frame": 64,
+      "side": "R",
+      "thumbInwardMetres": 0.10341218113899231,
+      "fingerReachMetres": 0.20729142427444458,
+      "wristGapMetres": 8.429369702178807e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.936193124117192
+    },
+    {
+      "frame": 65,
+      "side": "L",
+      "thumbInwardMetres": 0.10357174277305603,
+      "fingerReachMetres": 0.20712313055992126,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.962800126028977
+    },
+    {
+      "frame": 65,
+      "side": "R",
+      "thumbInwardMetres": 0.1034284383058548,
+      "fingerReachMetres": 0.20728403329849243,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.98524412764164
+    },
+    {
+      "frame": 66,
+      "side": "L",
+      "thumbInwardMetres": 0.10355381667613983,
+      "fingerReachMetres": 0.20713117718696594,
+      "wristGapMetres": 6.828569911354542e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.908759669315835
+    },
+    {
+      "frame": 66,
+      "side": "R",
+      "thumbInwardMetres": 0.10344082117080688,
+      "fingerReachMetres": 0.20727837085723877,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.02249768692218
+    },
+    {
+      "frame": 67,
+      "side": "L",
+      "thumbInwardMetres": 0.1035437285900116,
+      "fingerReachMetres": 0.20713570713996887,
+      "wristGapMetres": 4.2146848510894035e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87801015767244
+    },
+    {
+      "frame": 67,
+      "side": "R",
+      "thumbInwardMetres": 0.10344548523426056,
+      "fingerReachMetres": 0.20727616548538208,
+      "wristGapMetres": 9.541398640621973e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.036467131322148
+    },
+    {
+      "frame": 68,
+      "side": "L",
+      "thumbInwardMetres": 0.10354207456111908,
+      "fingerReachMetres": 0.20713657140731812,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87302411957833
+    },
+    {
+      "frame": 68,
+      "side": "R",
+      "thumbInwardMetres": 0.103441521525383,
+      "fingerReachMetres": 0.20727810263633728,
+      "wristGapMetres": 1.3075715880680267e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.02455015876777
+    },
+    {
+      "frame": 69,
+      "side": "L",
+      "thumbInwardMetres": 0.10354708135128021,
+      "fingerReachMetres": 0.20713433623313904,
+      "wristGapMetres": 6.828569911354542e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.88824348859641
+    },
+    {
+      "frame": 69,
+      "side": "R",
+      "thumbInwardMetres": 0.1034308671951294,
+      "fingerReachMetres": 0.20728299021720886,
+      "wristGapMetres": 6.828569911354542e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.992543892317087
+    },
+    {
+      "frame": 70,
+      "side": "L",
+      "thumbInwardMetres": 0.10355520248413086,
+      "fingerReachMetres": 0.2071305811405182,
+      "wristGapMetres": 4.2146848510894035e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.912941452635174
+    },
+    {
+      "frame": 70,
+      "side": "R",
+      "thumbInwardMetres": 0.10341714322566986,
+      "fingerReachMetres": 0.20728904008865356,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.95149274785802
+    },
+    {
+      "frame": 71,
+      "side": "L",
+      "thumbInwardMetres": 0.10356274247169495,
+      "fingerReachMetres": 0.20712721347808838,
+      "wristGapMetres": 8.940696716308594e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.935588652375646
+    },
+    {
+      "frame": 71,
+      "side": "R",
+      "thumbInwardMetres": 0.10340450704097748,
+      "fingerReachMetres": 0.207294762134552,
+      "wristGapMetres": 1.4600096599955427e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.913151480952152
+    },
+    {
+      "frame": 72,
+      "side": "L",
+      "thumbInwardMetres": 0.1035667359828949,
+      "fingerReachMetres": 0.20712533593177795,
+      "wristGapMetres": 1.3328003749250113e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.947655889091767
+    },
+    {
+      "frame": 72,
+      "side": "R",
+      "thumbInwardMetres": 0.10339565575122833,
+      "fingerReachMetres": 0.20729893445968628,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.886105639386194
+    },
+    {
+      "frame": 73,
+      "side": "L",
+      "thumbInwardMetres": 0.10356621444225311,
+      "fingerReachMetres": 0.20712563395500183,
+      "wristGapMetres": 5.3726900748371916e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.94602176633284
+    },
+    {
+      "frame": 73,
+      "side": "R",
+      "thumbInwardMetres": 0.10339149832725525,
+      "fingerReachMetres": 0.20730063319206238,
+      "wristGapMetres": 4.2146848510894035e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.873544921502543
+    },
+    {
+      "frame": 74,
+      "side": "L",
+      "thumbInwardMetres": 0.10356177389621735,
+      "fingerReachMetres": 0.20712760090827942,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.932800227646986
+    },
+    {
+      "frame": 74,
+      "side": "R",
+      "thumbInwardMetres": 0.10339142382144928,
+      "fingerReachMetres": 0.2073008418083191,
+      "wristGapMetres": 1.228781230931777e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.873310987523467
+    },
+    {
+      "frame": 75,
+      "side": "L",
+      "thumbInwardMetres": 0.10355545580387115,
+      "fingerReachMetres": 0.20713043212890625,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.913771320619333
+    },
+    {
+      "frame": 75,
+      "side": "R",
+      "thumbInwardMetres": 0.10339358448982239,
+      "fingerReachMetres": 0.20729979872703552,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.879927733281917
+    },
+    {
+      "frame": 76,
+      "side": "L",
+      "thumbInwardMetres": 0.10354933142662048,
+      "fingerReachMetres": 0.20713332295417786,
+      "wristGapMetres": 1.2644054553268208e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.89517442305668
+    },
+    {
+      "frame": 76,
+      "side": "R",
+      "thumbInwardMetres": 0.10339592397212982,
+      "fingerReachMetres": 0.20729875564575195,
+      "wristGapMetres": 9.541398640621973e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.887177979085887
+    },
+    {
+      "frame": 77,
+      "side": "L",
+      "thumbInwardMetres": 0.10354483127593994,
+      "fingerReachMetres": 0.20713520050048828,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.88156697868272
+    },
+    {
+      "frame": 77,
+      "side": "R",
+      "thumbInwardMetres": 0.1033971756696701,
+      "fingerReachMetres": 0.2072981595993042,
+      "wristGapMetres": 9.541398640621973e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.89071260198137
+    },
+    {
+      "frame": 78,
+      "side": "L",
+      "thumbInwardMetres": 0.1035425066947937,
+      "fingerReachMetres": 0.2071363925933838,
+      "wristGapMetres": 1.3328003749250113e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87431502533146
+    },
+    {
+      "frame": 78,
+      "side": "R",
+      "thumbInwardMetres": 0.10339660942554474,
+      "fingerReachMetres": 0.20729845762252808,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.889285092444837
+    },
+    {
+      "frame": 79,
+      "side": "L",
+      "thumbInwardMetres": 0.10354174673557281,
+      "fingerReachMetres": 0.20713680982589722,
+      "wristGapMetres": 9.541398640621973e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872093506303912
+    },
+    {
+      "frame": 79,
+      "side": "R",
+      "thumbInwardMetres": 0.1033950001001358,
+      "fingerReachMetres": 0.2072991132736206,
+      "wristGapMetres": 1.6118070224511577e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.88422562981715
+    },
+    {
+      "frame": 80,
+      "side": "L",
+      "thumbInwardMetres": 0.10354180634021759,
+      "fingerReachMetres": 0.2071366310119629,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872245478012946
+    },
+    {
+      "frame": 80,
+      "side": "R",
+      "thumbInwardMetres": 0.1033930778503418,
+      "fingerReachMetres": 0.2073000967502594,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.878409723738883
+    },
+    {
+      "frame": 81,
+      "side": "L",
+      "thumbInwardMetres": 0.10354194045066833,
+      "fingerReachMetres": 0.20713675022125244,
+      "wristGapMetres": 1.4600096599955427e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872516978032454
+    },
+    {
+      "frame": 81,
+      "side": "R",
+      "thumbInwardMetres": 0.10339169204235077,
+      "fingerReachMetres": 0.20730066299438477,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.874193789473694
+    },
+    {
+      "frame": 82,
+      "side": "L",
+      "thumbInwardMetres": 0.10354182124137878,
+      "fingerReachMetres": 0.20713680982589722,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872161808195614
+    },
+    {
+      "frame": 82,
+      "side": "R",
+      "thumbInwardMetres": 0.1033911406993866,
+      "fingerReachMetres": 0.20730093121528625,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872380374249055
+    },
+    {
+      "frame": 83,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 83,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 84,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 84,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 85,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 85,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 86,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 86,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 87,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 87,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 88,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 88,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 89,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 89,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 90,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 90,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 91,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 91,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 92,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 92,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 93,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 93,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 94,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 94,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 95,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 95,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 96,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 96,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 97,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 97,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 98,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 98,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 99,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 99,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 100,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 100,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 101,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 101,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 102,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 102,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 103,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 103,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 104,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 104,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 105,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 105,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 106,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 106,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 107,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 107,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 108,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 108,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 109,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 109,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 110,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 110,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 111,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 111,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 112,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 112,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 113,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 113,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 114,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 114,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 115,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 115,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 116,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 116,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 117,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 117,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 118,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 118,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 119,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 119,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 120,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 120,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 121,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 121,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 122,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 122,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 123,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 123,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 124,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 124,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 125,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 125,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 126,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 126,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 127,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 127,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 128,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 128,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 129,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 129,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 130,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 130,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 131,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 131,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 132,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 132,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 133,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 133,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 134,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 134,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 135,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 135,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 136,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 136,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 137,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 137,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 138,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 138,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 139,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 139,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 140,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 140,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 141,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 141,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 142,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 142,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 143,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 143,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 144,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 144,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 145,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 145,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 146,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 146,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 147,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 147,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 148,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 148,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 149,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 149,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 150,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 150,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 151,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 151,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 152,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 152,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 153,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 153,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 154,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 154,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 155,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 155,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 156,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 156,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 157,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 157,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 158,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 158,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 159,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 159,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 160,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 160,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 161,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 161,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 162,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 162,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 163,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 163,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 164,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 164,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 165,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 165,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 166,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 166,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 167,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 167,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 168,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 168,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 169,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 169,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.2073010504245758,
+      "wristGapMetres": 1.837138534477048e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87219254404688
+    },
+    {
+      "frame": 170,
+      "side": "L",
+      "thumbInwardMetres": 0.10354180634021759,
+      "fingerReachMetres": 0.20713678002357483,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87213961008081
+    },
+    {
+      "frame": 170,
+      "side": "R",
+      "thumbInwardMetres": 0.10339117050170898,
+      "fingerReachMetres": 0.20730093121528625,
+      "wristGapMetres": 6.828569911354542e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87253234595809
+    },
+    {
+      "frame": 171,
+      "side": "L",
+      "thumbInwardMetres": 0.1035417914390564,
+      "fingerReachMetres": 0.20713675022125244,
+      "wristGapMetres": 1.3657139822709083e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872177176121248
+    },
+    {
+      "frame": 171,
+      "side": "R",
+      "thumbInwardMetres": 0.1033916175365448,
+      "fingerReachMetres": 0.2073005735874176,
+      "wristGapMetres": 4.2146848510894035e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.873944487568988
+    },
+    {
+      "frame": 172,
+      "side": "L",
+      "thumbInwardMetres": 0.10354173183441162,
+      "fingerReachMetres": 0.20713669061660767,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872011544033874
+    },
+    {
+      "frame": 172,
+      "side": "R",
+      "thumbInwardMetres": 0.10339242219924927,
+      "fingerReachMetres": 0.2073003351688385,
+      "wristGapMetres": 9.541398640621973e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.876446044352505
+    },
+    {
+      "frame": 173,
+      "side": "L",
+      "thumbInwardMetres": 0.10354186594486237,
+      "fingerReachMetres": 0.20713675022125244,
+      "wristGapMetres": 9.541398640621973e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87247941199202
+    },
+    {
+      "frame": 173,
+      "side": "R",
+      "thumbInwardMetres": 0.10339333117008209,
+      "fingerReachMetres": 0.20729997754096985,
+      "wristGapMetres": 1.2377834115800373e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87921056341907
+    },
+    {
+      "frame": 174,
+      "side": "L",
+      "thumbInwardMetres": 0.10354265570640564,
+      "fingerReachMetres": 0.2071363627910614,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87479826121524
+    },
+    {
+      "frame": 174,
+      "side": "R",
+      "thumbInwardMetres": 0.10339385271072388,
+      "fingerReachMetres": 0.20729964971542358,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.880894205049476
+    },
+    {
+      "frame": 175,
+      "side": "L",
+      "thumbInwardMetres": 0.10354438424110413,
+      "fingerReachMetres": 0.20713555812835693,
+      "wristGapMetres": 4.2146848510894035e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.880177035186623
+    },
+    {
+      "frame": 175,
+      "side": "R",
+      "thumbInwardMetres": 0.10339367389678955,
+      "fingerReachMetres": 0.20729976892471313,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.880335837084825
+    },
+    {
+      "frame": 176,
+      "side": "L",
+      "thumbInwardMetres": 0.10354721546173096,
+      "fingerReachMetres": 0.20713427662849426,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.88858329050762
+    },
+    {
+      "frame": 176,
+      "side": "R",
+      "thumbInwardMetres": 0.10339273512363434,
+      "fingerReachMetres": 0.20730018615722656,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.877465450086127
+    },
+    {
+      "frame": 177,
+      "side": "L",
+      "thumbInwardMetres": 0.10355043411254883,
+      "fingerReachMetres": 0.20713269710540771,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.898480234614965
+    },
+    {
+      "frame": 177,
+      "side": "R",
+      "thumbInwardMetres": 0.10339157283306122,
+      "fingerReachMetres": 0.20730075240135193,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.873801053596416
+    },
+    {
+      "frame": 178,
+      "side": "L",
+      "thumbInwardMetres": 0.10355328023433685,
+      "fingerReachMetres": 0.20713132619857788,
+      "wristGapMetres": 1.5269146510898468e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.906987235226218
+    },
+    {
+      "frame": 178,
+      "side": "R",
+      "thumbInwardMetres": 0.10339105129241943,
+      "fingerReachMetres": 0.20730099081993103,
+      "wristGapMetres": 8.940696716308594e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872230110087315
+    },
+    {
+      "frame": 179,
+      "side": "L",
+      "thumbInwardMetres": 0.10355453193187714,
+      "fingerReachMetres": 0.2071308195590973,
+      "wristGapMetres": 1.0745380149674383e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.910873612863952
+    },
+    {
+      "frame": 179,
+      "side": "R",
+      "thumbInwardMetres": 0.10339228808879852,
+      "fingerReachMetres": 0.20730048418045044,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87586377072576
+    },
+    {
+      "frame": 180,
+      "side": "L",
+      "thumbInwardMetres": 0.10355356335639954,
+      "fingerReachMetres": 0.20713138580322266,
+      "wristGapMetres": 1.2644054553268208e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.907922971142508
+    },
+    {
+      "frame": 180,
+      "side": "R",
+      "thumbInwardMetres": 0.10339586436748505,
+      "fingerReachMetres": 0.20729872584342957,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.88692867718118
+    },
+    {
+      "frame": 181,
+      "side": "L",
+      "thumbInwardMetres": 0.10355040431022644,
+      "fingerReachMetres": 0.20713281631469727,
+      "wristGapMetres": 5.3726900748371916e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.898382904419293
+    },
+    {
+      "frame": 181,
+      "side": "R",
+      "thumbInwardMetres": 0.10340185463428497,
+      "fingerReachMetres": 0.20729607343673706,
+      "wristGapMetres": 1.5269146510898468e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.90511576339363
+    },
+    {
+      "frame": 182,
+      "side": "L",
+      "thumbInwardMetres": 0.10354611277580261,
+      "fingerReachMetres": 0.2071346938610077,
+      "wristGapMetres": 1.228781230931777e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.88542603556378
+    },
+    {
+      "frame": 182,
+      "side": "R",
+      "thumbInwardMetres": 0.10340918600559235,
+      "fingerReachMetres": 0.20729276537895203,
+      "wristGapMetres": 9.996002811937585e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.927219963095087
+    },
+    {
+      "frame": 183,
+      "side": "L",
+      "thumbInwardMetres": 0.10354262590408325,
+      "fingerReachMetres": 0.207136332988739,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.874753864985635
+    },
+    {
+      "frame": 183,
+      "side": "R",
+      "thumbInwardMetres": 0.10341589152812958,
+      "fingerReachMetres": 0.2072896957397461,
+      "wristGapMetres": 9.541398640621973e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.947573926821725
+    },
+    {
+      "frame": 184,
+      "side": "L",
+      "thumbInwardMetres": 0.10354192554950714,
+      "fingerReachMetres": 0.20713672041893005,
+      "wristGapMetres": 1.0848209096909341e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87261601577542
+    },
+    {
+      "frame": 184,
+      "side": "R",
+      "thumbInwardMetres": 0.1034199595451355,
+      "fingerReachMetres": 0.20728784799575806,
+      "wristGapMetres": 1.228781230931777e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.95978630505771
+    },
+    {
+      "frame": 185,
+      "side": "L",
+      "thumbInwardMetres": 0.10354559123516083,
+      "fingerReachMetres": 0.20713508129119873,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.88379532789944
+    },
+    {
+      "frame": 185,
+      "side": "R",
+      "thumbInwardMetres": 0.1034197062253952,
+      "fingerReachMetres": 0.20728793740272522,
+      "wristGapMetres": 6.828569911354542e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.958966682357307
+    },
+    {
+      "frame": 186,
+      "side": "L",
+      "thumbInwardMetres": 0.10355399549007416,
+      "fingerReachMetres": 0.20713096857070923,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.909273641050877
+    },
+    {
+      "frame": 186,
+      "side": "R",
+      "thumbInwardMetres": 0.10341475903987885,
+      "fingerReachMetres": 0.20729026198387146,
+      "wristGapMetres": 8.429369702178807e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.944114436007112
+    },
+    {
+      "frame": 187,
+      "side": "L",
+      "thumbInwardMetres": 0.10356590151786804,
+      "fingerReachMetres": 0.20712584257125854,
+      "wristGapMetres": 8.940696716308594e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.945214096463484
+    },
+    {
+      "frame": 187,
+      "side": "R",
+      "thumbInwardMetres": 0.10340645909309387,
+      "fingerReachMetres": 0.20729392766952515,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.919203028556783
+    },
+    {
+      "frame": 188,
+      "side": "L",
+      "thumbInwardMetres": 0.10357852280139923,
+      "fingerReachMetres": 0.20711994171142578,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.983256542593164
+    },
+    {
+      "frame": 188,
+      "side": "R",
+      "thumbInwardMetres": 0.10339774191379547,
+      "fingerReachMetres": 0.20729798078536987,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.89257041343561
+    },
+    {
+      "frame": 189,
+      "side": "L",
+      "thumbInwardMetres": 0.10358841717243195,
+      "fingerReachMetres": 0.20711559057235718,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.012761252260326
+    },
+    {
+      "frame": 189,
+      "side": "R",
+      "thumbInwardMetres": 0.10339190065860748,
+      "fingerReachMetres": 0.20730054378509521,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87472995932354
+    },
+    {
+      "frame": 190,
+      "side": "L",
+      "thumbInwardMetres": 0.10359223186969757,
+      "fingerReachMetres": 0.20711392164230347,
+      "wristGapMetres": 9.996002811937585e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.024165960626956
+    },
+    {
+      "frame": 190,
+      "side": "R",
+      "thumbInwardMetres": 0.10339199006557465,
+      "fingerReachMetres": 0.20730054378509521,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87505610085641
+    },
+    {
+      "frame": 191,
+      "side": "L",
+      "thumbInwardMetres": 0.10358835756778717,
+      "fingerReachMetres": 0.20711570978164673,
+      "wristGapMetres": 9.541398640621973e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.012604157909415
+    },
+    {
+      "frame": 191,
+      "side": "R",
+      "thumbInwardMetres": 0.1033996194601059,
+      "fingerReachMetres": 0.20729702711105347,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.898261668561524
+    },
+    {
+      "frame": 192,
+      "side": "L",
+      "thumbInwardMetres": 0.10357752442359924,
+      "fingerReachMetres": 0.2071203887462616,
+      "wristGapMetres": 6.828569911354542e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.980186372561242
+    },
+    {
+      "frame": 192,
+      "side": "R",
+      "thumbInwardMetres": 0.1034141480922699,
+      "fingerReachMetres": 0.207290381193161,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.942328341539156
+    },
+    {
+      "frame": 193,
+      "side": "L",
+      "thumbInwardMetres": 0.10356301069259644,
+      "fingerReachMetres": 0.20712703466415405,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.936433888285436
+    },
+    {
+      "frame": 193,
+      "side": "R",
+      "thumbInwardMetres": 0.10343270003795624,
+      "fingerReachMetres": 0.20728200674057007,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.998013166294978
+    },
+    {
+      "frame": 194,
+      "side": "L",
+      "thumbInwardMetres": 0.10354961454868317,
+      "fingerReachMetres": 0.20713305473327637,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.895807923102197
+    },
+    {
+      "frame": 194,
+      "side": "R",
+      "thumbInwardMetres": 0.10345038771629333,
+      "fingerReachMetres": 0.20727401971817017,
+      "wristGapMetres": 1.0745380149674383e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.05095737764633
+    },
+    {
+      "frame": 195,
+      "side": "L",
+      "thumbInwardMetres": 0.10354219377040863,
+      "fingerReachMetres": 0.20713654160499573,
+      "wristGapMetres": 9.996002811937585e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87337928941517
+    },
+    {
+      "frame": 195,
+      "side": "R",
+      "thumbInwardMetres": 0.10346201062202454,
+      "fingerReachMetres": 0.2072688341140747,
+      "wristGapMetres": 4.2146848510894035e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.085695719765017
+    },
+    {
+      "frame": 196,
+      "side": "L",
+      "thumbInwardMetres": 0.10354435443878174,
+      "fingerReachMetres": 0.20713555812835693,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.880108733294925
+    },
+    {
+      "frame": 196,
+      "side": "R",
+      "thumbInwardMetres": 0.10346376895904541,
+      "fingerReachMetres": 0.20726802945137024,
+      "wristGapMetres": 4.2146848510894035e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.09076713522375
+    },
+    {
+      "frame": 197,
+      "side": "L",
+      "thumbInwardMetres": 0.10355721414089203,
+      "fingerReachMetres": 0.207129567861557,
+      "wristGapMetres": 8.940696716308594e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.918998122881685
+    },
+    {
+      "frame": 197,
+      "side": "R",
+      "thumbInwardMetres": 0.10345448553562164,
+      "fingerReachMetres": 0.2072722315788269,
+      "wristGapMetres": 1.3657139822709083e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.063104869085198
+    },
+    {
+      "frame": 198,
+      "side": "L",
+      "thumbInwardMetres": 0.10357855260372162,
+      "fingerReachMetres": 0.20712000131607056,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.983331674674034
+    },
+    {
+      "frame": 198,
+      "side": "R",
+      "thumbInwardMetres": 0.10343660414218903,
+      "fingerReachMetres": 0.20728033781051636,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.009942091680404
+    },
+    {
+      "frame": 199,
+      "side": "L",
+      "thumbInwardMetres": 0.10360342264175415,
+      "fingerReachMetres": 0.20710867643356323,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.057557047931855
+    },
+    {
+      "frame": 199,
+      "side": "R",
+      "thumbInwardMetres": 0.10341575741767883,
+      "fingerReachMetres": 0.20728978514671326,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.94724266264698
+    },
+    {
+      "frame": 200,
+      "side": "L",
+      "thumbInwardMetres": 0.10362496972084045,
+      "fingerReachMetres": 0.20709896087646484,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.12135442987436
+    },
+    {
+      "frame": 200,
+      "side": "R",
+      "thumbInwardMetres": 0.1033986508846283,
+      "fingerReachMetres": 0.2072974145412445,
+      "wristGapMetres": 4.2146848510894035e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.895280290988815
+    },
+    {
+      "frame": 201,
+      "side": "L",
+      "thumbInwardMetres": 0.10363659262657166,
+      "fingerReachMetres": 0.20709383487701416,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.155614658751144
+    },
+    {
+      "frame": 201,
+      "side": "R",
+      "thumbInwardMetres": 0.10339115560054779,
+      "fingerReachMetres": 0.2073010802268982,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872373544059883
+    },
+    {
+      "frame": 202,
+      "side": "L",
+      "thumbInwardMetres": 0.103634312748909,
+      "fingerReachMetres": 0.20709484815597534,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.14889375260785
+    },
+    {
+      "frame": 202,
+      "side": "R",
+      "thumbInwardMetres": 0.1033966988325119,
+      "fingerReachMetres": 0.2072983682155609,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.889315828296102
+    },
+    {
+      "frame": 203,
+      "side": "L",
+      "thumbInwardMetres": 0.10361839830875397,
+      "fingerReachMetres": 0.20710214972496033,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.1018474096048
+    },
+    {
+      "frame": 203,
+      "side": "R",
+      "thumbInwardMetres": 0.10341526567935944,
+      "fingerReachMetres": 0.20729008316993713,
+      "wristGapMetres": 4.2146848510894035e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.94565976630683
+    },
+    {
+      "frame": 204,
+      "side": "L",
+      "thumbInwardMetres": 0.10359345376491547,
+      "fingerReachMetres": 0.2071133553981781,
+      "wristGapMetres": 6.828569911354542e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.027871338251686
+    },
+    {
+      "frame": 204,
+      "side": "R",
+      "thumbInwardMetres": 0.10344298183917999,
+      "fingerReachMetres": 0.20727744698524475,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.028848055302998
+    },
+    {
+      "frame": 205,
+      "side": "L",
+      "thumbInwardMetres": 0.10356728732585907,
+      "fingerReachMetres": 0.20712518692016602,
+      "wristGapMetres": 1.2644054553268208e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.949329285438417
+    },
+    {
+      "frame": 205,
+      "side": "R",
+      "thumbInwardMetres": 0.10347265005111694,
+      "fingerReachMetres": 0.20726406574249268,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.117143618251045
+    },
+    {
+      "frame": 206,
+      "side": "L",
+      "thumbInwardMetres": 0.10354796051979065,
+      "fingerReachMetres": 0.20713385939598083,
+      "wristGapMetres": 1.228781230931777e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.890946535960442
+    },
+    {
+      "frame": 206,
+      "side": "R",
+      "thumbInwardMetres": 0.10349579155445099,
+      "fingerReachMetres": 0.20725363492965698,
+      "wristGapMetres": 9.06402249678704e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.185365255228426
+    },
+    {
+      "frame": 207,
+      "side": "L",
+      "thumbInwardMetres": 0.10354182124137878,
+      "fingerReachMetres": 0.2071366310119629,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87228987424255
+    },
+    {
+      "frame": 207,
+      "side": "R",
+      "thumbInwardMetres": 0.1035051941871643,
+      "fingerReachMetres": 0.2072494924068451,
+      "wristGapMetres": 1.1920928955078125e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.212762851536638
+    },
+    {
+      "frame": 208,
+      "side": "L",
+      "thumbInwardMetres": 0.10355165600776672,
+      "fingerReachMetres": 0.20713219046592712,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.901938017882284
+    },
+    {
+      "frame": 208,
+      "side": "R",
+      "thumbInwardMetres": 0.10349735617637634,
+      "fingerReachMetres": 0.2072528898715973,
+      "wristGapMetres": 4.2146848510894035e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.190125897079923
+    },
+    {
+      "frame": 209,
+      "side": "L",
+      "thumbInwardMetres": 0.10357564687728882,
+      "fingerReachMetres": 0.207121342420578,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.974630013671437
+    },
+    {
+      "frame": 209,
+      "side": "R",
+      "thumbInwardMetres": 0.10347475111484528,
+      "fingerReachMetres": 0.2072630524635315,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.12328737340947
+    },
+    {
+      "frame": 210,
+      "side": "L",
+      "thumbInwardMetres": 0.10360831022262573,
+      "fingerReachMetres": 0.20710653066635132,
+      "wristGapMetres": 4.2146848510894035e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.071907275378052
+    },
+    {
+      "frame": 210,
+      "side": "R",
+      "thumbInwardMetres": 0.10344401001930237,
+      "fingerReachMetres": 0.20727688074111938,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.0319677442064
+    },
+    {
+      "frame": 211,
+      "side": "L",
+      "thumbInwardMetres": 0.10364042222499847,
+      "fingerReachMetres": 0.2070922553539276,
+      "wristGapMetres": 8.940696716308594e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.166790555780576
+    },
+    {
+      "frame": 211,
+      "side": "R",
+      "thumbInwardMetres": 0.10341455042362213,
+      "fingerReachMetres": 0.20729032158851624,
+      "wristGapMetres": 1.55572690202453e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.94360217181936
+    },
+    {
+      "frame": 212,
+      "side": "L",
+      "thumbInwardMetres": 0.10366249084472656,
+      "fingerReachMetres": 0.20708230137825012,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.2314946453354
+    },
+    {
+      "frame": 212,
+      "side": "R",
+      "thumbInwardMetres": 0.1033952534198761,
+      "fingerReachMetres": 0.20729902386665344,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.8850794034634
+    },
+    {
+      "frame": 213,
+      "side": "L",
+      "thumbInwardMetres": 0.10366760194301605,
+      "fingerReachMetres": 0.20708009600639343,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.246252976584504
+    },
+    {
+      "frame": 213,
+      "side": "R",
+      "thumbInwardMetres": 0.10339190065860748,
+      "fingerReachMetres": 0.2073005735874176,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.8747162989452
+    },
+    {
+      "frame": 214,
+      "side": "L",
+      "thumbInwardMetres": 0.10365378856658936,
+      "fingerReachMetres": 0.2070862054824829,
+      "wristGapMetres": 6.828569911354542e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.206048775582516
+    },
+    {
+      "frame": 214,
+      "side": "R",
+      "thumbInwardMetres": 0.10340581834316254,
+      "fingerReachMetres": 0.20729422569274902,
+      "wristGapMetres": 1.2377834115800373e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.917150556711196
+    },
+    {
+      "frame": 215,
+      "side": "L",
+      "thumbInwardMetres": 0.10362538695335388,
+      "fingerReachMetres": 0.20709893107414246,
+      "wristGapMetres": 1.2644054553268208e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.122657288458537
+    },
+    {
+      "frame": 215,
+      "side": "R",
+      "thumbInwardMetres": 0.10343387722969055,
+      "fingerReachMetres": 0.20728155970573425,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.001646826933424
+    },
+    {
+      "frame": 216,
+      "side": "L",
+      "thumbInwardMetres": 0.10359115898609161,
+      "fingerReachMetres": 0.2071143388748169,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.020918205676615
+    },
+    {
+      "frame": 216,
+      "side": "R",
+      "thumbInwardMetres": 0.10346846282482147,
+      "fingerReachMetres": 0.2072659432888031,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.10468876829953
+    },
+    {
+      "frame": 217,
+      "side": "L",
+      "thumbInwardMetres": 0.10356117784976959,
+      "fingerReachMetres": 0.20712792873382568,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.930959491665668
+    },
+    {
+      "frame": 217,
+      "side": "R",
+      "thumbInwardMetres": 0.10349954664707184,
+      "fingerReachMetres": 0.20725199580192566,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.19633624658276
+    },
+    {
+      "frame": 218,
+      "side": "L",
+      "thumbInwardMetres": 0.10354399681091309,
+      "fingerReachMetres": 0.20713576674461365,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.878771723764892
+    },
+    {
+      "frame": 218,
+      "side": "R",
+      "thumbInwardMetres": 0.10351783037185669,
+      "fingerReachMetres": 0.20724374055862427,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.24972100513558
+    },
+    {
+      "frame": 219,
+      "side": "L",
+      "thumbInwardMetres": 0.10354402661323547,
+      "fingerReachMetres": 0.20713570713996887,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.879067129446497
+    },
+    {
+      "frame": 219,
+      "side": "R",
+      "thumbInwardMetres": 0.10351774096488953,
+      "fingerReachMetres": 0.20724385976791382,
+      "wristGapMetres": 6.828569911354542e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.249444382474195
+    },
+    {
+      "frame": 220,
+      "side": "L",
+      "thumbInwardMetres": 0.1035614013671875,
+      "fingerReachMetres": 0.20712783932685852,
+      "wristGapMetres": 4.2146848510894035e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.931714227568953
+    },
+    {
+      "frame": 220,
+      "side": "R",
+      "thumbInwardMetres": 0.10349921882152557,
+      "fingerReachMetres": 0.2072521448135376,
+      "wristGapMetres": 9.541398640621973e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.19555931256467
+    },
+    {
+      "frame": 221,
+      "side": "L",
+      "thumbInwardMetres": 0.10359153151512146,
+      "fingerReachMetres": 0.20711413025856018,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.022166422747436
+    },
+    {
+      "frame": 221,
+      "side": "R",
+      "thumbInwardMetres": 0.1034681499004364,
+      "fingerReachMetres": 0.20726603269577026,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.103945985227288
+    },
+    {
+      "frame": 222,
+      "side": "L",
+      "thumbInwardMetres": 0.10362616181373596,
+      "fingerReachMetres": 0.2070986032485962,
+      "wristGapMetres": 1.3328003749250113e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.12495735466154
+    },
+    {
+      "frame": 222,
+      "side": "R",
+      "thumbInwardMetres": 0.10343380272388458,
+      "fingerReachMetres": 0.20728161931037903,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.001300194833046
+    },
+    {
+      "frame": 223,
+      "side": "L",
+      "thumbInwardMetres": 0.10365532338619232,
+      "fingerReachMetres": 0.20708546042442322,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.210582313644114
+    },
+    {
+      "frame": 223,
+      "side": "R",
+      "thumbInwardMetres": 0.10340575873851776,
+      "fingerReachMetres": 0.20729422569274902,
+      "wristGapMetres": 8.429369702178807e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.916991754812994
+    },
+    {
+      "frame": 224,
+      "side": "L",
+      "thumbInwardMetres": 0.10367025434970856,
+      "fingerReachMetres": 0.20707878470420837,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.25403939223832
+    },
+    {
+      "frame": 224,
+      "side": "R",
+      "thumbInwardMetres": 0.1033918559551239,
+      "fingerReachMetres": 0.20730063319206238,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.874610431013064
+    },
+    {
+      "frame": 225,
+      "side": "L",
+      "thumbInwardMetres": 0.1036662757396698,
+      "fingerReachMetres": 0.2070806324481964,
+      "wristGapMetres": 4.2146848510894035e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.24248441970995
+    },
+    {
+      "frame": 225,
+      "side": "R",
+      "thumbInwardMetres": 0.1033955067396164,
+      "fingerReachMetres": 0.20729896426200867,
+      "wristGapMetres": 6.828569911354542e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.88585633748149
+    },
+    {
+      "frame": 226,
+      "side": "L",
+      "thumbInwardMetres": 0.10364463925361633,
+      "fingerReachMetres": 0.20709019899368286,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.17933249064401
+    },
+    {
+      "frame": 226,
+      "side": "R",
+      "thumbInwardMetres": 0.10341590642929077,
+      "fingerReachMetres": 0.2072896659374237,
+      "wristGapMetres": 8.429369702178807e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.947655889091767
+    },
+    {
+      "frame": 227,
+      "side": "L",
+      "thumbInwardMetres": 0.1036120355129242,
+      "fingerReachMetres": 0.20710492134094238,
+      "wristGapMetres": 8.940696716308594e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.083153181846477
+    },
+    {
+      "frame": 227,
+      "side": "R",
+      "thumbInwardMetres": 0.10344763100147247,
+      "fingerReachMetres": 0.20727521181106567,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.04285335819611
+    },
+    {
+      "frame": 228,
+      "side": "L",
+      "thumbInwardMetres": 0.1035781055688858,
+      "fingerReachMetres": 0.20712023973464966,
+      "wristGapMetres": 9.996002811937585e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.981909287779377
+    },
+    {
+      "frame": 228,
+      "side": "R",
+      "thumbInwardMetres": 0.1034819632768631,
+      "fingerReachMetres": 0.2072599232196808,
+      "wristGapMetres": 1.3075715880680267e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.144559997579478
+    },
+    {
+      "frame": 229,
+      "side": "L",
+      "thumbInwardMetres": 0.10355240106582642,
+      "fingerReachMetres": 0.20713183283805847,
+      "wristGapMetres": 9.996002811937585e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.904398593530782
+    },
+    {
+      "frame": 229,
+      "side": "R",
+      "thumbInwardMetres": 0.10350878536701202,
+      "fingerReachMetres": 0.20724773406982422,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.223469173060636
+    },
+    {
+      "frame": 230,
+      "side": "L",
+      "thumbInwardMetres": 0.10354183614253998,
+      "fingerReachMetres": 0.20713678002357483,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.87226767612775
+    },
+    {
+      "frame": 230,
+      "side": "R",
+      "thumbInwardMetres": 0.10352011024951935,
+      "fingerReachMetres": 0.20724272727966309,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.256424835805948
+    },
+    {
+      "frame": 231,
+      "side": "L",
+      "thumbInwardMetres": 0.10354909300804138,
+      "fingerReachMetres": 0.2071332335472107,
+      "wristGapMetres": 6.143906154658885e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.894373583376495
+    },
+    {
+      "frame": 231,
+      "side": "R",
+      "thumbInwardMetres": 0.10351227223873138,
+      "fingerReachMetres": 0.20724627375602722,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.23374690021421
+    },
+    {
+      "frame": 232,
+      "side": "L",
+      "thumbInwardMetres": 0.10357241332530975,
+      "fingerReachMetres": 0.20712271332740784,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.964615248800907
+    },
+    {
+      "frame": 232,
+      "side": "R",
+      "thumbInwardMetres": 0.10348786413669586,
+      "fingerReachMetres": 0.20725730061531067,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.162101630915362
+    },
+    {
+      "frame": 233,
+      "side": "L",
+      "thumbInwardMetres": 0.10360544919967651,
+      "fingerReachMetres": 0.20710796117782593,
+      "wristGapMetres": 8.940696716308594e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.063465161563915
+    },
+    {
+      "frame": 233,
+      "side": "R",
+      "thumbInwardMetres": 0.10345424711704254,
+      "fingerReachMetres": 0.20727232098579407,
+      "wristGapMetres": 6.828569911354542e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.062519180363868
+    },
+    {
+      "frame": 234,
+      "side": "L",
+      "thumbInwardMetres": 0.10363906621932983,
+      "fingerReachMetres": 0.20709273219108582,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.162887102669913
+    },
+    {
+      "frame": 234,
+      "side": "R",
+      "thumbInwardMetres": 0.10342125594615936,
+      "fingerReachMetres": 0.2072872817516327,
+      "wristGapMetres": 9.541398640621973e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.963831484593648
+    },
+    {
+      "frame": 235,
+      "side": "L",
+      "thumbInwardMetres": 0.1036633849143982,
+      "fingerReachMetres": 0.20708206295967102,
+      "wristGapMetres": 4.2146848510894035e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.2341140228821
+    },
+    {
+      "frame": 235,
+      "side": "R",
+      "thumbInwardMetres": 0.10339824855327606,
+      "fingerReachMetres": 0.20729777216911316,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.894004753161315
+    },
+    {
+      "frame": 236,
+      "side": "L",
+      "thumbInwardMetres": 0.10367096960544586,
+      "fingerReachMetres": 0.20707854628562927,
+      "wristGapMetres": 1.8907453925087333e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.256201147110627
+    },
+    {
+      "frame": 236,
+      "side": "R",
+      "thumbInwardMetres": 0.1033911406993866,
+      "fingerReachMetres": 0.20730093121528625,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.872501610106823
+    },
+    {
+      "frame": 237,
+      "side": "L",
+      "thumbInwardMetres": 0.1036594808101654,
+      "fingerReachMetres": 0.20708361268043518,
+      "wristGapMetres": 1.4600096599955427e-07,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.22264101262377
+    },
+    {
+      "frame": 237,
+      "side": "R",
+      "thumbInwardMetres": 0.10340189933776855,
+      "fingerReachMetres": 0.20729610323905945,
+      "wristGapMetres": 8.940696716308594e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.905197725663673
+    },
+    {
+      "frame": 238,
+      "side": "L",
+      "thumbInwardMetres": 0.10363239049911499,
+      "fingerReachMetres": 0.20709574222564697,
+      "wristGapMetres": 0.0,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.14335446919097
+    },
+    {
+      "frame": 238,
+      "side": "R",
+      "thumbInwardMetres": 0.10342766344547272,
+      "fingerReachMetres": 0.20728427171707153,
+      "wristGapMetres": 4.2146848510894035e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.983099448242253
+    },
+    {
+      "frame": 239,
+      "side": "L",
+      "thumbInwardMetres": 0.10359807312488556,
+      "fingerReachMetres": 0.2071112096309662,
+      "wristGapMetres": 3.332000937312528e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.041560744895683
+    },
+    {
+      "frame": 239,
+      "side": "R",
+      "thumbInwardMetres": 0.10346163809299469,
+      "fingerReachMetres": 0.20726898312568665,
+      "wristGapMetres": 6.664001874625056e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.084473115903585
+    },
+    {
+      "frame": 240,
+      "side": "L",
+      "thumbInwardMetres": 0.10356639325618744,
+      "fingerReachMetres": 0.2071254849433899,
+      "wristGapMetres": 7.450580596923828e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 26.94658696448666
+    },
+    {
+      "frame": 240,
+      "side": "R",
+      "thumbInwardMetres": 0.10349410772323608,
+      "fingerReachMetres": 0.20725443959236145,
+      "wristGapMetres": 6.828569911354542e-08,
+      "elbowGapMetres": 0.01305845597965583,
+      "wristBendDegrees": 27.18040141524912
+    }
+  ],
+  "keyClearanceChecks": [
+    {
+      "frame": 1,
+      "closestSkinAboveKeyMetres": 0.003420837689191103
+    },
+    {
+      "frame": 5,
+      "closestSkinAboveKeyMetres": 0.0020368178375065327
+    },
+    {
+      "frame": 9,
+      "closestSkinAboveKeyMetres": 0.0018408973701298237
+    },
+    {
+      "frame": 13,
+      "closestSkinAboveKeyMetres": 0.0030784686096012592
+    },
+    {
+      "frame": 17,
+      "closestSkinAboveKeyMetres": 0.002275057602673769
+    },
+    {
+      "frame": 21,
+      "closestSkinAboveKeyMetres": 0.00174266891553998
+    },
+    {
+      "frame": 25,
+      "closestSkinAboveKeyMetres": 0.0027295430190861225
+    },
+    {
+      "frame": 29,
+      "closestSkinAboveKeyMetres": 0.0025679548271000385
+    },
+    {
+      "frame": 33,
+      "closestSkinAboveKeyMetres": 0.0017229397781193256
+    },
+    {
+      "frame": 37,
+      "closestSkinAboveKeyMetres": 0.0024144728668034077
+    },
+    {
+      "frame": 41,
+      "closestSkinAboveKeyMetres": 0.0029019792564213276
+    },
+    {
+      "frame": 45,
+      "closestSkinAboveKeyMetres": 0.0017823060043156147
+    },
+    {
+      "frame": 49,
+      "closestSkinAboveKeyMetres": 0.002147503662854433
+    },
+    {
+      "frame": 53,
+      "closestSkinAboveKeyMetres": 0.0032022674567997456
+    },
+    {
+      "frame": 57,
+      "closestSkinAboveKeyMetres": 0.0018903096206486225
+    },
+    {
+      "frame": 61,
+      "closestSkinAboveKeyMetres": 0.001883991528302431
+    },
+    {
+      "frame": 65,
+      "closestSkinAboveKeyMetres": 0.002531417179852724
+    },
+    {
+      "frame": 69,
+      "closestSkinAboveKeyMetres": 0.0018654544837772846
+    },
+    {
+      "frame": 73,
+      "closestSkinAboveKeyMetres": 0.0017563779838383198
+    },
+    {
+      "frame": 77,
+      "closestSkinAboveKeyMetres": 0.0018057902343571186
+    },
+    {
+      "frame": 81,
+      "closestSkinAboveKeyMetres": 0.0017246087081730366
+    },
+    {
+      "frame": 85,
+      "closestSkinAboveKeyMetres": 0.0017203171737492085
+    },
+    {
+      "frame": 89,
+      "closestSkinAboveKeyMetres": 0.0017203171737492085
+    },
+    {
+      "frame": 93,
+      "closestSkinAboveKeyMetres": 0.0017203171737492085
+    },
+    {
+      "frame": 97,
+      "closestSkinAboveKeyMetres": 0.0017203171737492085
+    },
+    {
+      "frame": 101,
+      "closestSkinAboveKeyMetres": 0.0017203171737492085
+    },
+    {
+      "frame": 105,
+      "closestSkinAboveKeyMetres": 0.0017203171737492085
+    },
+    {
+      "frame": 109,
+      "closestSkinAboveKeyMetres": 0.0017203171737492085
+    },
+    {
+      "frame": 113,
+      "closestSkinAboveKeyMetres": 0.0017203171737492085
+    },
+    {
+      "frame": 117,
+      "closestSkinAboveKeyMetres": 0.0017203171737492085
+    },
+    {
+      "frame": 121,
+      "closestSkinAboveKeyMetres": 0.0017203171737492085
+    },
+    {
+      "frame": 125,
+      "closestSkinAboveKeyMetres": 0.0017203171737492085
+    },
+    {
+      "frame": 129,
+      "closestSkinAboveKeyMetres": 0.0017203171737492085
+    },
+    {
+      "frame": 133,
+      "closestSkinAboveKeyMetres": 0.0017203171737492085
+    },
+    {
+      "frame": 137,
+      "closestSkinAboveKeyMetres": 0.0017203171737492085
+    },
+    {
+      "frame": 141,
+      "closestSkinAboveKeyMetres": 0.0017203171737492085
+    },
+    {
+      "frame": 145,
+      "closestSkinAboveKeyMetres": 0.0017203171737492085
+    },
+    {
+      "frame": 149,
+      "closestSkinAboveKeyMetres": 0.0017203171737492085
+    },
+    {
+      "frame": 153,
+      "closestSkinAboveKeyMetres": 0.0017203171737492085
+    },
+    {
+      "frame": 157,
+      "closestSkinAboveKeyMetres": 0.0017203171737492085
+    },
+    {
+      "frame": 161,
+      "closestSkinAboveKeyMetres": 0.0017203171737492085
+    },
+    {
+      "frame": 165,
+      "closestSkinAboveKeyMetres": 0.0017203171737492085
+    },
+    {
+      "frame": 169,
+      "closestSkinAboveKeyMetres": 0.0017203171737492085
+    },
+    {
+      "frame": 173,
+      "closestSkinAboveKeyMetres": 0.0017242510803043842
+    },
+    {
+      "frame": 177,
+      "closestSkinAboveKeyMetres": 0.00175870256498456
+    },
+    {
+      "frame": 181,
+      "closestSkinAboveKeyMetres": 0.0019563515670597553
+    },
+    {
+      "frame": 185,
+      "closestSkinAboveKeyMetres": 0.0018258769996464252
+    },
+    {
+      "frame": 189,
+      "closestSkinAboveKeyMetres": 0.0017671664245426655
+    },
+    {
+      "frame": 193,
+      "closestSkinAboveKeyMetres": 0.0022965152747929096
+    },
+    {
+      "frame": 197,
+      "closestSkinAboveKeyMetres": 0.0021410067565739155
+    },
+    {
+      "frame": 201,
+      "closestSkinAboveKeyMetres": 0.001745887566357851
+    },
+    {
+      "frame": 205,
+      "closestSkinAboveKeyMetres": 0.002411611843854189
+    },
+    {
+      "frame": 209,
+      "closestSkinAboveKeyMetres": 0.0026369174011051655
+    },
+    {
+      "frame": 213,
+      "closestSkinAboveKeyMetres": 0.0017668684013187885
+    },
+    {
+      "frame": 217,
+      "closestSkinAboveKeyMetres": 0.002247281838208437
+    },
+    {
+      "frame": 221,
+      "closestSkinAboveKeyMetres": 0.0030594547279179096
+    },
+    {
+      "frame": 225,
+      "closestSkinAboveKeyMetres": 0.0018667657859623432
+    },
+    {
+      "frame": 229,
+      "closestSkinAboveKeyMetres": 0.0020102341659367085
+    },
+    {
+      "frame": 233,
+      "closestSkinAboveKeyMetres": 0.003426023293286562
+    },
+    {
+      "frame": 237,
+      "closestSkinAboveKeyMetres": 0.002039738465100527
+    }
+  ],
+  "heightCorrectionMetres": -0.01308901958540082,
+  "limitation": "Samples test geometry and landmarks; visual review is separate. The animation uses small hand lifts, not individual keypresses."
+}
