@@ -506,6 +506,56 @@
       "sha256": "af89de1f075b0c9775f94f390692d76da591400be82a6afe862f952f410c45cc"
     },
     {
+      "path": "models/anomalies-v33/blender/Kontur_Archive_v33.blend",
+      "bytes": 644108,
+      "sha256": "b6a342813ce7ae275e3ec5e18ed1173ef83c10945f674334e5b1918403133976"
+    },
+    {
+      "path": "models/anomalies-v33/blender/Kontur_Static_v33.blend",
+      "bytes": 1593294,
+      "sha256": "d90d7f9756ec04ed84d858388336c750d74ebd4bccfa18076bd8ee730cd4fa55"
+    },
+    {
+      "path": "models/anomalies-v33/blender/Kontur_Vent_v33.blend",
+      "bytes": 829085,
+      "sha256": "df1218706b660496aa2d96aee9c108b9917883a4d65bb74cef9baa142749c3f1"
+    },
+    {
+      "path": "models/anomalies-v33/blender/archive_angle.png",
+      "bytes": 818918,
+      "sha256": "e5900c8974b8302d63f12f05a4bcc469219cb14ccc3f68cc7c32c9b879bcdc63"
+    },
+    {
+      "path": "models/anomalies-v33/blender/archive_return.png",
+      "bytes": 803735,
+      "sha256": "c55332c00f3df3af90b4fe52a85ed512c2f5af39daab162678881aa89aadf249"
+    },
+    {
+      "path": "models/anomalies-v33/blender/leaf_close.png",
+      "bytes": 882093,
+      "sha256": "cd3e569280c794555ffa7f51c8af1ada00fc47cdb04abb8c8710a684b3b6dde7"
+    },
+    {
+      "path": "models/anomalies-v33/blender/printer_receipt.png",
+      "bytes": 818819,
+      "sha256": "65ff955e572c357e56f44330ff633a9fce763ec8c0ee127a6531e7f94f4aac6b"
+    },
+    {
+      "path": "models/anomalies-v33/blender/swapped_frames.png",
+      "bytes": 808359,
+      "sha256": "25bb0115a399565cbd393b3266f6bf8111547589e6325e681c05cbd2ec2e6e24"
+    },
+    {
+      "path": "models/anomalies-v33/blender/vent_footprint.png",
+      "bytes": 753911,
+      "sha256": "c99afcd601cd3b69db01a671beb2c00a550f0e9793bdc1e29c0266cb7dc44c40"
+    },
+    {
+      "path": "models/anomalies-v33/blender/vent_hall.png",
+      "bytes": 944347,
+      "sha256": "875fc9e1df1dbe3a4bfc0ac39a3157c2d24eb06234a22c1dacbae54cf9bd3879"
+    },
+    {
       "path": "models/ceiling-worker-v18/01_first_clue.png",
       "bytes": 1101670,
       "sha256": "e5f31a87101400f394b4ddbc69196ee9fa0f7fde555aa967baee5fbb652294c2"
