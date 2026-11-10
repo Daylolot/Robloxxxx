@@ -12,8 +12,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 13007,
-      "sha256": "924e428f5d2c4eca2b2e1c361a8eca21104a090ab37e50b7416e9ee387555de5"
+      "bytes": 14006,
+      "sha256": "b92f97fead5adaf01037968bc4442d715d2bfc3bbce847590a728c5037468123"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -22,18 +22,18 @@
     },
     {
       "path": "README.md",
-      "bytes": 5935,
-      "sha256": "f2585d9a3e66ed09b1c803491e23d93178c2948e4771a7bb1263e508c0b4a042"
+      "bytes": 6222,
+      "sha256": "fcfaeea0f4c57acfec05fd7d8ea06ece041ce27567dd52537f6816f0e52eae2b"
     },
     {
       "path": "START_HERE.md",
-      "bytes": 3819,
-      "sha256": "87e890578e97f4e6d0907f375d8bba0dc4cefab58f67a791f0cd9ca9d0562934"
+      "bytes": 3988,
+      "sha256": "15a321d1369335b2ad92176471bb4478ac340925f4d2a53d8e9a3deece60cb04"
     },
     {
       "path": "docs/DECISION_LOG.md",
-      "bytes": 11789,
-      "sha256": "a4f6fe22085be2fb0ec2fca20c2e7da695fc3debded1784822af09c0e6d02cf2"
+      "bytes": 12657,
+      "sha256": "8b09adacfa8d608e60d637e151d977b99593d79fa9113abd4a28de1161e156c9"
     },
     {
       "path": "docs/PROJECT_FILE_INDEX.json",
@@ -43,7 +43,7 @@
     {
       "path": "docs/ROADMAP.md",
       "bytes": 3122,
-      "sha256": "e1475e6e5e5e6be3e3678713584062ab782b812b8952c1266cb85c9cf42d2081"
+      "sha256": "d5e232f9d3aa252cf8f84f217c3ebfb040aa508a8993dbd27fa02960dd713d18"
     },
     {
       "path": "maps/Kontur_Office_v17_No_Red_Lines.rbxl",
@@ -641,6 +641,11 @@
       "sha256": "53c8a59d4771ac8fd4a47fb0f947c0cb3b2d55216e3b782f23a3fe0b0d25aabe"
     },
     {
+      "path": "models/anomalies-v34/REVIEW.md",
+      "bytes": 4267,
+      "sha256": "09a1a624cb7554096767ba77d59a9c6db2538a2093ce777366140a3384cd3217"
+    },
+    {
       "path": "models/anomalies-v34/blender/Kontur_Archive_v34.blend",
       "bytes": 641566,
       "sha256": "7dd3dcd0bdc2f10a7faaa6a303691208d46d9e0189b73f9904c2ad67f6a68a6e"
@@ -681,6 +686,21 @@
       "sha256": "50ed2c3f930d9cf8eb6f98bd145692bb058fb492f83cce4f3e4bfb5af5d6e21d"
     },
     {
+      "path": "models/anomalies-v34/blender/printer_fold.png",
+      "bytes": 927946,
+      "sha256": "dabb4ef5e7be2115d1f9e456b6fb5432d3f302b3470f3be70aa4cf05585a0d23"
+    },
+    {
+      "path": "models/anomalies-v34/blender/printer_form.png",
+      "bytes": 817658,
+      "sha256": "0a3cb2db2f32e17619e625139edf2f820ef281b84a41b639c5a0798c4a7d3a33"
+    },
+    {
+      "path": "models/anomalies-v34/blender/printer_side.png",
+      "bytes": 874080,
+      "sha256": "74e0cc458caf5810cc5bb12e422402438c0c905bafe2c7709ef559c703fbce4a"
+    },
+    {
       "path": "models/anomalies-v34/blender/vent_bead.png",
       "bytes": 823098,
       "sha256": "0976dd7770a408c2238d2185f16249b2f4d1183c4628685f32a386a3a326c02f"
@@ -704,6 +724,81 @@
       "path": "models/anomalies-v34/blender/vent_under_ceiling.png",
       "bytes": 824840,
       "sha256": "862f7131a45e6d0ec7c75d2515fa276f1d55d58edc5f25b9b3d3457ecdc7f547"
+    },
+    {
+      "path": "models/anomalies-v34/game/01_receipt.png",
+      "bytes": 275412,
+      "sha256": "02961a3303cae35550d62e3973c8fb5c9ee2cdea1510c49deb8fe1b88849a94c"
+    },
+    {
+      "path": "models/anomalies-v34/game/03_arc.png",
+      "bytes": 275945,
+      "sha256": "b7d416a7d469fe755132173d51dd341e58252a7d6a9ac847baaaaa21eb5d7ad8"
+    },
+    {
+      "path": "models/anomalies-v34/game/04_archive_read.png",
+      "bytes": 206942,
+      "sha256": "bdfc287836f840632499e876544bba7671b07cab1153d275da037e769bf2a874"
+    },
+    {
+      "path": "models/anomalies-v34/game/05_archive_return.png",
+      "bytes": 150530,
+      "sha256": "b1cb84851c09b0770b29cd35a3a8355dfd61d6c653f8a6d7de86dc5e09466492"
+    },
+    {
+      "path": "models/anomalies-v34/game/06_static_art.png",
+      "bytes": 186375,
+      "sha256": "325b434513620e9ae57b83447a6cf6712cf56acd68146e10c27a86f1d3e9fb3d"
+    },
+    {
+      "path": "models/anomalies-v34/game/07_static_calendar.png",
+      "bytes": 210030,
+      "sha256": "6dda6a0a705342c00cdf68e1583da085df0d40fb16fa0e72517ebed67ccd48f4"
+    },
+    {
+      "path": "models/anomalies-v34/game/08_static_plant.png",
+      "bytes": 217109,
+      "sha256": "2279a898f17495c3b8df3c1b89c93aa156d9ea151a5debfa470367ea40964b3c"
+    },
+    {
+      "path": "models/anomalies-v34/game/09_vent_wide.png",
+      "bytes": 192354,
+      "sha256": "9076c7a3b2719014e904266daf8cde58993f6abfa0427a686e7e0a8b7cbd852c"
+    },
+    {
+      "path": "models/anomalies-v34/game/10_vent_close.png",
+      "bytes": 164903,
+      "sha256": "b7ed42200c345240e75f5298a6d4d44d60bd122bb32ab937e21fff298464ee30"
+    },
+    {
+      "path": "models/anomalies-v34/game/12_vent_floor.png",
+      "bytes": 104580,
+      "sha256": "a3be48b5f525c0a7c9d51030d78825aae7b0d3b33cb496fccffb2cacc3ee38ce"
+    },
+    {
+      "path": "models/anomalies-v34/game/13_receipt_side.png",
+      "bytes": 303551,
+      "sha256": "6cea736b7431d663d2e44e1e06cfbc8885ba8b7555d9cf70a2412e6c05f69d1f"
+    },
+    {
+      "path": "models/anomalies-v34/game/14_door_corridor.png",
+      "bytes": 204773,
+      "sha256": "6b983617a890674c4aede974d2f36e4a959e62fde827eec8146c44cb55df9690"
+    },
+    {
+      "path": "models/anomalies-v34/game/15_door_handle.png",
+      "bytes": 114130,
+      "sha256": "4be8bde994d4721a01bb0c845bea07dcbc5111aa242b61acf07d0079f396b77e"
+    },
+    {
+      "path": "models/anomalies-v34/game/Coop_Check.json",
+      "bytes": 1102,
+      "sha256": "143dd7e05b5daf16c56ac691ad0d4e7cf81c20ab4f5ae217a175bb3ce29c0fd9"
+    },
+    {
+      "path": "models/anomalies-v34/game/Studio_Check.json",
+      "bytes": 4953,
+      "sha256": "6d2377851981ba0e2a1d021bf058f5ab41f96550f2ea6869c9c964b0de2b1b34"
     },
     {
       "path": "models/ceiling-worker-v18/01_first_clue.png",
@@ -1639,6 +1734,11 @@
       "path": "sessions/2026-11-10-office-anomalies-v33.md",
       "bytes": 4094,
       "sha256": "0f4e134fb354a6e857b43a0f63e8e4c12b09b6185be96fa7d9eedcfdf9d56948"
+    },
+    {
+      "path": "sessions/2026-11-10-office-anomalies-v34.md",
+      "bytes": 3964,
+      "sha256": "5198675b4aa83a0481aa18d4845cea7485ea1c804b71d6584a49ff190e4b44ab"
     },
     {
       "path": "sessions/2026-11-10-printer-coop.md",

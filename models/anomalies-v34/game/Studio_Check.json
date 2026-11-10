@@ -1,0 +1,237 @@
+{
+  "start": {
+    "calendar": 1008,
+    "calendarY": 4.5,
+    "art": -14,
+    "planter": 0
+  },
+  "print": {
+    "delay": 4.999974012374878
+  },
+  "rustle": {
+    "events": {
+      "RustleTray": {
+        "time": 0.03128814697265625,
+        "x": 1053.572998046875,
+        "range": 17,
+        "z": 41.41209030151367
+      },
+      "RustleFolders": {
+        "time": 0.39727210998535156,
+        "x": 1037.2586669921875,
+        "range": 18,
+        "z": 47.927921295166016
+      },
+      "RustleAisleStack": {
+        "time": 0.7972700595855713,
+        "x": 1017.36328125,
+        "range": 17,
+        "z": 46.705322265625
+      },
+      "RustleFarDesk": {
+        "time": 1.1320571899414062,
+        "x": 1036.4739990234375,
+        "range": 17,
+        "z": 17.76767921447754
+      },
+      "RustleOpenFile": {
+        "time": 0.6311521530151367,
+        "x": 1022.5057373046875,
+        "range": 16,
+        "z": 47.9774055480957
+      }
+    },
+    "early": 5
+  },
+  "monitor": {
+    "height": 5.357934951782227,
+    "near": 0.10810137540102005
+  },
+  "receipt": {
+    "raised": true,
+    "count": 240,
+    "stage": "Read"
+  },
+  "contact": {
+    "height": 3.366830348968506
+  },
+  "receiptSide": {
+    "span": 1.50244140625,
+    "delta": 0.29434061172651127,
+    "stage": "Read"
+  },
+  "arc": {
+    "bands": 9,
+    "receipt": "Done"
+  },
+  "floor": {
+    "height": 0.6671508550643921,
+    "near": 0.09705336391925812
+  },
+  "rustleFlight": {
+    "loaded": 9,
+    "count": 9,
+    "events": {
+      "RustleArcPass": {
+        "time": 8.730865955352783,
+        "x": 1035.606689453125,
+        "range": 19,
+        "z": 37.10796356201172
+      },
+      "RustleAisleStack": {
+        "time": 0.7972700595855713,
+        "x": 1017.36328125,
+        "range": 17,
+        "z": 46.705322265625
+      },
+      "RustleTray": {
+        "time": 0.03128814697265625,
+        "x": 1053.572998046875,
+        "range": 17,
+        "z": 41.41209030151367
+      },
+      "RustleFarDesk": {
+        "time": 1.1320571899414062,
+        "x": 1036.4739990234375,
+        "range": 17,
+        "z": 17.76767921447754
+      },
+      "RustleMonitorBrush": {
+        "time": 4.563584089279175,
+        "x": 1020.3599853515625,
+        "range": 11,
+        "z": 47.27873992919922
+      },
+      "RustleFolders": {
+        "time": 0.39727210998535156,
+        "x": 1037.2586669921875,
+        "range": 18,
+        "z": 47.927921295166016
+      },
+      "RustleOpenFile": {
+        "time": 0.6311521530151367,
+        "x": 1022.5057373046875,
+        "range": 16,
+        "z": 47.9774055480957
+      },
+      "RustleFloorTurn": {
+        "time": 10.430720090866089,
+        "x": 1048.0999755859375,
+        "range": 12,
+        "z": 40.288204193115234
+      },
+      "RustleDeskSlide": {
+        "time": 5.696948051452637,
+        "x": 1022.1665649414062,
+        "range": 12,
+        "z": 46.34619903564453
+      }
+    }
+  },
+  "archive": {
+    "scenario": "ArchiveWriting"
+  },
+  "archiveGlance": {
+    "stage": "Hidden"
+  },
+  "archivePartial": {
+    "stage": "Hidden"
+  },
+  "archiveRead": {
+    "head": "1027.3485107421875, 4.599648475646973, -17.083219528198242",
+    "legacy": false,
+    "stage": "Read",
+    "hit": "none"
+  },
+  "archiveReadBack": {
+    "stage": "Read",
+    "first": 0
+  },
+  "archiveLookDown": {
+    "stage": "Read"
+  },
+  "archiveTurn": {
+    "first": 1,
+    "stage": "Changed",
+    "second": 0
+  },
+  "archiveFar": {
+    "exists": false
+  },
+  "archiveBack": {
+    "stage": "Changed"
+  },
+  "art": {
+    "secondTilt": 1.8000496504939965,
+    "first": -21,
+    "firstTilt": 2.700013952083344,
+    "second": -14
+  },
+  "calendar": {
+    "calendarY": 3.990000009536743,
+    "oldPin": true,
+    "artRestored": -14,
+    "calendar": 1010.4500122070312
+  },
+  "plant": {
+    "calendarRestored": 1008,
+    "oldPin": false,
+    "redStems": 0,
+    "red": 78
+  },
+  "vent": {
+    "top": 11.248999956995249,
+    "ceilingGap": 0.2560001574456692,
+    "passable": true,
+    "hinge": 0.27563735842704773,
+    "ceiling": "TileHALL_W",
+    "width": 1.3440001010894775
+  },
+  "ventClient": {
+    "beadHigh": 0.04325620457530022,
+    "sourceY": 10.609999656677246,
+    "high": 17,
+    "low": 5,
+    "stream": 0.37289586663246155,
+    "tracks": 3,
+    "beadLow": 0.0019114402821287513,
+    "releaseGap": 0.004678948316723108,
+    "splashSamples": 41,
+    "footprint": 0.5400000214576721
+  },
+  "door": {
+    "wall": "WallCore2_29PlasterUpper",
+    "pieces": 28,
+    "passable": true
+  },
+  "doorFar": {
+    "breath": 0,
+    "knock": 0
+  },
+  "doorNear": {
+    "MuffledBreath": {
+      "peak": 8.977946825325489,
+      "plays": 1
+    },
+    "DullKnock": {
+      "peak": 53.8441576063633,
+      "plays": 2
+    }
+  },
+  "doorBehind": {
+    "plays": 0,
+    "playing": false
+  },
+  "reset": {
+    "scenario": "Clear",
+    "plant": 0,
+    "calendar": 1008,
+    "hinge": 0,
+    "art": -14,
+    "level": 1,
+    "door": false
+  },
+  "clientReset": {
+    "exists": false
+  }
+}
