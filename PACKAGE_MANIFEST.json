@@ -641,6 +641,66 @@
       "sha256": "53c8a59d4771ac8fd4a47fb0f947c0cb3b2d55216e3b782f23a3fe0b0d25aabe"
     },
     {
+      "path": "models/anomalies-v34/blender/Kontur_Archive_v34.blend",
+      "bytes": 641566,
+      "sha256": "7dd3dcd0bdc2f10a7faaa6a303691208d46d9e0189b73f9904c2ad67f6a68a6e"
+    },
+    {
+      "path": "models/anomalies-v34/blender/Kontur_Door_v34.blend",
+      "bytes": 680451,
+      "sha256": "04fafb787fbe688d67b0b66b0e6bce6f1fde4eefb1690517cf3c2edd30f4ef05"
+    },
+    {
+      "path": "models/anomalies-v34/blender/Kontur_Vent_v34.blend",
+      "bytes": 864288,
+      "sha256": "bb600c58a4fe3f752bb86445eb5e2554a35c92a0c95c61deda181bed462e89a4"
+    },
+    {
+      "path": "models/anomalies-v34/blender/archive_first.png",
+      "bytes": 819921,
+      "sha256": "b1991c21362bb57088a425ccdce78fd6d3bbff9ede5481a2d0221ca551496946"
+    },
+    {
+      "path": "models/anomalies-v34/blender/archive_return.png",
+      "bytes": 793086,
+      "sha256": "08865b7af1f1af98674e207c0c6fa6fd870db502afa78366a5601e61013fd2f6"
+    },
+    {
+      "path": "models/anomalies-v34/blender/door_corridor.png",
+      "bytes": 796158,
+      "sha256": "dca1a25e3e21959576d599b21b4debd54df4baf555f5bea3f2aa5066911401f5"
+    },
+    {
+      "path": "models/anomalies-v34/blender/door_handle.png",
+      "bytes": 798283,
+      "sha256": "50ed2c3f930d9cf8eb6f98bd145692bb058fb492f83cce4f3e4bfb5af5d6e21d"
+    },
+    {
+      "path": "models/anomalies-v34/blender/vent_bead.png",
+      "bytes": 823098,
+      "sha256": "0976dd7770a408c2238d2185f16249b2f4d1183c4628685f32a386a3a326c02f"
+    },
+    {
+      "path": "models/anomalies-v34/blender/vent_detach.png",
+      "bytes": 819348,
+      "sha256": "82d84a15b5c660c24c7c458988d0a0a440b9c9671e90c3d65e8aeab31b46711e"
+    },
+    {
+      "path": "models/anomalies-v34/blender/vent_runoff.png",
+      "bytes": 742568,
+      "sha256": "a0456acbde0f12b98a3ff267e640bbb0c48b252741c225edff479eb38a831b39"
+    },
+    {
+      "path": "models/anomalies-v34/blender/vent_trails.png",
+      "bytes": 882990,
+      "sha256": "a63f4ec8f0ac529052338c80f666a04a2d0463b934405789b414b0d39a3332c8"
+    },
+    {
+      "path": "models/anomalies-v34/blender/vent_under_ceiling.png",
+      "bytes": 824840,
+      "sha256": "862f7131a45e6d0ec7c75d2515fa276f1d55d58edc5f25b9b3d3457ecdc7f547"
+    },
+    {
       "path": "models/ceiling-worker-v18/01_first_clue.png",
       "bytes": 1101670,
       "sha256": "e5f31a87101400f394b4ddbc69196ee9fa0f7fde555aa967baee5fbb652294c2"
