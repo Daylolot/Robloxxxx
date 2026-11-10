@@ -1,0 +1,45 @@
+{
+  "ok": true,
+  "report": {
+    "printer_arc": {
+      "maxNormalDelta": 0.12066411226987839,
+      "segments": 240,
+      "round": 2,
+      "start": 1794284742.010243,
+      "level": 2,
+      "clockDelta": 0.06300997734069824,
+      "maxPositionDelta": 0.20798629522323608
+    },
+    "printer_reentry": {
+      "maxNormalDelta": 0.0348404124379158,
+      "segments": 240,
+      "round": 2,
+      "start": 1794284742.010243,
+      "level": 2,
+      "clockDelta": 0.046853065490722656,
+      "maxPositionDelta": 0.05204877257347107
+    },
+    "players": 2,
+    "vent": {
+      "rateB": 27,
+      "angle": 0.275688111782074,
+      "rateA": 27
+    },
+    "vent_far": {
+      "angle": 0.275688111782074,
+      "exists": false,
+      "x": 1084.9990234375
+    },
+    "archive": {
+      "a": "Changed",
+      "lookDown": "Read",
+      "b": "Read"
+    },
+    "printer_far": {
+      "segments": 0
+    },
+    "reset": {
+      "level": 1
+    }
+  }
+}

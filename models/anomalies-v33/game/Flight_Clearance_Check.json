@@ -1,0 +1,86 @@
+{
+  "3": {
+    "kind": "arc",
+    "timeSamples": 215,
+    "pointsPerSample": 15,
+    "issues": [],
+    "count": 0
+  },
+  "6": {
+    "kind": "arc",
+    "timeSamples": 214,
+    "pointsPerSample": 15,
+    "issues": [],
+    "count": 0
+  },
+  "39": {
+    "kind": "arc",
+    "timeSamples": 212,
+    "pointsPerSample": 15,
+    "issues": [],
+    "count": 0
+  },
+  "43": {
+    "kind": "contact",
+    "timeSamples": 163,
+    "pointsPerSample": 15,
+    "issues": [],
+    "count": 0
+  },
+  "12": {
+    "kind": "arc",
+    "timeSamples": 214,
+    "pointsPerSample": 15,
+    "issues": [],
+    "count": 0
+  },
+  "46": {
+    "kind": "arc",
+    "timeSamples": 212,
+    "pointsPerSample": 15,
+    "issues": [],
+    "count": 0
+  },
+  "16": {
+    "kind": "arc",
+    "timeSamples": 213,
+    "pointsPerSample": 15,
+    "issues": [],
+    "count": 0
+  },
+  "17": {
+    "kind": "contact",
+    "timeSamples": 190,
+    "pointsPerSample": 15,
+    "issues": [],
+    "count": 0
+  },
+  "22": {
+    "kind": "arc",
+    "timeSamples": 213,
+    "pointsPerSample": 15,
+    "issues": [],
+    "count": 0
+  },
+  "55": {
+    "kind": "arc",
+    "timeSamples": 211,
+    "pointsPerSample": 15,
+    "issues": [],
+    "count": 0
+  },
+  "28": {
+    "kind": "contact",
+    "timeSamples": 198,
+    "pointsPerSample": 15,
+    "issues": [],
+    "count": 0
+  },
+  "31": {
+    "kind": "arc",
+    "timeSamples": 213,
+    "pointsPerSample": 15,
+    "issues": [],
+    "count": 0
+  }
+}

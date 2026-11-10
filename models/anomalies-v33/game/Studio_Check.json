@@ -1,0 +1,195 @@
+{
+  "start": {
+    "calendar": 1008,
+    "calendarY": 4.5,
+    "art": -14,
+    "planter": 0
+  },
+  "print": {
+    "delay": 4.999953985214233
+  },
+  "rustle": {
+    "events": {
+      "RustleTray": {
+        "time": 0.016067028045654297,
+        "x": 1053.572998046875,
+        "range": 17,
+        "z": 41.41209030151367
+      },
+      "RustleFolders": {
+        "time": 0.3815608024597168,
+        "x": 1037.2586669921875,
+        "range": 18,
+        "z": 47.92792510986328
+      },
+      "RustleAisleStack": {
+        "time": 0.7816178798675537,
+        "x": 1017.36328125,
+        "range": 17,
+        "z": 46.705322265625
+      },
+      "RustleFarDesk": {
+        "time": 1.1503689289093018,
+        "x": 1036.4739990234375,
+        "range": 17,
+        "z": 17.76767921447754
+      },
+      "RustleOpenFile": {
+        "time": 0.6498308181762695,
+        "x": 1022.5057373046875,
+        "range": 16,
+        "z": 47.9774055480957
+      }
+    },
+    "early": 5
+  },
+  "monitor": {
+    "height": 5.359184265136719,
+    "near": 0.10832124948501587
+  },
+  "receipt": {
+    "raised": true,
+    "stage": "Read",
+    "count": 240
+  },
+  "contact": {
+    "height": 3.3664169311523438
+  },
+  "arc": {
+    "bands": 9,
+    "receipt": "Done"
+  },
+  "floor": {
+    "height": 0.6667192578315735,
+    "near": 0.09704720973968506
+  },
+  "rustleFlight": {
+    "loaded": 9,
+    "count": 9,
+    "events": {
+      "RustleArcPass": {
+        "time": 8.748406887054443,
+        "x": 1035.43994140625,
+        "range": 19,
+        "z": 37.00831604003906
+      },
+      "RustleAisleStack": {
+        "time": 0.7816178798675537,
+        "x": 1017.36328125,
+        "range": 17,
+        "z": 46.705322265625
+      },
+      "RustleTray": {
+        "time": 0.016067028045654297,
+        "x": 1053.572998046875,
+        "range": 17,
+        "z": 41.41209030151367
+      },
+      "RustleFarDesk": {
+        "time": 1.1503689289093018,
+        "x": 1036.4739990234375,
+        "range": 17,
+        "z": 17.76767921447754
+      },
+      "RustleMonitorBrush": {
+        "time": 4.582624912261963,
+        "x": 1020.3599853515625,
+        "range": 11,
+        "z": 47.278507232666016
+      },
+      "RustleFolders": {
+        "time": 0.3815608024597168,
+        "x": 1037.2586669921875,
+        "range": 18,
+        "z": 47.92792510986328
+      },
+      "RustleOpenFile": {
+        "time": 0.6498308181762695,
+        "x": 1022.5057373046875,
+        "range": 16,
+        "z": 47.9774055480957
+      },
+      "RustleFloorTurn": {
+        "time": 10.448798894882202,
+        "x": 1048.0999755859375,
+        "range": 12,
+        "z": 40.28848648071289
+      },
+      "RustleDeskSlide": {
+        "time": 5.681180953979492,
+        "x": 1022.1652221679688,
+        "range": 12,
+        "z": 46.3462028503418
+      }
+    }
+  },
+  "archive": {
+    "scenario": "ArchiveWriting"
+  },
+  "archiveGlance": {
+    "stage": "Hidden"
+  },
+  "archiveRead": {
+    "head": "1027.334716796875, 4.6048784255981445, -17.083768844604492",
+    "legacy": false,
+    "stage": "Read",
+    "hit": "none"
+  },
+  "archiveReadBack": {
+    "stage": "Read"
+  },
+  "archiveLookDown": {
+    "stage": "Read"
+  },
+  "archiveTurn": {
+    "stage": "Changed"
+  },
+  "archiveFar": {
+    "exists": false
+  },
+  "archiveBack": {
+    "stage": "Changed"
+  },
+  "art": {
+    "secondTilt": 1.8000496504939965,
+    "first": -21,
+    "firstTilt": 2.700013952083344,
+    "second": -14
+  },
+  "calendar": {
+    "calendarY": 3.990000009536743,
+    "oldPin": true,
+    "artRestored": -14,
+    "calendar": 1010.4500122070312
+  },
+  "plant": {
+    "calendarRestored": 1008,
+    "oldPin": false,
+    "redStems": 0,
+    "red": 78
+  },
+  "vent": {
+    "hinge": 0.27563735842704773,
+    "passable": true
+  },
+  "ventClient": {
+    "low": 9,
+    "stream": 0.38326266407966614,
+    "drops": 20,
+    "splashSamples": 45,
+    "high": 27,
+    "footprint": 0.5400000214576721,
+    "smoke": 9.035123825073242
+  },
+  "reset": {
+    "plant": 0,
+    "calendar": 1008,
+    "art": -14,
+    "level": 1,
+    "hinge": 0,
+    "scenario": "Clear"
+  },
+  "clientReset": {
+    "exists": false
+  }
+}

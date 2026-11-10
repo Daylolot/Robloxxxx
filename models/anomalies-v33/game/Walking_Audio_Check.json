@@ -1,0 +1,51 @@
+{
+  "walkSpan": 9.397125244140625,
+  "cues": {
+    "RustleArcPass": {
+      "outside": 0,
+      "peak": 56.306470185518265,
+      "inside": 56
+    },
+    "RustleOpenFile": {
+      "outside": 59,
+      "peak": 0,
+      "inside": 0
+    },
+    "RustleMonitorBrush": {
+      "outside": 116,
+      "peak": 0,
+      "inside": 0
+    },
+    "RustleFarDesk": {
+      "outside": 30,
+      "peak": 46.31727933883667,
+      "inside": 113
+    },
+    "RustleTray": {
+      "outside": 46,
+      "peak": 0,
+      "inside": 0
+    },
+    "RustleFolders": {
+      "outside": 0,
+      "peak": 33.594176173210144,
+      "inside": 43
+    },
+    "RustleAisleStack": {
+      "outside": 40,
+      "peak": 0,
+      "inside": 0
+    },
+    "RustleDeskSlide": {
+      "outside": 12,
+      "peak": 35.58008000254631,
+      "inside": 45
+    },
+    "RustleFloorTurn": {
+      "outside": 23,
+      "peak": 0,
+      "inside": 0
+    }
+  },
+  "counts": 240
+}
