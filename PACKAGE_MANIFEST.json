@@ -511,6 +511,11 @@
       "sha256": "b6a342813ce7ae275e3ec5e18ed1173ef83c10945f674334e5b1918403133976"
     },
     {
+      "path": "models/anomalies-v33/blender/Kontur_Printer_v33.blend",
+      "bytes": 8233418,
+      "sha256": "2737d22c11dd0d0cefad8ce0165296ad57726887dd79e9b4cb3174d2ca26826b"
+    },
+    {
       "path": "models/anomalies-v33/blender/Kontur_Static_v33.blend",
       "bytes": 1593294,
       "sha256": "d90d7f9756ec04ed84d858388336c750d74ebd4bccfa18076bd8ee730cd4fa55"
