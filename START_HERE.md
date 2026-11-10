@@ -10,7 +10,7 @@
 
 ## Текущая точка
 
-Актуальные копии — [игровая карта v31](maps/Kontur_Office_v31.rbxl) и [карта QA v31](maps/Kontur_Office_v31_QA.rbxl). [Обзор](models/anomalies-v31/REVIEW.md) содержит Blender, кадры, проверки и ссылки на исходники.
+Актуальные копии — [игровая карта v32](maps/Kontur_Office_v32.rbxl) и [карта QA v32](maps/Kontur_Office_v32_QA.rbxl). [Обзор](models/anomalies-v32/REVIEW.md) содержит Blender, кадры, проверки и ссылки на исходники.
 
 В Blender v28 собраны предупреждение, отсчёт и 42 отдельных полёта. [Сцена, ролик и отчёт](models/printer-v28/REVIEW.md).
 

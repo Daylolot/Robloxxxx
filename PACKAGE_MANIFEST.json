@@ -12,8 +12,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 11781,
-      "sha256": "a0256784487ea8bf26588778213547d40b579f306b853ef35c5c5515258cb756"
+      "bytes": 12291,
+      "sha256": "f222d7b2d1d32cc247ff753e94802a977b9de10e2f3e8fc8b69eb2c3c7f8c5e6"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -22,18 +22,18 @@
     },
     {
       "path": "README.md",
-      "bytes": 5393,
-      "sha256": "2dbd5af5354d389524ea4c42b4693fdfd601a0d65d5f99389260312706b06ded"
+      "bytes": 5647,
+      "sha256": "acbd00c1bf40b304714863e40ac0a1c0a87c6ff25bfec222e0be1e76fe6d206f"
     },
     {
       "path": "START_HERE.md",
       "bytes": 3888,
-      "sha256": "17e50fd35e02097bba36035dd9e5be8b63274c99b2030ab2339d6c80dff07d55"
+      "sha256": "9a2b3252e468df694667601cd511d32b22307829ff74be93cc0d0dbeabc6b42e"
     },
     {
       "path": "docs/DECISION_LOG.md",
-      "bytes": 10653,
-      "sha256": "5f1f4525f276e29cfb41a3c126484d2e86082ec45add6857e599a9d69dc9bb95"
+      "bytes": 11140,
+      "sha256": "06e7249f3890e4bd1d8a4334011ff77899ffbe6c706a675f55a553e452cf9b23"
     },
     {
       "path": "docs/PROJECT_FILE_INDEX.json",
@@ -42,8 +42,8 @@
     },
     {
       "path": "docs/ROADMAP.md",
-      "bytes": 2863,
-      "sha256": "5e3230f489e110b754764f00c192e527c74291d2e58278dd2403aa3d59e4990b"
+      "bytes": 2965,
+      "sha256": "e8aa18785692178db8a7c033a6ab820318be2bbce52f3d51870db4da18a7dabf"
     },
     {
       "path": "maps/Kontur_Office_v17_No_Red_Lines.rbxl",
@@ -394,6 +394,106 @@
       "path": "models/anomalies-v31/game/Studio_Check.json",
       "bytes": 1321,
       "sha256": "ce2e2363b94bd1525e824aa0c4234472466fa392414b785f4da0629fb3230444"
+    },
+    {
+      "path": "models/anomalies-v32/REVIEW.md",
+      "bytes": 4667,
+      "sha256": "56c0736740408fb3eecb9673ceb4e434dd82b3aedade3e03dc035ef92e67825a"
+    },
+    {
+      "path": "models/anomalies-v32/blender/Kontur_Static_v32.blend",
+      "bytes": 1316932,
+      "sha256": "bdbb26dd846bb884c9a53fb4be01c2b51c112d0a3d1b470c9a8b55f5f914dcaf"
+    },
+    {
+      "path": "models/anomalies-v32/blender/Kontur_Vent_v32.blend",
+      "bytes": 810152,
+      "sha256": "e4cb5bb544f5c233d8df08901af5891225543963bdef18fe61f1c2a88a2c88c2"
+    },
+    {
+      "path": "models/anomalies-v32/blender/Static_Check.json",
+      "bytes": 109,
+      "sha256": "27f15587f3b94aa20be0cd134e58adfe8097704bb655d1150da2355af592b7bb"
+    },
+    {
+      "path": "models/anomalies-v32/blender/Vent_Check.json",
+      "bytes": 107,
+      "sha256": "31ca7385cd251737054950b9ea596968d4f89ec95d448a2a392991f755b0be02"
+    },
+    {
+      "path": "models/anomalies-v32/blender/calendar_old_pin.png",
+      "bytes": 784125,
+      "sha256": "2f18b4dcf61550c927b1ffb7230ed3696e7bba9ea1705b7beabd9ccd979724b2"
+    },
+    {
+      "path": "models/anomalies-v32/blender/vent_drop_impact.png",
+      "bytes": 757424,
+      "sha256": "baa7d2e2002fc367d04f42c1675f3a8cd313dfaf724caf7df4c4d94c3d32160f"
+    },
+    {
+      "path": "models/anomalies-v32/blender/vent_pulse.png",
+      "bytes": 887840,
+      "sha256": "6590fa34b26dc5d7f6e7be6011e5bbf2b0b44a2c0c97264b6dc5eb4e5d760d5c"
+    },
+    {
+      "path": "models/anomalies-v32/blender/vent_quiet.png",
+      "bytes": 894016,
+      "sha256": "6d9c8421a692be19bb70cb8cfbcbc9063a5104eb157aae4761301b6671379cdb"
+    },
+    {
+      "path": "models/anomalies-v32/game/03_arc.png",
+      "bytes": 276004,
+      "sha256": "708ea24986087a5f53fea013e245b2e596ab2eea193d903007ee4c44102f2093"
+    },
+    {
+      "path": "models/anomalies-v32/game/04_archive_read.png",
+      "bytes": 152314,
+      "sha256": "a827f65f51d7736f286ad3fdec66ae61a3b4dc35ef0c7a26958d72ec924e9c9d"
+    },
+    {
+      "path": "models/anomalies-v32/game/05_archive_return.png",
+      "bytes": 149371,
+      "sha256": "d3040212f9e5facacf8e27d82f10e844a14bfbabf23f5e16575243bfccd2d996"
+    },
+    {
+      "path": "models/anomalies-v32/game/06_static_art.png",
+      "bytes": 205872,
+      "sha256": "3367ece05ab11bbe43bde16e055452f586d2eb6eafcc7f39668693992d2ad01f"
+    },
+    {
+      "path": "models/anomalies-v32/game/07_static_calendar.png",
+      "bytes": 208099,
+      "sha256": "bff4729c8d0d7dfe194356203712951f058faca29f23d8ef80f42a7c7e560048"
+    },
+    {
+      "path": "models/anomalies-v32/game/08_static_plant.png",
+      "bytes": 230111,
+      "sha256": "bc9be00a6c438d18d8cb64176bc8215c41ab27b4a94e15528e57e300363d80ea"
+    },
+    {
+      "path": "models/anomalies-v32/game/09_vent_wide.png",
+      "bytes": 179791,
+      "sha256": "d75bc9d78c26bdd7082216cd3a9d5c92dcf0bda5532017af3d488a7f90c888d8"
+    },
+    {
+      "path": "models/anomalies-v32/game/10_vent_close.png",
+      "bytes": 184778,
+      "sha256": "3427a8a59525fce53967f011ac4aaf1b18a192852981c2411ac94b446b5db954"
+    },
+    {
+      "path": "models/anomalies-v32/game/12_vent_floor.png",
+      "bytes": 102623,
+      "sha256": "45f558be2d2315a359ea0ac7b8d856064b6cb42ce37651dd0a139b2e8ca5c94b"
+    },
+    {
+      "path": "models/anomalies-v32/game/Coop_Check.json",
+      "bytes": 830,
+      "sha256": "60426e01636b177d72739632ff9cb7b4f620a2087d09b0bcfaedbdbd97191b1d"
+    },
+    {
+      "path": "models/anomalies-v32/game/Studio_Check.json",
+      "bytes": 1618,
+      "sha256": "af89de1f075b0c9775f94f390692d76da591400be82a6afe862f952f410c45cc"
     },
     {
       "path": "models/ceiling-worker-v18/01_first_clue.png",
@@ -1321,6 +1421,11 @@
       "sha256": "4d63da46cea3f21c29382251e1481e530012951179b4ea823374b103f8c68b60"
     },
     {
+      "path": "sessions/2026-11-10-office-anomalies-v32.md",
+      "bytes": 2092,
+      "sha256": "25a9673bec470bede2558d1c926ffcd96cc66a4e02111fe8bd7e3d9a4f7a4cb6"
+    },
+    {
       "path": "sessions/2026-11-10-printer-coop.md",
       "bytes": 1363,
       "sha256": "827f9dfe8bbd3c2df4a1b0013f75b5d74ad023eecb8dfd359fbe68babcab80fc"
@@ -1439,6 +1544,11 @@
       "path": "sources/anomalies-v32/PrinterPaper.client.luau",
       "bytes": 15004,
       "sha256": "61bbe93f07b135b34ae179025e1da23c22abd9e486ef7bf186a81bdbb594bf5c"
+    },
+    {
+      "path": "sources/anomalies-v32/README.md",
+      "bytes": 1747,
+      "sha256": "aeef276aea92cfec7da8fede20c29660e3885a26f0e0136d53cd599fc1b2675e"
     },
     {
       "path": "sources/anomalies-v32/VentParts.luau",

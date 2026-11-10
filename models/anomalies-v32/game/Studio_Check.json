@@ -1,0 +1,93 @@
+{
+  "start": {
+    "calendar": 1008,
+    "calendarY": 4.5,
+    "art": -14,
+    "planter": 0
+  },
+  "print": {
+    "delay": 4.999972105026245
+  },
+  "monitor": {
+    "height": 5.3583760261535645,
+    "near": 0.10817718505859375
+  },
+  "receipt": {
+    "raised": true,
+    "stage": "Read",
+    "count": 240
+  },
+  "contact": {
+    "height": 3.3637125492095947
+  },
+  "arc": {
+    "bands": 9,
+    "receipt": "Done"
+  },
+  "floor": {
+    "height": 0.6674803495407104,
+    "near": 0.09705568104982376
+  },
+  "archive": {
+    "scenario": "ArchiveWriting"
+  },
+  "archiveGlance": {
+    "stage": "Hidden"
+  },
+  "archiveRead": {
+    "head": "1027.31005859375, 4.54123067855835, -17.137470245361328",
+    "legacy": false,
+    "stage": "Read",
+    "hit": "none"
+  },
+  "archiveLookDown": {
+    "stage": "Read"
+  },
+  "archiveTurn": {
+    "stage": "Changed"
+  },
+  "archiveFar": {
+    "exists": false
+  },
+  "archiveBack": {
+    "stage": "Changed"
+  },
+  "art": {
+    "first": -21,
+    "second": -14
+  },
+  "calendar": {
+    "calendarY": 3.990000009536743,
+    "oldPin": true,
+    "artRestored": -14,
+    "calendar": 1010.4500122070312
+  },
+  "plant": {
+    "calendarRestored": 1008,
+    "oldPin": false,
+    "red": 186
+  },
+  "vent": {
+    "hinge": 0.27563735842704773,
+    "passable": true
+  },
+  "ventClient": {
+    "low": 9,
+    "stream": 0.391633540391922,
+    "drops": 24,
+    "high": 27,
+    "splashSamples": 52,
+    "smoke": 9.105420112609863
+  },
+  "reset": {
+    "plant": 0,
+    "calendar": 1008,
+    "art": -14,
+    "level": 1,
+    "hinge": 0,
+    "scenario": "Clear"
+  },
+  "clientReset": {
+    "exists": false
+  }
+}
