@@ -151,6 +151,16 @@
       "sha256": "e151f4299c3addd6830727fe5bc43a7e1968a9ab2d3cc01daed543b476760b84"
     },
     {
+      "path": "maps/Kontur_Office_v33.rbxl",
+      "bytes": 3142705,
+      "sha256": "115ace6091ee5b9fa6a7c5908a0c77bb7974d7af07e7d67205cef8ad17713b61"
+    },
+    {
+      "path": "maps/Kontur_Office_v33_QA.rbxl",
+      "bytes": 3142877,
+      "sha256": "6666a57967d3870df9117f6535b2b292dd9d331382615d5a08ba699aed81cf97"
+    },
+    {
       "path": "maps/Office_v17_BloodFlood_QA.rbxl",
       "bytes": 2743422,
       "sha256": "ce59e3f73a727cecd22c22e7c7bbaa5caeb0cfe72dd92f347046c8b5b65d8e42"
@@ -1589,6 +1599,71 @@
       "path": "sources/anomalies-v32/studio_verify.py",
       "bytes": 13656,
       "sha256": "865a158128fc09226bc798b543de00284bae9da09049e46de47025313508fbae"
+    },
+    {
+      "path": "sources/anomalies-v33/OfficeObjects.client.luau",
+      "bytes": 16129,
+      "sha256": "40a36abc085e50b1fcc6fd866d57244c0b1416c0b9b1b07f1507608564e75da0"
+    },
+    {
+      "path": "sources/anomalies-v33/OfficeObjects.server.luau",
+      "bytes": 5456,
+      "sha256": "5abb61a90c94eaf614d60b26244a720d29d83d28bc49b21e4145db83eac6a167"
+    },
+    {
+      "path": "sources/anomalies-v33/PrinterDirection.luau",
+      "bytes": 2258,
+      "sha256": "40ec3ad073d92f49638a0dae87615850b7db5dc97a46a87ae3e37d88ca74c860"
+    },
+    {
+      "path": "sources/anomalies-v33/PrinterPaper.client.luau",
+      "bytes": 15393,
+      "sha256": "ebdf434198c19682cb4607102e3fa9db1c960a58bbadbaa4b77849ad034d1165"
+    },
+    {
+      "path": "sources/anomalies-v33/README.md",
+      "bytes": 2179,
+      "sha256": "73f79c5adc9c14cdb89d761365b8fd8e64777ebaeaaac5b901d7963ed7d8cadd"
+    },
+    {
+      "path": "sources/anomalies-v33/VentParts.luau",
+      "bytes": 3509,
+      "sha256": "d917dade51bf376d90b7a6c0c1166504344bddb60b3ec11f9cc0e0fcb8dd73f8"
+    },
+    {
+      "path": "sources/anomalies-v33/audit_paper.py",
+      "bytes": 4521,
+      "sha256": "1b769db1f8d792397cdc3f48fa8b0f652cc93912a521ebaab9a21a15fc4f7cd2"
+    },
+    {
+      "path": "sources/anomalies-v33/build_place.py",
+      "bytes": 4389,
+      "sha256": "7d8773d9ed57f358ea333c4acb8b2fdb52f582d468ad0f0b6e747dbd3424c1b9"
+    },
+    {
+      "path": "sources/anomalies-v33/coop/client.luau",
+      "bytes": 3436,
+      "sha256": "64c55cb8aea0eb7fd517362a45c15ec8eae5e9768ba5454417954a57c4cda6cd"
+    },
+    {
+      "path": "sources/anomalies-v33/coop/run.py",
+      "bytes": 2440,
+      "sha256": "59c93e5c2e4d3529d6cd96b0b3a40f21c787aa2e4ed198768f61af0dde5168f4"
+    },
+    {
+      "path": "sources/anomalies-v33/coop/server.luau",
+      "bytes": 7318,
+      "sha256": "e1c7e77a37cc148f097502631c18bffe29cc6de039969f9ffb6082014b3c29a5"
+    },
+    {
+      "path": "sources/anomalies-v33/refine_studies.py",
+      "bytes": 7865,
+      "sha256": "cb1d38136b4ca17adf962631eca7c2e57c8e48780f38d764ad37816008b1e94c"
+    },
+    {
+      "path": "sources/anomalies-v33/studio_verify.py",
+      "bytes": 18582,
+      "sha256": "38e568cfba82d611e25f8922a664ae952d65a83901219940a89ed4e07776f26a"
     },
     {
       "path": "sources/ceiling-worker-v18/DECISIONS.md",
