@@ -12,8 +12,8 @@
     },
     {
       "path": "CHANGELOG.md",
-      "bytes": 14006,
-      "sha256": "b92f97fead5adaf01037968bc4442d715d2bfc3bbce847590a728c5037468123"
+      "bytes": 14604,
+      "sha256": "13e098d3d04532434fdc3a29f49fb7b28bafa1f5a72f33e26f8d52c3fecbfbf1"
     },
     {
       "path": "CONTRIBUTING.md",
@@ -22,18 +22,18 @@
     },
     {
       "path": "README.md",
-      "bytes": 6222,
-      "sha256": "fcfaeea0f4c57acfec05fd7d8ea06ece041ce27567dd52537f6816f0e52eae2b"
+      "bytes": 6483,
+      "sha256": "ac773b2fe79e60feffa46ceb02ec7d355968315de4b7f1b9f98f75ae384f9fa1"
     },
     {
       "path": "START_HERE.md",
       "bytes": 3988,
-      "sha256": "15a321d1369335b2ad92176471bb4478ac340925f4d2a53d8e9a3deece60cb04"
+      "sha256": "15fe652d8062b800af3c74fc5ebe44c6520e5a743b0718f5d223802d08883357"
     },
     {
       "path": "docs/DECISION_LOG.md",
-      "bytes": 12657,
-      "sha256": "8b09adacfa8d608e60d637e151d977b99593d79fa9113abd4a28de1161e156c9"
+      "bytes": 13230,
+      "sha256": "0de3c85c896f2fa1923834876eec3715523f0b90c8db38787809f0ae1a0ae8fd"
     },
     {
       "path": "docs/PROJECT_FILE_INDEX.json",
@@ -43,7 +43,7 @@
     {
       "path": "docs/ROADMAP.md",
       "bytes": 3122,
-      "sha256": "d5e232f9d3aa252cf8f84f217c3ebfb040aa508a8993dbd27fa02960dd713d18"
+      "sha256": "784a0b93e4a22b136d0075579f4fc3e72362923acbe9abf4b40c6db6dbcaeac9"
     },
     {
       "path": "maps/Kontur_Office_v17_No_Red_Lines.rbxl",
@@ -811,6 +811,11 @@
       "sha256": "6d2377851981ba0e2a1d021bf058f5ab41f96550f2ea6869c9c964b0de2b1b34"
     },
     {
+      "path": "models/anomalies-v35/REVIEW.md",
+      "bytes": 3430,
+      "sha256": "2285439010b9b890cc4c267691c3e66fec24d6222937cbfb3c812d6b9ecdc898"
+    },
+    {
       "path": "models/anomalies-v35/blender/Kontur_Door_v35.blend",
       "bytes": 607385,
       "sha256": "e74faa149f3754b37087c785d9cfe7146b7ba9321d0fd897474797992898e33d"
@@ -849,6 +854,41 @@
       "path": "models/anomalies-v35/blender/vent_sources.png",
       "bytes": 855334,
       "sha256": "5a4732a4ba377c2b8fc4cfcb1f7b818b44c9234d7d8c2426527f794fa9535429"
+    },
+    {
+      "path": "models/anomalies-v35/game/09_vent_wide.png",
+      "bytes": 191567,
+      "sha256": "f7cef21e224623cf1a5909615422fcc9b57262615cad8d640272320582668fd9"
+    },
+    {
+      "path": "models/anomalies-v35/game/10_vent_close.png",
+      "bytes": 164549,
+      "sha256": "dbbfca60c4f8613990472cb44633d693673b805d829bf6374ef6e0150aa2caba"
+    },
+    {
+      "path": "models/anomalies-v35/game/12_vent_floor.png",
+      "bytes": 103813,
+      "sha256": "bfd192ef67c3cc6d8a3581c3ec3b4ea3afda1cbd174fdd7917bb7f78590c4eae"
+    },
+    {
+      "path": "models/anomalies-v35/game/14_door_corridor.png",
+      "bytes": 204318,
+      "sha256": "949f557376d057f92ccd00b006f5d69b10db8a1e1700592181eba67cddc10175"
+    },
+    {
+      "path": "models/anomalies-v35/game/15_door_handle.png",
+      "bytes": 113320,
+      "sha256": "37497bc8df7650f7e2ebd330d0da5e3d43bc164dd5e764b06c7f68c99ac50563"
+    },
+    {
+      "path": "models/anomalies-v35/game/Coop_Check.json",
+      "bytes": 1251,
+      "sha256": "5998ce319e923600d611489e820ac106377a75b7725d2e60b18ca18150628fce"
+    },
+    {
+      "path": "models/anomalies-v35/game/Studio_Check.json",
+      "bytes": 5546,
+      "sha256": "b92eb6ba3ccd62614534cdb279506b383d0038a524d085e63fc69dd9136f5019"
     },
     {
       "path": "models/ceiling-worker-v18/01_first_clue.png",
@@ -1789,6 +1829,11 @@
       "path": "sessions/2026-11-10-office-anomalies-v34.md",
       "bytes": 3964,
       "sha256": "5198675b4aa83a0481aa18d4845cea7485ea1c804b71d6584a49ff190e4b44ab"
+    },
+    {
+      "path": "sessions/2026-11-10-office-anomalies-v35.md",
+      "bytes": 2591,
+      "sha256": "d08e18c695936b9700bedacf77b3f760b2688c3e774cbfd671b693aff8a4dc3c"
     },
     {
       "path": "sessions/2026-11-10-printer-coop.md",
