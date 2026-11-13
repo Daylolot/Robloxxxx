@@ -22,13 +22,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 6483,
-      "sha256": "ac773b2fe79e60feffa46ceb02ec7d355968315de4b7f1b9f98f75ae384f9fa1"
+      "bytes": 6808,
+      "sha256": "6f2760ee73e1e0e607e3019ffa1bb4ced23880b918fed59e3885017a977deb9b"
     },
     {
       "path": "START_HERE.md",
-      "bytes": 3988,
-      "sha256": "15fe652d8062b800af3c74fc5ebe44c6520e5a743b0718f5d223802d08883357"
+      "bytes": 4003,
+      "sha256": "6769f68cf44e4cb49b70363728b67c364ac8293fa053bddd86310a967b13e6b7"
     },
     {
       "path": "docs/DECISION_LOG.md",
@@ -41,9 +41,54 @@
       "sha256": "17e6d69c30c510223ba3ca7cc6e86afa9ed1a1adb6c51eb99af95da0c37d6df7"
     },
     {
+      "path": "docs/PROJECT_HISTORY.md",
+      "bytes": 27957,
+      "sha256": "3a7e26fed93a27607c841c50c61ff409829073324d1f205cea7802ae3a250c1e"
+    },
+    {
       "path": "docs/ROADMAP.md",
       "bytes": 3122,
       "sha256": "784a0b93e4a22b136d0075579f4fc3e72362923acbe9abf4b40c6db6dbcaeac9"
+    },
+    {
+      "path": "docs/history/creation.md",
+      "bytes": 7434,
+      "sha256": "addf9c47961ea2f2fdf3a90c68d50eaed3d2d0c2d807c9bf815fec9ce4fb918b"
+    },
+    {
+      "path": "docs/history/desktop-setup.md",
+      "bytes": 5215,
+      "sha256": "fda67cbc9f25fdb88ce45fa350ca16a0b50111a5d11d40cdba84bd9e654365da"
+    },
+    {
+      "path": "docs/history/main.md",
+      "bytes": 456097,
+      "sha256": "1c18376f72a791a93d3e40e4062264e9d0b0bf4487ade859aa4f9ce0d8d645ee"
+    },
+    {
+      "path": "docs/history/office-art.md",
+      "bytes": 22466,
+      "sha256": "09b44a6cc60f4a5ae432a185f1cd33cbcb5527efd7bdbe949cbc9638c57ff49e"
+    },
+    {
+      "path": "docs/history/office-setup.md",
+      "bytes": 42230,
+      "sha256": "b8d18ea80799399e6a339451c67ebbd7c28c31843d03e548762c6a34cb105b6d"
+    },
+    {
+      "path": "docs/history/parallel.md",
+      "bytes": 9257,
+      "sha256": "d7599cca78be474a4daf3652934dbcc1016d81fb2d383d0f5adf72569e45ec22"
+    },
+    {
+      "path": "docs/history/project-handoff.md",
+      "bytes": 5542,
+      "sha256": "74b157e8c042eeb27c2371be49b6e72fa41162130957580c7e79a22e6d1b09a0"
+    },
+    {
+      "path": "docs/history/studio-connection.md",
+      "bytes": 8876,
+      "sha256": "f314438b4cd4d9d7a6d7008d3a442c3c05e84f014bf2e3753f60429b3fa819d6"
     },
     {
       "path": "maps/Kontur_Office_v17_No_Red_Lines.rbxl",
@@ -1844,6 +1889,11 @@
       "path": "sessions/2026-11-10-printer-paper-detail.md",
       "bytes": 3015,
       "sha256": "21ba01544aa8a2c6b7e20e383f1e2099a6f813ee47ac3d2b38ebf5169ed250e7"
+    },
+    {
+      "path": "sessions/2026-11-13-project-history.md",
+      "bytes": 2205,
+      "sha256": "d0c5cac26cefbeffdf808fbb03845eb980c957aedee50ac3898b5cf2aac5cf22"
     },
     {
       "path": "sources/anomalies-v31/ArchiveGeometry.json",
