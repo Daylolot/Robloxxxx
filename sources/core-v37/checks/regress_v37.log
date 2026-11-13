@@ -1,0 +1,43 @@
+Server {'calendar': 1008, 'calendarY': 4.5, 'art': -14, 'planter': 0}
+Server {'delay': 4.999974966049194}
+Client {'events': {'RustleTray': {'time': 0.03173208236694336, 'x': 1053.572998046875, 'range': 17, 'z': 41.41209030151367}, 'RustleFolders': {'time': 0.43074512481689453, 'x': 1037.2586669921875, 'range': 18, 'z': 47.927921295166016}, 'RustleAisleStack': {'time': 0.8373961448669434, 'x': 1017.36328125, 'range': 17, 'z': 46.705322265625}, 'RustleFarDesk': {'time': 1.1669390201568604, 'x': 1036.4739990234375, 'range': 17, 'z': 17.76767921447754}, 'RustleOpenFile': {'time': 0.6318790912628174, 'x': 1022.5057373046875, 'range': 16, 'z': 47.9774055480957}}, 'early': 5}
+Client True
+Client {'height': 5.356259822845459, 'near': 0.10781824588775635}
+Client {'raised': True, 'deskHeight': 3.366990089416504, 'count': 240, 'stage': 'Read'}
+Client {'span': 1.50244140625, 'delta': 0.2895016766851768, 'stage': 'Read'}
+Client {'bands': 9, 'receipt': 'Done'}
+Client {'height': 0.665942907333374, 'near': 0.09705080837011337}
+Client {'loaded': 9, 'count': 9, 'events': {'RustleArcPass': {'time': 8.766975164413452, 'x': 1035.2691650390625, 'range': 19, 'z': 36.908111572265625}, 'RustleAisleStack': {'time': 0.8373961448669434, 'x': 1017.36328125, 'range': 17, 'z': 46.705322265625}, 'RustleTray': {'time': 0.03173208236694336, 'x': 1053.572998046875, 'range': 17, 'z': 41.41209030151367}, 'RustleFarDesk': {'time': 1.1669390201568604, 'x': 1036.4739990234375, 'range': 17, 'z': 17.76767921447754}, 'RustleMonitorBrush': {'time': 4.5656750202178955, 'x': 1020.3599853515625, 'range': 11, 'z': 47.278717041015625}, 'RustleFolders': {'time': 0.43074512481689453, 'x': 1037.2586669921875, 'range': 18, 'z': 47.927921295166016}, 'RustleOpenFile': {'time': 0.6318790912628174, 'x': 1022.5057373046875, 'range': 16, 'z': 47.9774055480957}, 'RustleFloorTurn': {'time': 10.43179202079773, 'x': 1048.0999755859375, 'range': 12, 'z': 40.28821563720703}, 'RustleDeskSlide': {'time': 5.698379993438721, 'x': 1022.1666259765625, 'range': 12, 'z': 46.346195220947266}}}
+Server {'scenario': 'ArchiveWriting'}
+Client {'stage': 'Hidden'}
+Client {'stage': 'Hidden'}
+Client {'head': '1027.3472900390625, 4.599809169769287, -17.085126876831055', 'legacy': False, 'stage': 'Read', 'hit': 'none'}
+Server True
+Server True
+Client {'stage': 'Read', 'first': 0}
+Client {'stage': 'Read'}
+Client {'first': 1, 'stage': 'Changed', 'second': 0}
+Server True
+Server True
+Client {'exists': False}
+Server True
+Client {'stage': 'Changed'}
+Server {'secondTilt': 1.8000496504939965, 'first': -21, 'firstTilt': 2.700013952083344, 'second': -14}
+Client True
+Server {'calendarY': 3.990000009536743, 'oldPin': True, 'artRestored': -14, 'calendar': 1010.4500122070312}
+Client True
+Server {'calendarRestored': 1008, 'oldPin': False, 'redStems': 0, 'red': 78}
+Client True
+Server {'top': 11.248999956995249, 'ceilingGap': 0.2560001574456692, 'passable': True, 'hinge': 0.27563735842704773, 'ceiling': 'TileHALL_W', 'width': 1.3440001010894775}
+Client {'beadHigh': 0.04499996453523636, 'sourceY': 10.609999656677246, 'dryBeforeImpact': True, 'releaseZ': {'1': 49.863033294677734, '2': 49.029109954833984}, 'high': 17, 'firstRelease': {'1': 2.415688991546631, '2': 3.883289098739624}, 'splashSamples': {'1': 24, '2': 12}, 'low': 4.402154922485352, 'stream': 0.3667144179344177, 'tracks': 3, 'sideFootprint': 0.6779999732971191, 'beadLow': 0.0010000000474974513, 'releaseGap': 0.0018787103472277522, 'footprint': 0.5400000214576721, 'firstWet': {'1': 3.549753189086914, '2': 5.0827929973602295}}
+Client True
+Client True
+Client True
+Server {'wall': 'WallCore2_29PlasterUpper', 'pieces': 27, 'passable': True}
+Client {'breath': 0, 'knock': 0}
+Client {'armShift': 0.011291027069091797, 'approach': 3.4130859375, 'side': 1.7478782653808622, 'z': 37.95212173461914, 'passPlays': 0, 'angle': 2.9419113591962627, 'x': 1001.4873046875, 'stats': {'MuffledBreath': {'peak': 10.364758782088757, 'plays': 1}, 'DullKnock': {'peak': 77.31740921735764, 'plays': 2}}}
+Client True
+Server True
+Client {'plays': 0, 'angle': 0, 'playing': False}
+Server {'scenario': 'Clear', 'plant': 0, 'calendar': 1008, 'hinge': 0, 'art': -14, 'level': 1, 'door': False}
+Client {'exists': False}
