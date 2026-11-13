@@ -811,6 +811,46 @@
       "sha256": "6d2377851981ba0e2a1d021bf058f5ab41f96550f2ea6869c9c964b0de2b1b34"
     },
     {
+      "path": "models/anomalies-v35/blender/Kontur_Door_v35.blend",
+      "bytes": 607385,
+      "sha256": "e74faa149f3754b37087c785d9cfe7146b7ba9321d0fd897474797992898e33d"
+    },
+    {
+      "path": "models/anomalies-v35/blender/Kontur_Vent_v35.blend",
+      "bytes": 875672,
+      "sha256": "c8b7214f86be83cf7b25873f1c4fa3c816146a318f6502cbfa00b5d521951cf6"
+    },
+    {
+      "path": "models/anomalies-v35/blender/door_at_player_height.png",
+      "bytes": 798423,
+      "sha256": "5fc8ff6e7ae0533c92e7b4c7004a37fb01a1dd3f31ded4f2fd21832e4048fd2d"
+    },
+    {
+      "path": "models/anomalies-v35/blender/door_handle_knock.png",
+      "bytes": 812622,
+      "sha256": "b43f1631f254cd4d1a27c528e8c20791561feff31be61481a8bf0fa72d477ac2"
+    },
+    {
+      "path": "models/anomalies-v35/blender/door_handle_rest.png",
+      "bytes": 810908,
+      "sha256": "2e73bc88132ffe93ffb387c54ff81aacfd316041be7e04a19e37c15403253653"
+    },
+    {
+      "path": "models/anomalies-v35/blender/vent_drop_side.png",
+      "bytes": 798235,
+      "sha256": "5fcbc398231a39124f81b581d67f529d79c6d9850ae33bb4e197749c07434c84"
+    },
+    {
+      "path": "models/anomalies-v35/blender/vent_floor_two_marks.png",
+      "bytes": 743987,
+      "sha256": "836669969d2096ef1b4356d18f36a9d69949f748af7dfb3c8d5001611f587de2"
+    },
+    {
+      "path": "models/anomalies-v35/blender/vent_sources.png",
+      "bytes": 855334,
+      "sha256": "5a4732a4ba377c2b8fc4cfcb1f7b818b44c9234d7d8c2426527f794fa9535429"
+    },
+    {
       "path": "models/ceiling-worker-v18/01_first_clue.png",
       "bytes": 1101670,
       "sha256": "e5f31a87101400f394b4ddbc69196ee9fa0f7fde555aa967baee5fbb652294c2"
