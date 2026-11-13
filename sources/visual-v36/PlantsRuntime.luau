@@ -39,6 +39,7 @@ local function build(spec)
         editable:SetFaceColors(f,{cids[a],cids[b],cids[c]})
     end
     local part=AssetService:CreateMeshPartAsync(Content.fromObject(editable))
+    editable:Destroy() -- free the editable-mesh memory budget (the blood liquid needs it)
     part.Anchored=true part.CanCollide=false part.CanTouch=false part.CanQuery=false
     part.DoubleSided=true part.Material=Enum.Material.SmoothPlastic part.Color=Color3.new(1,1,1)
     return part
@@ -102,6 +103,9 @@ task.spawn(function()
         {names={"LowCabinet","SideCabinet","FileCabinet"},key="bookrow",fx=-0.15,fz=0,yaw=0},
         {names={"ReceptionDesk"},key="bookstack",fx=0.0,fz=0.1,yaw=-8},
     }
+    local params=OverlapParams.new()
+    params.FilterType=Enum.RaycastFilterType.Exclude
+    params.FilterDescendantsInstances={folder}
     local placed={}
     local vdeadline=os.clock()+60
     local count=0
@@ -117,9 +121,22 @@ task.spawn(function()
                         if hasParts then
                             placed[model]=placed[model] or {} placed[model][pi]=true found+=1 count+=1
                             local cf,sz=model:GetBoundingBox()
-                            local ok,part=pcall(instance,pl.key)
+                            local footprint=({vase=Vector3.new(0.9,2.0,0.9),openbook=Vector3.new(1.7,0.35,1.2),bookstack=Vector3.new(1.1,0.9,1.1),bookrow=Vector3.new(2.3,1.3,0.9)})[pl.key]
+                            local chosen
+                            for _,mul in ipairs({1,-1,0,0.5,-0.5}) do
+                                local fxx=pl.fx*mul
+                                local top0=cf*CFrame.new(sz.X*fxx,sz.Y/2,sz.Z*pl.fz)
+                                local boxCf=CFrame.new(top0.Position+Vector3.new(0,footprint.Y/2+0.08,0))*(top0-top0.Position)
+                                local blocked=false
+                                for _,h in ipairs(workspace:GetPartBoundsInBox(boxCf,footprint,params)) do
+                                    if h.Transparency<1 and not h:IsDescendantOf(model) then blocked=true break end
+                                end
+                                if not blocked then chosen=top0 break end
+                            end
+                            local ok,part
+                            if chosen then ok,part=pcall(instance,pl.key) else ok,part=true,nil end
                             if ok and part then
-                                local top=cf*CFrame.new(sz.X*pl.fx,sz.Y/2,sz.Z*pl.fz)
+                                local top=chosen
                                 part.CFrame=CFrame.new(top.Position)*CFrame.Angles(0,math.atan2(-top.LookVector.X,-top.LookVector.Z)+math.rad(pl.yaw+count*7),0)*CFrame.new(PLANTS[pl.key].center)
                                 part.Name=pl.key
                                 part.Parent=folder
@@ -165,5 +182,43 @@ task.spawn(function()
             end
         end
     end
+    -- redesigned printer shell (Blender): replaces the plain body and lid visually on this client
+    task.spawn(function()
+        local deadline=os.clock()+60
+        while os.clock()<deadline do
+            local printerModel=office.Rooms:FindFirstChild("CENTER") and office.Rooms.CENTER:FindFirstChild("Printer")
+            local body=printerModel and printerModel:FindFirstChild("PrinterBody")
+            if body then
+                local ok,part=pcall(instance,"printer")
+                if ok and part then
+                    part.CFrame=body.CFrame*CFrame.new(PLANTS.printer.center)
+                    part.Name="PrinterShell"
+                    part.Parent=folder
+                    body.LocalTransparencyModifier=1
+                    local lid=printerModel:FindFirstChild("ScannerLid")
+                    if lid then lid.LocalTransparencyModifier=1 end
+                else warn("KonturV36 printer shell failed: "..tostring(part)) end
+                return
+            end
+            task.wait(1)
+        end
+    end)
+    -- ceiling worker's inverted desk and chair: same finish as the rest of the office (client-built model)
+    task.spawn(function()
+        local function restyle(ws)
+            task.wait(1.5)
+            for _,p in ipairs(ws:GetDescendants()) do
+                if p:IsA("BasePart") then
+                    local n=p.Name
+                    if n=="Ceiling desk" then p.Color=Color3.fromRGB(214,186,146) p.Material=Enum.Material.Wood
+                    elseif n=="Walnut edge" then p.Color=Color3.fromRGB(186,156,116) p.Material=Enum.Material.Wood
+                    elseif n=="Steel desk leg" or n=="Ceiling mount" or n=="Cross rail" then p.Color=Color3.fromRGB(236,238,240) p.Material=Enum.Material.Metal
+                    elseif n=="Seat cushion" or n=="Chair back" then p.Color=Color3.fromRGB(34,92,106) p.Material=Enum.Material.Leather end
+                end
+            end
+        end
+        for _,c in ipairs(office:GetChildren()) do if c.Name=="CeilingWorkstation" then task.spawn(restyle,c) end end
+        office.ChildAdded:Connect(function(c) if c.Name=="CeilingWorkstation" then task.spawn(restyle,c) end end)
+    end)
 end)
 end
