@@ -117,7 +117,7 @@ def fig(seed=11):
         pe = base + d.normalized() * 0.34
         tube(B, [base, base + d.normalized() * 0.17 + Vector((0, 0, 0.03)), pe], [0.04, 0.034, 0.03], srgb(96, 120, 70), 4)
         shape = lambda u: (math.sin(math.pi * u ** 0.8) ** 0.85) * (1 + 0.32 * math.sin(math.pi * min(1, max(0, (u - 0.35) / 0.65))))
-        leaf(B, pe, d, L, 0.36, shape, rnd.uniform(0.45, 0.85), 0.26, 0.06, col, rnd, 11, 7, rnd.uniform(0, 6))
+        leaf(B, pe, d, L, 0.36, shape, rnd.uniform(0.45, 0.85), 0.26, 0.06, col, rnd, 8, 5, rnd.uniform(0, 6))
     # small crown of new leaves
     for i in range(4):
         ang = i * 1.7
@@ -137,7 +137,7 @@ def lily(seed=5):
         L = rnd.uniform(1.35, 1.8)
         col = lerp(srgb(22, 78, 44), srgb(56, 124, 64), rnd.random())
         shape = lambda u: math.sin(math.pi * min(1, u * 1.04) ** 0.55) ** 0.85
-        leaf(B, base, d, L, 0.4, shape, rnd.uniform(1.3, 2.0), 0.18, 0.04, col, rnd, 11, 7, rnd.uniform(0, 6))
+        leaf(B, base, d, L, 0.4, shape, rnd.uniform(1.3, 2.0), 0.18, 0.04, col, rnd, 8, 5, rnd.uniform(0, 6))
     for i in range(7):
         ang = i * 2.39996 + 0.6
         r0 = rnd.uniform(0.08, 0.3)
@@ -169,7 +169,7 @@ def monstera(seed=3):
         d = Vector((math.cos(ang), math.sin(ang), -0.12)) + Vector((0, 0, 0.0))
         L = rnd.uniform(1.4, 1.8); W = rnd.uniform(0.78, 0.95)
         col = lerp(srgb(24, 80, 44), srgb(58, 128, 66), rnd.random())
-        rows, cols = 19, 13
+        rows, cols = 13, 9
         d = d.normalized(); side = d.cross(Z).normalized(); nrm = side.cross(d).normalized()
         if nrm.z < 0: nrm = -nrm
         ids = []
@@ -302,9 +302,9 @@ def openbook(seed=5):
     add_box(B, (0, 0, 0.02), (1.5, 1.02, 0.04), 0.0, lambda p: cover, 0.015)
     for sd in (-1, 1):
         def pagecol(p, sd=sd):
-            line = (int((p[1] + 1) * 13) % 3 == 0)
+            line = (int((p[1] + 1) * 7) % 2 == 0)
             return srgb(120, 116, 104) if (line and p[2] > 0.5 and abs(p[0]) > 0.05) else (PAGE if p[2] > 0.5 else PAGE_L)
-        add_box(B, (sd * 0.37, 0, 0.1), (0.72, 0.94, 0.12), 0.0, pagecol, 0.006, cuts_y=26, tilt=0.0)
+        add_box(B, (sd * 0.37, 0, 0.1), (0.72, 0.94, 0.12), 0.0, pagecol, 0.006, cuts_y=14, tilt=0.0)
     add_box(B, (0, 0, 0.115), (0.06, 0.94, 0.05), 0.0, lambda p: PAGE_L, 0.0)
     add_box(B, (0.05, 0.1, 0.17), (0.02, 0.6, 0.012), math.radians(8), lambda p: srgb(190, 50, 50), 0.0)  # ribbon
     return B
