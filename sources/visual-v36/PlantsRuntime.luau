@@ -132,5 +132,38 @@ task.spawn(function()
         if found==0 and next(placed) then break end
         task.wait(1)
     end
+    -- extra floor plants in free room corners (overlap-checked)
+    local roomCorners={
+        {x0=961.5,x1=1002.5,z0=8,z1=52,n=3},{x0=1006,x1=1058,z0=7,z1=59,n=3},{x0=1062,x1=1116,z0=8,z1=60,n=3},
+        {x0=996,x1=1034,z0=-32,z1=0,n=2},{x0=1030,x1=1100,z0=-32,z1=0,n=3},{x0=974,x1=1002,z0=53.5,z1=76.5,n=1},
+    }
+    local params=OverlapParams.new()
+    params.FilterType=Enum.RaycastFilterType.Exclude
+    params.FilterDescendantsInstances={folder}
+    local order2={"monstera","fig","lily"}
+    local extra=0
+    for _,rc in ipairs(roomCorners) do
+        local inset=2.7
+        local cands={Vector2.new(rc.x0+inset,rc.z0+inset),Vector2.new(rc.x1-inset,rc.z0+inset),Vector2.new(rc.x0+inset,rc.z1-inset),Vector2.new(rc.x1-inset,rc.z1-inset)}
+        local placedHere=0
+        for _,c in ipairs(cands) do
+            if placedHere>=rc.n then break end
+            local hits=workspace:GetPartBoundsInBox(CFrame.new(c.X,3.2,c.Y),Vector3.new(3.2,4,3.2),params)
+            local blocked=false
+            for _,h in ipairs(hits) do if h.Transparency<1 then blocked=true break end end
+            if not blocked then
+                extra+=1 placedHere+=1
+                local key=order2[(extra-1)%3+1]
+                local ok,part=pcall(instance,key)
+                if ok and part then
+                    local s=({fig=1.0,lily=1.25,monstera=1.2})[key]
+                    part.Size=part.Size*s
+                    part.CFrame=CFrame.new(c.X,0.1,c.Y)*CFrame.Angles(0,math.rad((extra*53)%360),0)*CFrame.new(PLANTS[key].center*s)
+                    part.Name="Plant_"..key.."_extra"..extra
+                    part.Parent=folder
+                end
+            end
+        end
+    end
 end)
 end

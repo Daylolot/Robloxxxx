@@ -1,0 +1,28 @@
+{
+  "ok": false,
+  "error": "ServerScriptService.PrinterCoopQA_Server:91: printer_arc diverged\nServerScriptService.PrinterCoopQA_Server:91 function compare\nServerScriptService.PrinterCoopQA_Server:122 function check\nServerScriptService.PrinterCoopQA_Server:176\n",
+  "report": {
+    "players": 2,
+    "printer_reentry": {
+      "maxNormalDelta": 0.23855039477348328,
+      "segments": 240,
+      "round": 2,
+      "start": 1794599055.13166,
+      "level": 2,
+      "clockDelta": 0.08837699890136719,
+      "maxPositionDelta": 0.3569986820220947
+    },
+    "printer_far": {
+      "segments": 0
+    },
+    "printer_arc": {
+      "maxNormalDelta": 0.2808520793914795,
+      "segments": 240,
+      "round": 2,
+      "start": 1794599055.13166,
+      "level": 2,
+      "clockDelta": 0.10300207138061523,
+      "maxPositionDelta": 0.5043342709541321
+    }
+  }
+}
