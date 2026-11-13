@@ -43,6 +43,16 @@ local function build(spec)
     part.DoubleSided=true part.Material=Enum.Material.SmoothPlastic part.Color=Color3.new(1,1,1)
     return part
 end
+local templates={}
+local function instance(key)
+    local spec=PLANTS[key]
+    if not templates[key] then templates[key]=build(spec) end
+    local t=templates[key]
+    if not t then error("no template "..key) end
+    local c=t:Clone()
+    if c.Size.Magnitude<0.01 then c:Destroy() return build(spec) end
+    return c
+end
 task.spawn(function()
     local office=workspace:WaitForChild("OfficeMap",60)
     if not office then return end
@@ -62,7 +72,7 @@ task.spawn(function()
                     local key=order[(index-1)%3+1]
                     local spec=PLANTS[key]
                     local cf=model:GetBoundingBox()
-                    local ok,part=pcall(build,spec)
+                    local ok,part=pcall(instance,key)
                     if ok and part then
                         local yaw=(index*137)%360
                         local s=scale[key]
@@ -77,6 +87,49 @@ task.spawn(function()
                 end
             end
         end
+        task.wait(1)
+    end
+
+    -- decor from Blender meshes on furniture tops
+    local placements={
+        {names={"CoffeeTable"},key="vase",fx=0.28,fz=0,yaw=20},
+        {names={"MeetingTable"},key="vase",fx=0.3,fz=0,yaw=40},
+        {names={"SideTable"},key="vase",fx=0.0,fz=0,yaw=70},
+        {names={"CoffeeTable"},key="openbook",fx=-0.2,fz=0.12,yaw=15},
+        {names={"MeetingTable"},key="openbook",fx=-0.3,fz=0.18,yaw=-12},
+        {names={"MeetingTable"},key="bookstack",fx=0.05,fz=-0.2,yaw=25},
+        {names={"SideTable"},key="bookstack",fx=-0.25,fz=0,yaw=10},
+        {names={"LowCabinet","SideCabinet","FileCabinet"},key="bookrow",fx=-0.15,fz=0,yaw=0},
+        {names={"ReceptionDesk"},key="bookstack",fx=0.0,fz=0.1,yaw=-8},
+    }
+    local placed={}
+    local vdeadline=os.clock()+60
+    local count=0
+    while os.clock()<vdeadline do
+        local found=0
+        for _,model in ipairs(office.Rooms:GetDescendants()) do
+            if model:IsA("Model") then
+                local n=model.Name:gsub("^V%d+_%d+_","")
+                for pi,pl in ipairs(placements) do
+                    if table.find(pl.names,n) and not (placed[model] and placed[model][pi]) then
+                        local hasParts=false
+                        for _,d in ipairs(model:GetDescendants()) do if d:IsA("BasePart") then hasParts=true break end end
+                        if hasParts then
+                            placed[model]=placed[model] or {} placed[model][pi]=true found+=1 count+=1
+                            local cf,sz=model:GetBoundingBox()
+                            local ok,part=pcall(instance,pl.key)
+                            if ok and part then
+                                local top=cf*CFrame.new(sz.X*pl.fx,sz.Y/2,sz.Z*pl.fz)
+                                part.CFrame=CFrame.new(top.Position)*CFrame.Angles(0,math.atan2(-top.LookVector.X,-top.LookVector.Z)+math.rad(pl.yaw+count*7),0)*CFrame.new(PLANTS[pl.key].center)
+                                part.Name=pl.key
+                                part.Parent=folder
+                            else warn("KonturV36 decor failed: "..tostring(part)) end
+                        end
+                    end
+                end
+            end
+        end
+        if found==0 and next(placed) then break end
         task.wait(1)
     end
 end)

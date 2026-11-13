@@ -125,18 +125,21 @@ for _,p in ipairs(O.ArchitecturalDetails:GetDescendants()) do
  end
 end
 -- rugs under tables / lounge
-local rugColor={WEST=C(36,96,108),CENTER=C(52,70,104),EAST=C(40,104,98),NW=C(86,96,120),NE=C(44,92,122),MEN=C(60,80,94),WOMEN=C(70,92,108),StartRoom=C(34,88,108)}
+local rugColor={WEST=C(120,160,168),CENTER=C(132,148,176),EAST=C(124,170,160),NW=C(150,158,178),NE=C(122,156,184),MEN=C(130,146,158),WOMEN=C(140,158,170),StartRoom=C(120,158,172)}
 for _,room in ipairs(O.Rooms:GetChildren()) do
  for _,m in ipairs(room:GetChildren()) do
   if m:IsA("Model") and (m.Name:find("CoffeeTable") or m.Name:find("MeetingTable") or m.Name:find("ExecutiveDesk")) then
    local cf,sz=m:GetBoundingBox()
    local pad=m.Name:find("Coffee") and 3.2 or 4.2
    local r=Instance.new("Part") r.Name="Rug" r.Anchored=true r.CanCollide=false r.CanQuery=false r.CastShadow=false
-   r.Material=Enum.Material.Fabric r.Color=rugColor[room.Name] or C(50,80,100)
+   r.Material=Enum.Material.SmoothPlastic r.Color=rugColor[room.Name] or C(50,80,100)
    r.Size=Vector3.new(sz.X+pad,0.04,sz.Z+pad)
    r.CFrame=CFrame.new(cf.X,0.12,cf.Z)*(cf-cf.Position):Inverse()*CFrame.Angles(0,select(2,cf:ToEulerAnglesYXZ()),0)
    r.Parent=F count("rug")
-   local b=r:Clone() b.Name="RugBorder" b.Size=Vector3.new(r.Size.X-0.8,0.05,r.Size.Z-0.8) b.Color=r.Color:Lerp(C(235,238,240),0.22) b.CFrame=r.CFrame+Vector3.new(0,0.002,0) b.Parent=F
+   local b=r:Clone() b.Name="RugBorder" b.Size=Vector3.new(r.Size.X-0.8,0.05,r.Size.Z-0.8) b.Color=r.Color:Lerp(C(40,66,82),0.45) b.CFrame=r.CFrame+Vector3.new(0,0.002,0) b.Parent=F
+   local g=r:Clone() g.Name="RugInlay" g.Size=Vector3.new(r.Size.X-0.35,0.052,r.Size.Z-0.35) g.Color=C(196,170,120) g.CFrame=r.CFrame+Vector3.new(0,0.004,0) g.Parent=F
+   local b2=r:Clone() b2.Name="RugBorder2" b2.Size=Vector3.new(r.Size.X-0.55,0.054,r.Size.Z-0.55) b2.Color=r.Color b2.CFrame=r.CFrame+Vector3.new(0,0.006,0) b2.Parent=F
+   b.Size=Vector3.new(r.Size.X-0.8,0.056,r.Size.Z-0.8) b.CFrame=r.CFrame+Vector3.new(0,0.008,0)
   end
  end
 end
@@ -145,5 +148,30 @@ return table.concat(out," ")
 
 end)
 if not ok then warn('KonturV36 RoomRestyle_pass3.luau: '..tostring(err)) end
+local ok,err=pcall(function()
+local O=workspace.OfficeMap
+local C=Color3.fromRGB
+local stats={} local function count(k) stats[k]=(stats[k] or 0)+1 end
+local accents={WEST=C(30,108,122),CENTER=C(54,82,128),EAST=C(34,118,108),NW=C(92,104,128),NE=C(40,102,138),MEN=C(64,86,100),WOMEN=C(72,100,116),StartRoom=C(30,96,116)}
+local function modelName(p) local m=p:FindFirstAncestorWhichIsA("Model") while m and m.Parent and m.Parent:IsA("Model") do m=m.Parent end return m and m.Name:gsub("^V%d+_%d+_","") or "" end
+for _,room in ipairs(O.Rooms:GetChildren()) do
+ local acc=accents[room.Name] or C(40,100,120)
+ for _,p in ipairs(room:GetDescendants()) do
+  if p:IsA("BasePart") and p.Material==Enum.Material.Leather then
+   local n=modelName(p)
+   local h,s,v=p.Color:ToHSV()
+   if n=="SofaThree" or n=="SofaTwo" then p.Color=C(54,72,96) count("sofa")
+   elseif n=="Armchair" then p.Color=C(200,150,74) count("armchair")
+   elseif n=="VisitorBench" then p.Color=C(34,92,106) count("bench")
+   elseif n=="MeetingChair" then p.Color=acc count("meetchair")
+   elseif n=="VisitorChair" then p.Color=C(198,146,70) count("visitor") end
+  end
+ end
+end
+local out={} for k,v in pairs(stats) do table.insert(out,k.."="..v) end table.sort(out)
+return table.concat(out," ")
+
+end)
+if not ok then warn('KonturV36 RoomRestyle_pass5_furniture.luau: '..tostring(err)) end
 end
 end

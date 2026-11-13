@@ -191,6 +191,124 @@ def monstera(seed=3):
         B.grid(ids)
     return B
 
+def vase(seed=21):
+    """Tall bottle vase with eucalyptus-like branches (for tables)."""
+    B = Builder(); rnd = random.Random(seed)
+    cw = srgb(236, 238, 238)
+    prof = [(0.0, 0.0), (0.26, 0.0), (0.30, 0.05), (0.34, 0.22), (0.33, 0.38), (0.22, 0.52), (0.12, 0.64), (0.10, 0.80), (0.115, 0.84), (0.10, 0.84), (0.075, 0.80), (0.075, 0.6)]
+    seg = 16; rings = []
+    for (r, z) in prof:
+        rings.append([B.add(Vector((r * math.cos(2 * math.pi * s / seg), r * math.sin(2 * math.pi * s / seg), z)), cw if z < 0.8 else lerp(cw, (0.6, 0.6, 0.6), 0.2)) for s in range(seg)])
+    for i in range(len(rings) - 1):
+        for s in range(seg):
+            n = (s + 1) % seg
+            B.tri(rings[i][s], rings[i + 1][s], rings[i + 1][n]); B.tri(rings[i][s], rings[i + 1][n], rings[i][n])
+    top = Vector((0, 0, 0.82))
+    for i in range(7):
+        ang = i * 2.39996
+        out_d = Vector((math.cos(ang), math.sin(ang), 0))
+        L = rnd.uniform(0.9, 1.5)
+        pts = [top, top + Vector((0, 0, L * 0.45)) + out_d * L * 0.08, top + Vector((0, 0, L * 0.8)) + out_d * L * 0.28, top + Vector((0, 0, L * 0.98)) + out_d * L * 0.5]
+        tube(B, pts, [0.016, 0.014, 0.012, 0.01], srgb(116, 108, 80), 4)
+        for k in range(1, 4 if i % 2 else 5):
+            f = k / 4.2
+            q = pts[0].lerp(pts[-1], f) if False else (pts[min(int(f * 3), 2)].lerp(pts[min(int(f * 3) + 1, 3)], (f * 3) % 1))
+            for sd in (-1, 1):
+                ds = (out_d.cross(Z) * sd * 0.9 + out_d * 0.35 + Vector((0, 0, 0.45))).normalized()
+                col = lerp(srgb(78, 120, 104), srgb(130, 168, 150), rnd.random())
+                leaf(B, q, ds, 0.2, 0.095, lambda u: math.sin(math.pi * u ** 0.7) ** 0.8, 0.3, 0.1, 0.0, col, rnd, 4, 3)
+        leaf(B, pts[-1], (Vector((0, 0, 1)) + out_d * 0.5).normalized(), 0.2, 0.085, lambda u: math.sin(math.pi * u ** 0.7) ** 0.8, 0.2, 0.1, 0.0, lerp(srgb(78, 120, 104), srgb(130, 168, 150), rnd.random()), rnd, 4, 3)
+    return B
+
+
+def add_box(B, centre, size, rotz, col_fn, bevel=0.0, cuts_y=0, cuts_z=0, tilt=0.0):
+    """Beveled box (studs) appended to the builder. col_fn(local (x,y,z) normalised -1..1) -> colour."""
+    bm = bmesh.new()
+    bmesh.ops.create_cube(bm, size=1.0)
+    if cuts_y:
+        edges = [e for e in bm.edges if abs(e.verts[0].co.y - e.verts[1].co.y) > 0.5]
+        bmesh.ops.subdivide_edges(bm, edges=edges, cuts=cuts_y, use_grid_fill=True)
+    if cuts_z:
+        edges = [e for e in bm.edges if abs(e.verts[0].co.z - e.verts[1].co.z) > 0.5]
+        bmesh.ops.subdivide_edges(bm, edges=edges, cuts=cuts_z, use_grid_fill=True)
+    for v in bm.verts:  # real size first so the bevel is uniform (studs)
+        v.co = Vector((v.co.x * size[0], v.co.y * size[1], v.co.z * size[2]))
+    bmesh.ops.recalc_face_normals(bm, faces=bm.faces[:])
+    if bevel > 0:
+        bmesh.ops.bevel(bm, geom=list(bm.edges), offset=min(bevel, min(size) * 0.45), segments=1, affect='EDGES')
+    bmesh.ops.recalc_face_normals(bm, faces=bm.faces[:])
+    bmesh.ops.triangulate(bm, faces=bm.faces[:])
+    m = Matrix.Translation(Vector(centre)) @ Matrix.Rotation(rotz, 4, 'Z') @ Matrix.Rotation(tilt, 4, 'X')
+    idx = {}
+    for v in bm.verts:
+        loc = v.co.copy()
+        idx[v.index] = B.add(m @ loc, col_fn((v.co.x / size[0] * 2, v.co.y / size[1] * 2, v.co.z / size[2] * 2)))
+    for f in bm.faces:
+        a, b, c = [idx[v.index] for v in f.verts]
+        B.tri(a, b, c)
+    bm.free()
+
+COVERS = [srgb(126, 36, 40), srgb(30, 50, 96), srgb(34, 88, 62), srgb(188, 138, 60), srgb(56, 60, 68), srgb(214, 206, 188), srgb(32, 96, 110), srgb(120, 78, 120)]
+PAGE = srgb(238, 232, 214); PAGE_L = srgb(206, 198, 176)
+
+def book(B, centre, w, d, h, rotz, cover, tilt=0.0, upright=False):
+    """One hardcover. Lying (upright=False): spine on the -x side. Upright: standing on the shelf, spine facing -y."""
+    gold = srgb(214, 178, 96)
+    if not upright:
+        # cover boards top and bottom, pages between, spine at -x
+        ct = h * 0.12
+        add_box(B, (centre[0], centre[1], centre[2] + ct / 2), (w, d, ct), rotz, lambda p: cover, 0.012, tilt=tilt)
+        add_box(B, (centre[0], centre[1], centre[2] + h - ct / 2), (w, d, ct), rotz, lambda p: lerp(cover, (1, 1, 1), 0.06), 0.012, tilt=tilt)
+        add_box(B, (centre[0] + w * 0.03, centre[1], centre[2] + h / 2), (w * 0.92, d * 0.96, h - 2 * ct), rotz, lambda p: PAGE_L if int((p[2] + 1) * 7) % 2 else PAGE, 0.0, cuts_z=10, tilt=tilt)
+        # spine (rounded look via a thin box) with gold bands
+        add_box(B, (centre[0] - w * 0.47, centre[1], centre[2] + h / 2), (w * 0.08, d, h), rotz, lambda p: cover, 0.015, tilt=tilt)
+        for zz in (0.22, 0.78):
+            add_box(B, (centre[0] - w * 0.515, centre[1], centre[2] + h * zz), (w * 0.02, d * 0.9, h * 0.07), rotz, lambda p: gold, 0.0, tilt=tilt)
+    else:
+        th = w  # thickness along x
+        ct = th * 0.12
+        add_box(B, (centre[0] - th / 2 + ct / 2, centre[1], centre[2] + h / 2), (ct, d, h), rotz, lambda p: cover, 0.01)
+        add_box(B, (centre[0] + th / 2 - ct / 2, centre[1], centre[2] + h / 2), (ct, d, h), rotz, lambda p: cover, 0.01)
+        add_box(B, (centre[0], centre[1] + d * 0.03, centre[2] + h / 2), (th - 2 * ct, d * 0.94, h * 0.94), rotz, lambda p: PAGE_L if int((p[0] + 1) * 4) % 2 else PAGE, 0.0)
+        add_box(B, (centre[0], centre[1] - d / 2 + 0.01, centre[2] + h / 2), (th, d * 0.1, h), rotz, lambda p: cover, 0.01)
+        for zz in (0.2, 0.55, 0.85):
+            add_box(B, (centre[0], centre[1] - d / 2 - 0.004, centre[2] + h * zz), (th * 1.0, d * 0.02, h * 0.05), rotz, lambda p: gold, 0.0)
+
+def bookstack(seed=31):
+    B = Builder(); rnd = random.Random(seed)
+    z = 0.0
+    for i in range(4):
+        w = 0.72 - 0.05 * i + rnd.uniform(-0.03, 0.03); d = 0.98 - 0.06 * i + rnd.uniform(-0.03, 0.03); h = rnd.uniform(0.13, 0.2)
+        book(B, (rnd.uniform(-0.04, 0.04), rnd.uniform(-0.04, 0.04), z), w, d, h, math.radians(rnd.uniform(-14, 14)), COVERS[(i * 3 + seed) % len(COVERS)])
+        z += h + 0.004
+    # a small pencil on top
+    add_box(B, (0.05, -0.05, z + 0.03), (0.04, 0.55, 0.04), math.radians(25), lambda p: srgb(224, 182, 70) if p[1] > -0.8 else srgb(232, 190, 160), 0.004)
+    return B
+
+def bookrow(seed=7):
+    B = Builder(); rnd = random.Random(seed); x = 0.0
+    for i in range(8):
+        th = rnd.uniform(0.1, 0.22); h = rnd.uniform(0.85, 1.15); d = rnd.uniform(0.62, 0.78)
+        book(B, (x + th / 2, 0, 0), th, d, h, 0.0, COVERS[(i * 5 + seed) % len(COVERS)], upright=True)
+        x += th + 0.006
+    # last book leans on its neighbour
+    th = 0.16; h = 1.0
+    book(B, (x + 0.2, 0, 0), th, 0.7, h, 0.0, COVERS[3], upright=True)
+    return B
+
+def openbook(seed=5):
+    B = Builder(); rnd = random.Random(seed)
+    cover = COVERS[1]
+    add_box(B, (0, 0, 0.02), (1.5, 1.02, 0.04), 0.0, lambda p: cover, 0.015)
+    for sd in (-1, 1):
+        def pagecol(p, sd=sd):
+            line = (int((p[1] + 1) * 13) % 3 == 0)
+            return srgb(120, 116, 104) if (line and p[2] > 0.5 and abs(p[0]) > 0.05) else (PAGE if p[2] > 0.5 else PAGE_L)
+        add_box(B, (sd * 0.37, 0, 0.1), (0.72, 0.94, 0.12), 0.0, pagecol, 0.006, cuts_y=26, tilt=0.0)
+    add_box(B, (0, 0, 0.115), (0.06, 0.94, 0.05), 0.0, lambda p: PAGE_L, 0.0)
+    add_box(B, (0.05, 0.1, 0.17), (0.02, 0.6, 0.012), math.radians(8), lambda p: srgb(190, 50, 50), 0.0)  # ribbon
+    return B
+
 def finish(B):
     v = np.array(B.v, dtype=np.float64); t = np.array(B.t, dtype=np.int64); c = np.array(B.c, dtype=np.float64)
     n = np.zeros_like(v)
@@ -224,7 +342,7 @@ def encode(v, n, c, t):
     # winding preserved by the proper rotation (x, z, -y); recompute face order unchanged
     vb = b"".join(struct.pack("<hhh", *[int(round(x * 1000)) for x in p]) for p in vr)
     nb = b"".join(struct.pack("<bbb", *[int(round(x * 127)) for x in p]) for p in nr)
-    cb = b"".join(struct.pack("<BBB", *[min(31, max(0, int(round(math.pow(x, 1 / 2.2) * 31)))) for x in p]) for p in c)
+    cb = b"".join(struct.pack("<BBB", *[min(31, max(0, int(round(x * 31)))) for x in p]) for p in c)
     tb = b"".join(struct.pack("<HHH", *map(int, f)) for f in t)
     b64 = lambda b: base64.b64encode(b).decode()
     cen = (centre[0], centre[2], -centre[1])
@@ -245,7 +363,7 @@ def setup_render(path, cam_loc, target):
 
 def main():
     bpy.ops.wm.read_factory_settings(use_empty=True)
-    species = {"fig": fig(), "lily": lily(), "monstera": monstera()}
+    species = {"fig": fig(), "lily": lily(), "monstera": monstera(), "vase": vase(), "bookstack": bookstack(), "bookrow": bookrow(), "openbook": openbook()}
     data = {}
     for name, B in species.items():
         v, n, c, t = finish(B); data[name] = encode(v, n, c, t)
@@ -254,7 +372,7 @@ def main():
         bpy.ops.wm.read_factory_settings(use_empty=True)
         v, n, c, t = finish(B)
         to_blender_mesh(name, v, t, c, (0, 0, 0))
-        setup_render(out / f"plant_{name}.png", (0.0, -9.5, 3.2), (0, 0, 1.9))
+        setup_render(out / f"plant_{name}.png", (0.0, -9.5, 3.2) if name in ("fig","lily","monstera") else ((0.0, -4.2, 1.4) if name == "vase" else (0.6, -3.2, 2.0)), (0, 0, 1.9) if name in ("fig","lily","monstera") else ((0, 0, 0.9) if name == "vase" else (0.4, 0, 0.45)))
         bpy.ops.render.render(write_still=True)
     # Luau data file
     lines = ["-- Generated by blender/plants_v36.py. Vertices i16*0.001 studs, normals i8, colours 5-bit sRGB, triangles u16 (base64).", "return {"]
