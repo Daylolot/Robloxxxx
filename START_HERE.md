@@ -12,7 +12,9 @@
 
 > Старые карты (v22-v35) и макеты Blender предыдущих версий убраны из рабочей папки 2026-11-14, чтобы освободить место. Они сохранены в истории git: верни нужный файл командой `git checkout d7e94c6 -- <путь>`. Остались карты v17 (архив), v26 (основа сборки), v36 и v37, макеты последних версий (anomalies-v35, ceiling-worker-v24, mirror-v26, printer-v30) и все исходники.
 
-Новейшая сборка — [карта v38](maps/Kontur_Office_v38.rbxl) и [QA v38](maps/Kontur_Office_v38_QA.rbxl): v37 плюс доработка крови, сотрудника на потолке и принтера (`sources/visual-v38/`, [сеанс](sessions/2026-11-14-visual-v38.md)). Поток крови работает только в Studio. Не проверены FPS и звук.
+Новейшая сборка — [карта v39F](maps/Kontur_Office_v39F.rbxl) и [QA v39F](maps/Kontur_Office_v39F_QA.rbxl): v39 (слои параллельной сессии: зеркало, обрезка мелких деталей, малые аномалии) плюс фронт волны потопа (`sources/blood-front/`, [сеанс](sessions/2026-11-14-blood-front-v39F.md)). Карты v39 лежат в `maps/` и не закоммичены параллельной сессией; слой фронта накладывается скриптом `sources/blood-front/build_place.py` на любую готовую карту.
+
+Предыдущая сборка — [карта v38](maps/Kontur_Office_v38.rbxl) и [QA v38](maps/Kontur_Office_v38_QA.rbxl): v37 плюс доработка крови, сотрудника на потолке и принтера (`sources/visual-v38/`, [сеанс](sessions/2026-11-14-visual-v38.md)). Поток крови работает только в Studio. Не проверены FPS и звук.
 
 Предыдущая сборка — [карта v37](maps/Kontur_Office_v37.rbxl) и [QA v37](maps/Kontur_Office_v37_QA.rbxl): v36 с защитой ядра раунда (`sources/core-v37/`, [сеанс](sessions/2026-11-14-core-protection-v37.md)).
 
