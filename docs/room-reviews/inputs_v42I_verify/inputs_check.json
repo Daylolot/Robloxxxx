@@ -1,0 +1,30 @@
+{
+ "keyboards": {
+  "count": 23,
+  "all_upgraded": true,
+  "old_parts": 0,
+  "unanchored": 0,
+  "meshes_min_max": [
+   11,
+   11
+  ]
+ },
+ "mice": {
+  "count": 30,
+  "all_upgraded": true,
+  "old_parts": 0,
+  "unanchored": 0,
+  "meshes_min_max": [
+   13,
+   13
+  ],
+  "names": [
+   "KE_MouseAndMat",
+   "MouseAndMat"
+  ]
+ },
+ "console_kontur": [],
+ "keyboard_gone": {
+  "error": "sabuiltin_Assistant.rbxm.Assistant.Packages._Index.AssistantUI.AssistantUI.Tools.ExecuteLuauTool:125: sabuiltin_Assistant.rbxm.Assistant.Packages._Index.AssistantUI.AssistantUI.Util.CommandExecution:54: AssistantCommand:40: "
+ }
+}

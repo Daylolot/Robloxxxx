@@ -1,0 +1,1234 @@
+[
+ {
+  "idx": 5,
+  "name": "MouseAndMat",
+  "sheet": "sheets/005_MouseAndMat.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 16,
+  "name": "Keyboard",
+  "sheet": "sheets/016_Keyboard.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 17,
+  "name": "MouseAndMat",
+  "sheet": "sheets/017_MouseAndMat.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 27,
+  "name": "Keyboard",
+  "sheet": "sheets/027_Keyboard.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 28,
+  "name": "MouseAndMat",
+  "sheet": "sheets/028_MouseAndMat.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 34,
+  "name": "ClosedPC_MouseAndMat",
+  "sheet": "sheets/034_ClosedPC_MouseAndMat.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 0.77,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 37,
+  "name": "Keyboard",
+  "sheet": "sheets/037_Keyboard.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 38,
+  "name": "MouseAndMat",
+  "sheet": "sheets/038_MouseAndMat.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 48,
+  "name": "Keyboard",
+  "sheet": "sheets/048_Keyboard.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 49,
+  "name": "MouseAndMat",
+  "sheet": "sheets/049_MouseAndMat.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 59,
+  "name": "Keyboard",
+  "sheet": "sheets/059_Keyboard.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 60,
+  "name": "MouseAndMat",
+  "sheet": "sheets/060_MouseAndMat.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 66,
+  "name": "ClosedPC_MouseAndMat",
+  "sheet": "sheets/066_ClosedPC_MouseAndMat.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 0.77,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 4,
+  "name": "Keyboard",
+  "sheet": "sheets/004_Keyboard.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ }
+]
