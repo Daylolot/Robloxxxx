@@ -1,0 +1,706 @@
+[
+ {
+  "idx": 25,
+  "name": "CoveStrip",
+  "sheet": "sheets/025_CoveStrip.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 26,
+  "name": "CoveStrip",
+  "sheet": "sheets/026_CoveStrip.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 0.5,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 27,
+  "name": "CoveStrip",
+  "sheet": "sheets/027_CoveStrip.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 0.5,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 28,
+  "name": "CoveStrip",
+  "sheet": "sheets/028_CoveStrip.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 0.5,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 29,
+  "name": "CoveStrip",
+  "sheet": "sheets/029_CoveStrip.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 0.5,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 30,
+  "name": "CoveStrip",
+  "sheet": "sheets/030_CoveStrip.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 31,
+  "name": "CoveStrip",
+  "sheet": "sheets/031_CoveStrip.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 0.5,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 32,
+  "name": "CoveStrip",
+  "sheet": "sheets/032_CoveStrip.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ }
+]

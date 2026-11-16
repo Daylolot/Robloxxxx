@@ -1,0 +1,1234 @@
+[
+ {
+  "idx": 1,
+  "name": "Plant_8",
+  "sheet": "sheets/001_Plant_8.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 0.73,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 0.59,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 0.79,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 2,
+  "name": "WD_AcSplit",
+  "sheet": "sheets/002_WD_AcSplit.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 0.84,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 0.84,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 0.84,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 3,
+  "name": "WD_LedgeDecor",
+  "sheet": "sheets/003_WD_LedgeDecor.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 0.84,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 4,
+  "name": "WD_FireAlarm",
+  "sheet": "sheets/004_WD_FireAlarm.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 5,
+  "name": "WD_FireHorn",
+  "sheet": "sheets/005_WD_FireHorn.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 0.85,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 6,
+  "name": "WD_CamCorner",
+  "sheet": "sheets/006_WD_CamCorner.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 7,
+  "name": "CoveStrip",
+  "sheet": "sheets/007_CoveStrip.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 8,
+  "name": "CoveStrip",
+  "sheet": "sheets/008_CoveStrip.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 9,
+  "name": "CoveStrip",
+  "sheet": "sheets/009_CoveStrip.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 10,
+  "name": "CoveStrip",
+  "sheet": "sheets/010_CoveStrip.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 11,
+  "name": "CoveStrip",
+  "sheet": "sheets/011_CoveStrip.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 0.5,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 12,
+  "name": "CoveStrip",
+  "sheet": "sheets/012_CoveStrip.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 0.5,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 13,
+  "name": "CoveStrip",
+  "sheet": "sheets/013_CoveStrip.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 0.5,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 14,
+  "name": "CoveStrip",
+  "sheet": "sheets/014_CoveStrip.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ }
+]

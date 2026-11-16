@@ -1,0 +1,2906 @@
+[
+ {
+  "idx": 1,
+  "name": "V09_0305_Cubicle",
+  "sheet": "sheets/001_V09_0305_Cubicle.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 0.61,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 0.57,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 0.57,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 0.57,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 0.62,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 0.57,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 0.59,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 2,
+  "name": "V09_0306_Toilet",
+  "sheet": "sheets/002_V09_0306_Toilet.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 0.61,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 0.53,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 0.61,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 0.57,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 0.57,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 0.54,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 0.8,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 3,
+  "name": "V09_0307_ToiletBrush",
+  "sheet": "sheets/003_V09_0307_ToiletBrush.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 0.57,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 0.82,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 6,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 0.51,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 4,
+  "name": "V09_0308_PaperHolder",
+  "sheet": "sheets/004_V09_0308_PaperHolder.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 0.74,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 0.81,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 5,
+  "name": "V09_0309_HookRail",
+  "sheet": "sheets/005_V09_0309_HookRail.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 0.8,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 0.51,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 6,
+  "name": "V09_0310_Cubicle",
+  "sheet": "sheets/006_V09_0310_Cubicle.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 0.55,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 0.55,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 0.55,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 0.96,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 0.57,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 7,
+  "name": "V09_0311_Toilet",
+  "sheet": "sheets/007_V09_0311_Toilet.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 0.61,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 0.63,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 0.54,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 0.57,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 0.57,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 0.54,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 0.8,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 8,
+  "name": "V09_0312_ToiletBrush",
+  "sheet": "sheets/008_V09_0312_ToiletBrush.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 0.57,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 0.82,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 6,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 0.51,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 9,
+  "name": "V09_0313_PaperHolder",
+  "sheet": "sheets/009_V09_0313_PaperHolder.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": true
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 0.74,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 0.81,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 10,
+  "name": "V09_0314_HookRail",
+  "sheet": "sheets/010_V09_0314_HookRail.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 0.8,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 0.56,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 0.63,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 0.56,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 0.52,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 11,
+  "name": "V09_0315_DoubleVanity",
+  "sheet": "sheets/011_V09_0315_DoubleVanity.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 0.84,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 12,
+  "name": "V09_0316_Mirror",
+  "sheet": "sheets/012_V09_0316_Mirror.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 13,
+  "name": "V09_0317_Mirror",
+  "sheet": "sheets/013_V09_0317_Mirror.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 14,
+  "name": "V09_0318_SoapDispenser",
+  "sheet": "sheets/014_V09_0318_SoapDispenser.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 15,
+  "name": "V09_0319_TowelDispenser",
+  "sheet": "sheets/015_V09_0319_TowelDispenser.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 16,
+  "name": "V09_0327_WayfindingSigns",
+  "sheet": "sheets/016_V09_0327_WayfindingSigns.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 0.59,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 17,
+  "name": "FoldedHandTowels",
+  "sheet": "sheets/017_FoldedHandTowels.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 0.72,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 0.56,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 0.72,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 18,
+  "name": "V09_0413_UtilityBulkhead",
+  "sheet": "sheets/018_V09_0413_UtilityBulkhead.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 5,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 5,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 5,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 5,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 6,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 5,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 5,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 6,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 5,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 19,
+  "name": "V09_0323_PedalBin",
+  "sheet": "sheets/019_V09_0323_PedalBin.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 0.94,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 0.53,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 0.82,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 20,
+  "name": "V09_0324_SpareRolls",
+  "sheet": "sheets/020_V09_0324_SpareRolls.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 0.92,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 0.61,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 0.66,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 0.66,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 21,
+  "name": "V09_0325_WasteSortingBins",
+  "sheet": "sheets/021_V09_0325_WasteSortingBins.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 0.64,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 0.58,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 22,
+  "name": "V09_0326_FloorDrain",
+  "sheet": "sheets/022_V09_0326_FloorDrain.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 23,
+  "name": "WD_HandDryer",
+  "sheet": "sheets/023_WD_HandDryer.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 0.64,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 0.75,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 24,
+  "name": "RoomPlate",
+  "sheet": "sheets/024_RoomPlate.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 25,
+  "name": "CoveStrip",
+  "sheet": "sheets/025_CoveStrip.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 26,
+  "name": "CoveStrip",
+  "sheet": "sheets/026_CoveStrip.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 27,
+  "name": "CoveStrip",
+  "sheet": "sheets/027_CoveStrip.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 28,
+  "name": "CoveStrip",
+  "sheet": "sheets/028_CoveStrip.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 29,
+  "name": "CoveStrip",
+  "sheet": "sheets/029_CoveStrip.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 30,
+  "name": "CoveStrip",
+  "sheet": "sheets/030_CoveStrip.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 31,
+  "name": "CoveStrip",
+  "sheet": "sheets/031_CoveStrip.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 32,
+  "name": "CoveStrip",
+  "sheet": "sheets/032_CoveStrip.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 1,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 4,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 1.0,
+    "xray": 3,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ },
+ {
+  "idx": 33,
+  "name": "V09_0007_SolidDoor8",
+  "sheet": "sheets/033_V09_0007_SolidDoor8.jpg",
+  "views": [
+   {
+    "v": 0,
+    "az": 0,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 1,
+    "az": 45,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 2,
+    "az": 90,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 3,
+    "az": 135,
+    "el": 20,
+    "ratio": 0.9,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 4,
+    "az": 180,
+    "el": 20,
+    "ratio": 0.62,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 5,
+    "az": 225,
+    "el": 20,
+    "ratio": 0.9,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 6,
+    "az": 270,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 2,
+    "flat": false
+   },
+   {
+    "v": 7,
+    "az": 315,
+    "el": 20,
+    "ratio": 1.0,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 8,
+    "az": 20,
+    "el": 62,
+    "ratio": 0.6,
+    "xray": 0,
+    "flat": false
+   },
+   {
+    "v": 9,
+    "az": 200,
+    "el": 4,
+    "ratio": 0.78,
+    "xray": 0,
+    "flat": false
+   }
+  ],
+  "blocked": 0
+ }
+]
