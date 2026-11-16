@@ -1,0 +1,582 @@
+{
+ "FilingCabinet": {
+  "operation": "f18ecc4a-dd9a-454c-b73e-3732e0c463b7",
+  "previous": "101586798211125",
+  "assetId": "82576017392048"
+ },
+ "Armchair": {
+  "operation": "4fd455dd-19bd-4bea-b718-ff75efb6fcfd",
+  "previous": "85000751781876",
+  "assetId": "118454815669538"
+ },
+ "Bookcase": {
+  "operation": "2a70b6ed-8563-4f28-bac6-d93a7d1a4eac",
+  "previous": "109244709008843",
+  "assetId": "73109613322196"
+ },
+ "CoatRack": {
+  "operation": "a435a7d0-52aa-4c6a-a92f-7da82e317adc",
+  "previous": "104426523659321",
+  "assetId": "77619592529667"
+ },
+ "FloorLamp": {
+  "operation": "e8c91610-0e23-4c41-8950-b39ba1f6b915",
+  "previous": "118430167500539",
+  "assetId": "124749742566097"
+ },
+ "WaterCooler": {
+  "operation": "4ec03ebf-e71d-46b5-8833-20941c9c2611",
+  "previous": "97000062410783",
+  "assetId": "128014548544012"
+ },
+ "HazmatSuit": {
+  "operation": "1f07dcb7-19f8-43bd-9bdf-532036f02ce2",
+  "previous": "88235138625593",
+  "assetId": "124410497411070"
+ },
+ "MaskStation": {
+  "operation": "f306b51d-8ee8-453e-9ecc-08de4c946474",
+  "previous": "106395700777713",
+  "assetId": "88834508783464"
+ },
+ "HubCase": {
+  "operation": "359a2845-1442-4396-90ff-c7ae90abac50",
+  "previous": null,
+  "assetId": "132310721061535"
+ },
+ "HubCaseMed": {
+  "operation": "8f291079-c5cd-4ff3-9fc6-d89d23c9435a",
+  "previous": null,
+  "assetId": "129722104314829"
+ },
+ "EquipmentBench": {
+  "operation": "1589ef15-5ae0-436b-b023-c94154a676d4",
+  "previous": null,
+  "assetId": "106590097867575"
+ },
+ "SuitRack": {
+  "operation": "aa4cd98e-b905-4d83-ba75-d15b7ccd4c10",
+  "previous": null,
+  "assetId": "85821721211441"
+ },
+ "MirrorFrame": {
+  "operation": "8273e91d-f28a-4149-a394-350ee3ddc9ec",
+  "previous": null,
+  "assetId": "128183900597764"
+ },
+ "Printer": {
+  "operation": "925e7984-2f1a-4477-8e25-15d2de6cc463",
+  "previous": null,
+  "assetId": "71606465229479"
+ },
+ "DecorBookRow": {
+  "operation": "14d1bd67-c870-475d-b4cc-0810c519c6f3",
+  "previous": null,
+  "assetId": "74290934054783"
+ },
+ "DecorBookStack": {
+  "operation": "222814e9-8d79-491c-9393-111b79c02071",
+  "previous": null,
+  "assetId": "108935241260835"
+ },
+ "DecorOpenBook": {
+  "operation": "aa0e323a-edc8-4973-a88e-86485f94d9ae",
+  "previous": "126643009693035",
+  "assetId": "93712319889161"
+ },
+ "DecorVase": {
+  "operation": "3de9dd14-896e-418b-ae2a-30dbaf767c3b",
+  "previous": null,
+  "assetId": "121259700393901"
+ },
+ "PlantFig": {
+  "operation": "1d69ee3b-12db-44cd-bc55-badd4098ddf7",
+  "previous": "107083274037502",
+  "assetId": "124571656067610"
+ },
+ "PlantLily": {
+  "operation": "47156a89-f9d1-4719-bf9b-c6025f18d7a3",
+  "previous": "139740862796902",
+  "assetId": "83123923253815"
+ },
+ "PlantMonstera": {
+  "operation": "c7a4515d-0e73-4ce8-ba42-99cb71a58392",
+  "previous": "72220024202971",
+  "assetId": "95411590784327"
+ },
+ "ArtFrame": {
+  "operation": "6db27f1e-ebc8-491f-a87b-c1cab899badc",
+  "previous": null,
+  "assetId": "101251491936453"
+ },
+ "WallCalendar": {
+  "operation": "054a016d-0cde-4ecd-b335-f16fec55a841",
+  "previous": null,
+  "assetId": "97868070829258"
+ },
+ "WallPlanter": {
+  "operation": "8c4ffe4c-22f9-4532-bd2c-9f358c2abbd6",
+  "previous": null,
+  "assetId": "101403958569926"
+ },
+ "DoorLever": {
+  "operation": "f2da7466-0ece-4ab7-b9ac-2faa0886fdd1",
+  "previous": null,
+  "assetId": "102854297005532"
+ },
+ "ServiceDoor": {
+  "operation": "d2abd33f-f636-472e-9c66-6d5d6b3eb7fa",
+  "previous": null,
+  "assetId": "118801342610739"
+ },
+ "VentFrame": {
+  "operation": "14b52271-c205-4f59-9c12-d048e1f7ffbd",
+  "previous": null,
+  "assetId": "94043574175376"
+ },
+ "VentLeaf": {
+  "operation": "259f172f-519d-40a5-a232-ec152f1b6c04",
+  "previous": null,
+  "assetId": "113930929976199"
+ },
+ "ErgoChair": {
+  "operation": "86998545-5413-435e-a22f-e69898a551b0",
+  "previous": null,
+  "assetId": "92173715148091"
+ },
+ "MeetingChair": {
+  "operation": "d2a02a45-392b-40d7-8554-c5fd5ffb8aa3",
+  "previous": null,
+  "assetId": "135299963903941"
+ },
+ "VisitorChair": {
+  "operation": "1d8d046c-03b3-4543-b5cb-2e4105f749c3",
+  "previous": null,
+  "assetId": "105885747317897"
+ },
+ "Keyboard": {
+  "operation": "5a4c12ef-d6a4-41ce-9e36-5d73f28fc27a",
+  "previous": null,
+  "assetId": "140494672316136"
+ },
+ "MonitorFoot": {
+  "operation": "ad2d7809-4cfd-44cc-a207-a87cd5feeb90",
+  "previous": null,
+  "assetId": "101712121079957"
+ },
+ "MonitorShell": {
+  "operation": "5e2cc12d-8c0a-40fe-be61-688a66c5f5d2",
+  "previous": null,
+  "assetId": "77585101482348"
+ },
+ "MonitorShellP": {
+  "operation": "3b9b463f-e83e-4a1a-8a8e-c7a134003147",
+  "previous": null,
+  "assetId": "120644936084509"
+ },
+ "FoldingChair": {
+  "operation": "940d5024-2942-465e-aece-d59247103bd6",
+  "previous": null,
+  "assetId": "131824739030834"
+ },
+ "Toilet": {
+  "operation": "acf86de6-6bf2-4202-8c61-7aa79c4a2e82",
+  "previous": null,
+  "assetId": "89395049285711"
+ },
+ "WallSockets": {
+  "operation": "4da00d24-fe69-481e-a568-d59b5350b0b4",
+  "previous": null,
+  "assetId": "71634323545473"
+ },
+ "ArchiveCabinet": {
+  "operation": "3bcdf843-1949-47b3-95d5-04c77b28cac4",
+  "previous": "112741821759100",
+  "assetId": "88135558198004"
+ },
+ "ArchiveDoor": {
+  "operation": "d39a43a2-6081-43a8-921f-da147b4c4325",
+  "previous": null,
+  "assetId": "84375758971510"
+ },
+ "ArchiveDoorM": {
+  "operation": "ce2f7969-52a2-491a-b6cd-ad15e3bc0dfa",
+  "previous": null,
+  "assetId": "83479991212931"
+ },
+ "GlazedCabinet": {
+  "operation": "a6efd5f1-16d8-468d-8dbe-37f1505bdfab",
+  "previous": null,
+  "assetId": "88656131858093"
+ },
+ "GlazedDoor": {
+  "operation": "68854a67-315f-49bc-999a-c9cddc11aa96",
+  "previous": null,
+  "assetId": "106214933524008"
+ },
+ "GlazedDoorM": {
+  "operation": "f31e567b-f5cb-45cb-a18d-423f9d86c1a2",
+  "previous": null,
+  "assetId": "88727920186179"
+ },
+ "ShelfLoad": {
+  "operation": "7803d371-96f4-408a-b172-51ee0b432e51",
+  "previous": null,
+  "assetId": "131895567302270"
+ },
+ "ShelfRack": {
+  "operation": "3b006a12-a4a0-4812-b020-cf8507b2b6be",
+  "previous": null,
+  "assetId": "89096915115722"
+ },
+ "CornerShelf": {
+  "operation": "b3c5d16b-6056-4335-8680-465963243bbd",
+  "previous": null,
+  "assetId": "81728950882471"
+ },
+ "FileCabinet": {
+  "operation": "129bdabb-57b9-4f5e-b029-e5b2bf101623",
+  "previous": null,
+  "assetId": "87797716674637"
+ },
+ "FileDrawer": {
+  "operation": "ed8e951d-24da-4821-ac87-b5b8cb0964ca",
+  "previous": null,
+  "assetId": "83333336854705"
+ },
+ "FormsCabinet": {
+  "operation": "36de3858-81aa-461c-a01f-c997416e8f7c",
+  "previous": "74903926519140",
+  "assetId": "118315616621099"
+ },
+ "LowCabinet": {
+  "operation": "e8457c48-9115-4eb9-93cc-367ec70a0367",
+  "previous": null,
+  "assetId": "74930813434783"
+ },
+ "LowDoor": {
+  "operation": "f8e69dcf-5fee-4277-8023-acf2eb99d393",
+  "previous": null,
+  "assetId": "99880649304397"
+ },
+ "LowDoorM": {
+  "operation": "a0b60b1a-195e-44c9-a595-3e75f6ac86ed",
+  "previous": null,
+  "assetId": "136638064511007"
+ },
+ "SortingCabinet": {
+  "operation": "a4b0de10-b57b-42cd-966f-31203c52bbe9",
+  "previous": null,
+  "assetId": "119569039127124"
+ },
+ "CoffeeBody": {
+  "operation": "c1f12578-3332-4394-8d90-b2458dc2ca67",
+  "previous": null,
+  "assetId": "122989070897552"
+ },
+ "CoffeeDoor": {
+  "operation": "d9d60652-2b7d-4207-b40f-97de057eff35",
+  "previous": null,
+  "assetId": "106857460974354"
+ },
+ "KitchenBody": {
+  "operation": "ba9e0e8d-fdb2-4bd4-9d13-b33b7f955a03",
+  "previous": null,
+  "assetId": "113274111030533"
+ },
+ "KitchenDoor": {
+  "operation": "117cab87-b9a9-43b1-826a-a48a68fb1926",
+  "previous": null,
+  "assetId": "71072593307885"
+ },
+ "KitchenDoorM": {
+  "operation": "1fefb858-f2fa-4831-ab01-e3ee8ccff21a",
+  "previous": null,
+  "assetId": "87927067088454"
+ },
+ "SideBody": {
+  "operation": "bbd4a258-fdc8-4a3c-a7d0-f4df1a8f2669",
+  "previous": null,
+  "assetId": "113365471120792"
+ },
+ "SideDoor": {
+  "operation": "151a09ae-ae1f-448f-bbf3-4b81a55dc713",
+  "previous": null,
+  "assetId": "111691908943835"
+ },
+ "SideDoorM": {
+  "operation": "3959e538-9198-4b49-a0c7-3666a14f2102",
+  "previous": null,
+  "assetId": "92322098944718"
+ },
+ "SinkDoor": {
+  "operation": "d18145c8-b37c-4fb4-938a-91a1b93d7a98",
+  "previous": null,
+  "assetId": "85960880434283"
+ },
+ "LockerBody": {
+  "operation": "1bb5b431-1326-4800-8071-2cb586b5398b",
+  "previous": null,
+  "assetId": "127146135442740"
+ },
+ "LockerDoor": {
+  "operation": "25b44e57-64b3-4be5-a8c5-410ce0f8d99a",
+  "previous": null,
+  "assetId": "107858394539694"
+ },
+ "ExtinguisherBody": {
+  "operation": "6972e04d-e516-4daf-82da-5ef5a986ed8d",
+  "previous": null,
+  "assetId": "111233720033934"
+ },
+ "ExtinguisherDoor": {
+  "operation": "ed516dbc-2ff2-4390-b0ca-8228c3c6ec0f",
+  "previous": null,
+  "assetId": "103786723737837"
+ },
+ "FireHoseBody": {
+  "operation": "e479d4f2-1e2c-4b0d-ab88-bdb3bfdc04c7",
+  "previous": "107209322298512",
+  "assetId": "137490088484389"
+ },
+ "FireHoseDoor": {
+  "operation": "b2dbba1a-ad65-43e3-aa88-a5d4053da3c3",
+  "previous": null,
+  "assetId": "122535301194842"
+ },
+ "FirstAidBody": {
+  "operation": "73422467-e4f8-443c-bc7a-9feba47a4937",
+  "previous": "132383602655827",
+  "assetId": "128698127835855"
+ },
+ "FirstAidDoor": {
+  "operation": "87fe9dde-c44a-45fb-95d0-70b627d1d855",
+  "previous": null,
+  "assetId": "79771442224942"
+ },
+ "AcSplit": {
+  "operation": "0539e112-516a-45aa-a722-1f7d2e63c1c9",
+  "previous": null,
+  "assetId": "119862572156245"
+ },
+ "AcSplitOld": {
+  "operation": "8f6a8ca2-4ee2-4e8d-bd89-9ceb1b15c717",
+  "previous": "127159341841224",
+  "assetId": "129660430309827"
+ },
+ "AcSplitWide": {
+  "operation": "ed24bcdb-26e7-40c2-8fbd-1d680889c30e",
+  "previous": null,
+  "assetId": "127182225125003"
+ },
+ "CableLoops": {
+  "operation": "97832b5d-d7e2-4d6f-b5eb-ff5b3ffc710f",
+  "previous": "112865299183707",
+  "assetId": "119432184062653"
+ },
+ "CamBullet": {
+  "operation": "5ad9e524-ce25-4ce5-bd24-b020f83b4123",
+  "previous": "118480635328456",
+  "assetId": "73829942621853"
+ },
+ "CamDome": {
+  "operation": "83c29c57-6cdd-44aa-b9a9-285297ed42d8",
+  "previous": null,
+  "assetId": "70789234313154"
+ },
+ "CrackLong": {
+  "operation": "e6ed7521-310b-4d36-9f16-218a56042794",
+  "previous": null,
+  "assetId": "113987782375746"
+ },
+ "CrackStar": {
+  "operation": "b3c94785-0b69-4b22-8968-509c818fe33d",
+  "previous": null,
+  "assetId": "85524789299585"
+ },
+ "CrackStep": {
+  "operation": "4557d7af-2663-41c4-ad78-acc04bae75ba",
+  "previous": "101211286177166",
+  "assetId": "133265493231829"
+ },
+ "DampLow": {
+  "operation": "0fc7db98-e455-4b87-b132-7532a27e2d84",
+  "previous": "117333834190722",
+  "assetId": "90368876362393"
+ },
+ "ElecPanel": {
+  "operation": "44902b69-b724-4747-b0e8-7cda27f41cc4",
+  "previous": null,
+  "assetId": "125090152408411"
+ },
+ "ElecPanelOpen": {
+  "operation": "94e2eab4-cc40-455a-8479-d48b9dc99fc1",
+  "previous": null,
+  "assetId": "93608067482061"
+ },
+ "EmergencyLamp": {
+  "operation": "df4e10e8-6b09-4bab-8e1c-0503e50cb12d",
+  "previous": null,
+  "assetId": "127561937203149"
+ },
+ "EvacPlan": {
+  "operation": "9fcc7099-aa05-4dfd-8437-965692d3088d",
+  "previous": null,
+  "assetId": "130022851671179"
+ },
+ "ExitSign": {
+  "operation": "d8f82872-72cd-4183-8039-4548ad77b68b",
+  "previous": "113076142343323",
+  "assetId": "125802329202434"
+ },
+ "FanVent": {
+  "operation": "c5d2ac4c-6fba-4ade-a23c-38e2a05b01ab",
+  "previous": null,
+  "assetId": "85444945450779"
+ },
+ "FireAlarm": {
+  "operation": "1daa2c81-338b-4711-94c7-c569ffda07ec",
+  "previous": "73487176352547",
+  "assetId": "124773829109015"
+ },
+ "FireHorn": {
+  "operation": "7e5cbe87-851a-4685-85d9-ac1194d68861",
+  "previous": null,
+  "assetId": "113909687695119"
+ },
+ "Keypad": {
+  "operation": "05800df7-3378-4ac5-9be7-b45744ed52b5",
+  "previous": null,
+  "assetId": "105463054772476"
+ },
+ "LightSwitch": {
+  "operation": "f630f3a8-29b2-48c2-b223-e3c75908cc46",
+  "previous": "125943101630828",
+  "assetId": "78095879285505"
+ },
+ "MouseHole": {
+  "operation": "13199631-e60f-4477-8c58-95b1aabfb422",
+  "previous": null,
+  "assetId": "86526046768103"
+ },
+ "PaintBlister": {
+  "operation": "77b70542-d9f6-43f6-b7af-abe2f2503ada",
+  "previous": "101492838812104",
+  "assetId": "122944604057923"
+ },
+ "PeelPatch": {
+  "operation": "26c46636-f6c0-4549-8533-c212daf794f0",
+  "previous": "121218899382821",
+  "assetId": "89092586196559"
+ },
+ "PipeRiser": {
+  "operation": "8adedbab-2089-4e77-babc-e80f1f8e2312",
+  "previous": "121233675948960",
+  "assetId": "95675880815425"
+ },
+ "PipeRun": {
+  "operation": "819056c1-1e7a-4855-a0c1-e3dce966b230",
+  "previous": "122996101292735",
+  "assetId": "99949990569252"
+ },
+ "RustDrip": {
+  "operation": "931a900d-af65-4699-88a2-95c607fa2827",
+  "previous": null,
+  "assetId": "112338183820593"
+ },
+ "Sanitizer": {
+  "operation": "614d912a-1631-4845-a3c3-992ee68b9834",
+  "previous": null,
+  "assetId": "137895960218394"
+ },
+ "ShelfBooks": {
+  "operation": "2d48e0fc-e541-433f-aaf6-ddf77814a5fb",
+  "previous": "95542029165018",
+  "assetId": "131358067424402"
+ },
+ "ShelfDecor": {
+  "operation": "e204c1d3-5fba-44df-9546-3954a8056485",
+  "previous": "104159887017069",
+  "assetId": "87301746313271"
+ },
+ "StainBloom": {
+  "operation": "da018058-9b68-405b-aa61-f7e0f6feb020",
+  "previous": "130222686793515",
+  "assetId": "127355589174376"
+ },
+ "StainStreaks": {
+  "operation": "7bd39ec7-9723-4d9d-b8f1-66b8eafea8cf",
+  "previous": null,
+  "assetId": "102588137713073"
+ },
+ "StainTide": {
+  "operation": "e1b761b1-3f86-4f71-97ca-6ccd8b4c5788",
+  "previous": "132878078690358",
+  "assetId": "103943123685186"
+ },
+ "TallyMarks": {
+  "operation": "885b5012-cee4-4f74-9655-385acb45872b",
+  "previous": null,
+  "assetId": "137463366694158"
+ },
+ "Thermostat": {
+  "operation": "e7334400-7a7f-4b15-ad5a-fbcc447574d7",
+  "previous": null,
+  "assetId": "115519566842020"
+ },
+ "VentDuct": {
+  "operation": "ab9286c4-add5-4037-935c-0e1f9e98b739",
+  "previous": null,
+  "assetId": "108666610170945"
+ },
+ "VentGrille": {
+  "operation": "d91a30b3-9be7-489a-a8c6-34887dff870e",
+  "previous": null,
+  "assetId": "76679049650661"
+ },
+ "WallHole": {
+  "operation": "eaa06e20-2705-45c9-8cf6-1a77ebf55495",
+  "previous": null,
+  "assetId": "132242722520102"
+ },
+ "WallLadder": {
+  "operation": "bab33d85-624e-4f70-a746-d2856cdf27b4",
+  "previous": null,
+  "assetId": "106263513033886"
+ },
+ "HandDryer": {
+  "operation": "ef26fe3d-c955-4232-8e73-0ff212f5ec6e",
+  "previous": null,
+  "assetId": "109763539277363"
+ },
+ "ShelfDecorB": {
+  "operation": "71b6d7e5-5f4f-4f2c-881a-1a8be96b163a",
+  "previous": null,
+  "assetId": "103635575182739"
+ },
+ "ShelfDecorC": {
+  "operation": "8a2e279a-56a7-4465-add8-261a46886d89",
+  "previous": null,
+  "assetId": "80008023302977"
+ },
+ "DocPile": {
+  "operation": "8c6df838-7337-4fb4-a00f-6168a84bd9d1",
+  "previous": "135973578135944",
+  "assetId": "139015023671858"
+ },
+ "WcMirror": {
+  "operation": "4d886671-206b-4303-aa2c-4c35a7283603",
+  "previous": null,
+  "assetId": "74582882242652"
+ },
+ "SofaCushion": {
+  "operation": "036c78ff-2bc8-42d8-9b7f-3a4a981a8723",
+  "previous": null,
+  "assetId": "130898195663123"
+ },
+ "CamCorner": {
+  "operation": "fba141c8-0632-41ef-ae00-51a506bc0193",
+  "previous": null,
+  "assetId": "129096336800882"
+ }
+}

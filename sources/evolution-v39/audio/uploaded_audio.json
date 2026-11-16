@@ -1,0 +1,80 @@
+{
+ "KONTUR_Drone": {
+  "operation": "cb43920b-2c59-49e4-b4f3-72bf46de6bd7",
+  "previous": null,
+  "assetId": "80654558041204",
+  "error": null
+ },
+ "KONTUR_Breath": {
+  "operation": "bdf7a490-e108-48be-9547-b3e85f3fe6ea",
+  "previous": null,
+  "assetId": "91589101431874",
+  "error": null
+ },
+ "KONTUR_Creak": {
+  "operation": "66787d38-c29f-47c2-a4b1-fe96284398d1",
+  "previous": "104476932463734",
+  "assetId": "138724115156551",
+  "error": null
+ },
+ "KONTUR_Footstep": {
+  "operation": "43df027f-273b-4f15-a5f2-6ff478617d09",
+  "previous": null,
+  "assetId": "79786199145798",
+  "error": null
+ },
+ "KONTUR_Heartbeat": {
+  "operation": "3c569629-18b6-44bb-8c52-6948fe2813c6",
+  "previous": null,
+  "assetId": "110906954162432",
+  "error": null
+ },
+ "KONTUR_Knock": {
+  "operation": "72a50f37-26d9-43c7-9b9c-b321cdbb13ab",
+  "previous": null,
+  "assetId": "136397848674798",
+  "error": null
+ },
+ "KONTUR_Stinger": {
+  "operation": "95e38f48-6493-4c2f-b06c-24646c4d3ae0",
+  "previous": "91616480761347",
+  "assetId": "79360252780836",
+  "error": null
+ },
+ "KONTUR_Whisper": {
+  "operation": "b768349d-da20-42a2-bab9-3cdb70b498ff",
+  "previous": null,
+  "assetId": "78197776259098",
+  "error": null
+ },
+ "KONTUR_OfficeFar": {
+  "operation": "a8847b7c-2468-4b27-b65f-c8f301c0c3be",
+  "previous": null,
+  "assetId": "114966360090642",
+  "error": null
+ },
+ "KONTUR_StingDeath": {
+  "operation": "376d3bed-0711-447b-aeb9-bdd295b54127",
+  "previous": null,
+  "assetId": "139911779012869",
+  "error": null
+ },
+ "KONTUR_StingLevel": {
+  "operation": "4fb5d17c-bb84-4573-a360-a05908c32572",
+  "previous": null,
+  "assetId": "88934218665889",
+  "error": null
+ },
+ "KONTUR_StingWrong": {
+  "operation": "476f570d-c727-43ab-a111-60fedc142ab9",
+  "previous": null,
+  "assetId": "136086973925180",
+  "error": null
+ },
+ "KONTUR_Vent": {
+  "operation": "86bfe149-3b90-46ef-a923-c6275bc25042",
+  "previous": null,
+  "assetId": "101860601187667",
+  "error": null
+ }
+}
